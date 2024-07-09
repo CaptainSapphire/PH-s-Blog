@@ -1,4 +1,4 @@
-# How to upload a CD/DVD to a Microsoft OS Comuputer using an External ODD & HDD Device
+# How to upload a CD/DVD to a Microsoft OS Computer using an External ODD & HDD Device
 ### It's a long title, but relatively simple, trust me! <br>
 **First**, ensure your device is plugged in to your computer. There should be a little light that comes on when you plug it in. <p></p>
 **Second**, create the location you want to copy the CD/DVD onto on your device. If you do not know where to put it, continue reading this section.<p></p>
