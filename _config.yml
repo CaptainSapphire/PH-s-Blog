@@ -1,5 +1,5 @@
 title: PH's Blog
 description: A blog I am starting on my computer science journey
 url: "https://captainsapphire.github.io"
-baseurl: ""
+baseurl: "/PH-s-Blog"
 theme: minima
