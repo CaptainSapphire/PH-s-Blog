@@ -1,5 +1,5 @@
-title: My Blog
-description: My awesome blog
-baseurl: "" # the subpath of your site, e.g., /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
-theme: jekyll-theme-midnight # default theme
+title: Priya Harrys Blog
+description: A Computer Science Journey
+url: "https://yourusername.github.io"
+baseurl: "" # Leave this empty unless you are serving from a subdirectory
+theme: jekyll-theme-cayman # You can change this to
