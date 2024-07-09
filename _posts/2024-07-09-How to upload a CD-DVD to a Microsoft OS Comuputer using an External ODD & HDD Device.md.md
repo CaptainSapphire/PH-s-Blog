@@ -13,4 +13,4 @@ Follow that by placing your CD/DVD into the tray, with the design of the object 
 That is where your data is being put! <p></p>
 <p>Now go brew some coffee, take a minute to let your information upload to the system. </p>
 <p>Once it is done, the external device's fan should turn off, and the light will turn off (though it might not stay off forever given power is running to it). </p>
-
+(/assets/images/IMG-3175.jpg "External ODD and HDD Device")
