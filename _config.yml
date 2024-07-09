@@ -1,5 +1,5 @@
-title: Priya Harrys Blog
-description: A Computer Science Journey
-url: "https://yourusername.github.io"
-baseurl: "" # Leave this empty unless you are serving from a subdirectory
-theme: jekyll-theme-cayman # You can change this to
+title: PH's Blog
+description: A blog I am starting on my computer science journey
+url: "https://captainsapphire.github.io"
+baseurl: "" # leave empty unless you are serving from a subdirectory
+theme: minima
