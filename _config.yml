@@ -1,5 +1,6 @@
-title: PH's Blog
-description: A blog I am starting on my computer science journey
+theme: "minima"
+title: "PH's Blog"
+author: "Priya Harry"
+description: "A blog I am starting on my computer science journey"
 url: "https://captainsapphire.github.io"
 baseurl: "/PH-s-Blog"
-theme: minima
