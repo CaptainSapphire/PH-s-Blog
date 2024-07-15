@@ -1,15 +1,12 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-</head>
-<body>
-  <header>
-    <h1>{{ site.title }}</h1>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-</body>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <section class="main-content">
+      {{ content }}
+      {% include footer.html %}
+    </section>
+  </body>
 </html>
