@@ -13,7 +13,7 @@ To rename, simply right click on a file, and press "rename."
 <br><br> 
 **Third**, press the button on your external ODD & HDD device. The tray should then pop outwards. <br><br> 
 Follow that by placing your CD/DVD into the tray, with the design of the object facing upwards, and the holographic side facing down. <br><br> 
-****THIS IS IMPORTANT!****: Ensure your CD/DVD is clicked into the middle bit of the tray. If you close it and the device starts beeping at you, you did it wrong.<br><br>
+**THIS IS IMPORTANT!**: Ensure your CD/DVD is clicked into the middle bit of the tray. If you close it and the device starts beeping at you, you did it wrong.<br><br>
 **Fourth**, navigate back to your device. If you go to the area below your pins, under "This PC" and whatnot of the side navigation, you should see a CD icon appear.
 That is where your data is being put! <br><br> 
 Now go brew some coffee, take a minute to let your information upload to the system. <br><br> 
