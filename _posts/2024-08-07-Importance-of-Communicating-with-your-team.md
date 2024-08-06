@@ -1,3 +1,10 @@
+---
+layout: post
+title: "The Importance of Communicating with Your Team"
+date: 2024-08-07 12:00:00 -0000
+categories: blog
+---
+
 # The Importance of Communicating with Your Team
 
 Recently, I completed a week of marching band camp. For some context, I have been a part of the marching band for four years now, 
