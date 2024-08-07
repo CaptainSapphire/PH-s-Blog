@@ -21,9 +21,9 @@ Telling them you're wrong as well!
 As a leader and a fellow marcher, it's core to acknowledge your mistakes to your team, so they can understand you and learn from them. 
 One solid example of this was telling them stories of **my** freshman year.
 
-My freshman year, we were required to learn the school theme, or the *Notre Dame Victory March*. In all honestly, I was unable to learn it fully by the first football game! However, I learned two major lessons at that moment:
+My freshman year, we were required to learn the school fight song, or the *Notre Dame Victory March*. In all honestly, I was unable to learn it fully by the first football game! However, I learned two major lessons at that moment:
 1. The band has your back. If you are sick, the other members will do their best to aid you in catching up or covering if you're struggling with the very new music. Trusting your team in and out of band is an important part of immersing yourself in your working environment.
-2. New things are difficult! It took a lot more effort to engrain that into my memory than I initially put on, and giving myself that room to grow and understand that change isn't going to be easy made the actual process much, much simplier.
+2. New things are difficult! It took a lot more effort to ingrain that into my memory than I initially put on, and giving myself that room to grow and understand that change isn't going to be easy made the actual process much, much simplier.
 
 Amongst that whole learning story, I could have lied to my section and told them I was confident with the march. However, by honestly communicating and openly discussing things with your team, you teach them what you've learned. Additionally, you hear their input on where they are at. Do they need more aid with this part of the music, or is it their marching that they want to focus on? 
 By demonstrating to your team you are human too, you make it more comfortable to talk to you.
