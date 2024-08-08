@@ -15,6 +15,19 @@ header {
 header h1 {
   margin: 0;
 }
+nav {
+background-color: #1D3557;
+}
+
+nav a {
+  display: inline-block;
+  min-width: 9rem;
+  padding: 0.5rem;
+  /*border-radius: 0.2rem;*/
+  border: solid 1px #E63946;
+  text-decoration: none;
+  color: #E63946;
+}
 
 nav ul {
   list-style: none;
