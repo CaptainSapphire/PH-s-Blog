@@ -1,10 +1,19 @@
+html {
+  height: 100%;
+}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
+  height: 100%;
   box-sizing: border-box;
 }
+
+.content {
+      flex: 1; /* This makes the content area take up the remaining space */
+    }
 
 header {
   background-color: #1D3557;
