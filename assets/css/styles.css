@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background: #333;
+  background-color: #1D3557;
   color: #fff;
   padding: 1rem;
 }
@@ -32,16 +32,22 @@ nav a {
 nav ul {
   list-style: none;
   padding: 0;
+  background-color: #1D3557;
+  color: #E63946;
 }
 
 nav ul li {
   display: inline;
   margin-right: 1rem;
+  background-color: #1D3557;
+  color: #E63946;
 }
 
 nav ul li a {
   color: #fff;
   text-decoration: none;
+  background-color: #1D3557;
+  color: #E63946;
 }
 
 main {
