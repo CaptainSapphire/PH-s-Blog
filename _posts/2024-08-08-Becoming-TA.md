@@ -1,3 +1,9 @@
+---
+layout: post
+title: " Becoming TA - How I made it last minute!"
+date: 2024-08-08 12:00:00 -0000
+categories: blog
+---
 # Becoming TA - How I made it last minute!
 
 Pulling into the parking lot of my high school, I had one clear goal, one item on the to-do list: convince the new computer science teacherto let me be the TA of the A.P. Computer Science Principles.
