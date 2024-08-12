@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first week back to High School as a Senior: How did it go?"
-date: 2024-08-13 12:00:00 -0000
+date: 2024-08-12 12:00:00 -0000
 categories: blog
 ---
 # My first week back to High School as a Senior: How did it go?
