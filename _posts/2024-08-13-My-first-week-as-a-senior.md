@@ -1,3 +1,9 @@
+---
+layout: post
+title: "My first week back to High School as a Senior: How did it go?"
+date: 2024-08-13 12:00:00 -0000
+categories: blog
+---
 # My first week back to High School as a Senior: How did it go?
 
 Senior year has finally rolled around! Many of us are ready for it, while others dread it. But where do I fall? <br><br>
