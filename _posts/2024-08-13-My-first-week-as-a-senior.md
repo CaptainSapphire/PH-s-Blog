@@ -20,3 +20,5 @@ The individual impressions are not too crazy, but here's how my schedule is look
 8. Marching band (8th per. sport) - I am enthusiastic in terms of the season. My section is preparing quite well, and I'm proud of the progress we've made thus far.
 <br><br>
 In terms of advice, I would say don't give too much or too little thought to anything. Senior year is important as the rest of your years, but it won't be the end-all-be-all, either. "You've got this!," to quote the AP precalc. summer work videos :)
+
+!["School Graphic"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/blogimageschool.png?raw=true)
