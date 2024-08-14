@@ -30,3 +30,4 @@ I learned how to make a staff website with Google Sites, and how to gauge what i
 Thank you to everyone who reads and supports this blog, I know uploads can be irregular due to schoolwork. :)
 
 [<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/image%20(1).png?raw=true">](https://sites.google.com/opusd.us/mr-sanchez/home)
+*Click to view the website.*
