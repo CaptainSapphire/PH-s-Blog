@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Making a website for my second T.A. assignment"
+date: 2024-08-14 12:00:00 -0000
+categories: blog
+---
 # Making a website for my second T.A. assignment
 
 Walking into AP Computer Science as a TA, the teacher asks me: "Can you make a site?" <br><br>
