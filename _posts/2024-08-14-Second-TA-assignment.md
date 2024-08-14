@@ -29,4 +29,4 @@ That is what I personally was considering adn implementing as I made the site, s
 I learned how to make a staff website with Google Sites, and how to gauge what is important to include in this sort of project. <br><br>
 Thank you to everyone who reads and supports this blog, I know uploads can be irregular due to schoolwork. :)
 
-[<>](https://sites.google.com/opusd.us/mr-sanchez/home)
+[<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/image%20(1).png?raw=true">](https://sites.google.com/opusd.us/mr-sanchez/home)
