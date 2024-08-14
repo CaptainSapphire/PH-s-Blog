@@ -23,4 +23,10 @@ First, make all the pages to organize how you want the information to be laid ou
 As you fill in all the necessary details, think of the consumer, or potential viewers. Students and staff alike will need to email him, so it should be at the front of the home page. 
 Parents will want descriptions of each class and what it entails (so add the syllabus.) Students could be curious as to what the teacher is like, so add an About Me. 
 Students will need a way to access their resources later, and scrolling through Google Classroom isn't really efficient. <br><br>
-That is what I personally was considering adn implementing as I made the site, but
+That is what I personally was considering adn implementing as I made the site, so I reccomend keeping such in mind as you make yours- just a friendly tidbit of advice. 
+
+## What did I learn?
+I learned how to make a staff website with Google Sites, and how to gauge what is important to include in this sort of project. <br><br>
+Thank you to everyone who reads and supports this blog, I know uploads can be irregular due to schoolwork. :)
+
+[<>](https://sites.google.com/opusd.us/mr-sanchez/home)
