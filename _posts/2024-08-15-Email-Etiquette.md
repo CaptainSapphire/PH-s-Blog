@@ -21,7 +21,7 @@ you care about the individual you are emailing.
 As previously stated, people want to skim emails to get the point rather than read long, over the top essays. By organizing it by block, you adjust
 the readability to be more concise, and you make it easier to respond to. 
 
-# 5 A Transition line & Closing
+# 5: A Transition line & Closing
 Ending with "Thank you for your time." and heading at the bottom with "Respectfully," or "Warmly," with an indent followed by your name is just standard procedure. 
 ```
 Dear reader, 
