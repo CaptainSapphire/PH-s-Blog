@@ -16,3 +16,5 @@ GNP = citizenship, I am a Spanish citizen, so I am contributing to the GNP to Sp
 **Bonus**
 If you're a citizen in two locations, your GNP is going to be contributed 50/50. 
 Today was a relatively short blog post as I have a Scrimmage I am performing in, however, I am grateful you continue to read nonetheless. 
+
+!["GDP cartoon"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202024/Screenshot%202024-08-15%201.04.27%20PM.png?raw=true)
