@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Proper Email Etiquette"
+date: 2024-08-15 12:00:00 -0000
+categories: blog
+---
 # Proper Email Etiquette
 
 Email etiquette can be a hassle at times and nerve-wracking at others. My English teacher reviewed email etiquette as a review in class, and I figured it would be a good post to share, 
