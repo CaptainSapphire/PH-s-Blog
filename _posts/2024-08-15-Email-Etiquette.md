@@ -9,7 +9,7 @@ categories: blog
 Email etiquette can be a hassle at times and nerve-wracking at others. My English teacher reviewed email etiquette as a review in class, and I figured it would be a good post to share, 
 either as a necessary resource, or a helpful reminder.
 
-!["Email icon"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/august/Screenshot%202024-08-15%208.33.44%20AM.png?raw=true)
+!["Email icon"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202024/Screenshot%202024-08-15%208.33.44%20AM%20(1).png?raw=true)
 
 # 1: The right subject line
 It should be clear, short, concise, relevant, and professional. If a subject line doesn't read correctly, many professors and teachers won't click on the email at all.
