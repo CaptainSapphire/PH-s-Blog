@@ -21,7 +21,7 @@ To be honest, just go with your gut. It depends on the relationship you have wit
 in regards to a group assignment. If you're addressing a stranger or a person of respect, then "dear' works best. Ensure you use their correct title in correspondence
 such as Ms./Mr./Mrs. (If in doubt about a woman’s marriage status, use Ms.)
 
-# 3: A kind Welcome
+# 3: A Kind Welcome
 This step is the simplest. "I hope your week has been going well!" or something of the sort is all you need. It sets your tone for the email and demonstrates
 you care about the individual you are emailing. 
 
