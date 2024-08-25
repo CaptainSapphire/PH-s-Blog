@@ -32,10 +32,10 @@ For some context, several factors made us increasingly nervous in comparison to 
 | Pit | 0 | 4 |
 As demonstrated by the table above, some sections are more concentrated in their lowerclassmen numbers, meaning in terms of marching and amount of performances, there are fewer members. Many of the older members were nervous as well, to be fair. <br><br>
 
-## The performance itself
+## The performance itself: An analysis
 As we sauntered onto the football field, the bumbling of the crowd gradually fell silent. Looking back, we certainly had some flaws in our performance. We fell out of time as a section between the trumpets and clarinets, and our dynamics were lackluster. However, I cannot help but be proud. We had no GACs for our first time, and we were still new as a group to the marching band show. We did well given our conditions and certainly put on a show. 
 <br><br> 
-# What did I learn? 
+## What did I learn? 
 I learned the value in working as a team with everyone during practices, and how that brought us to where we are. I learned that, even in my senior year, I can still feel nervous! Finally, I learned that we have a solid shot at championships. :)
 Thank you for reading, as always. 
 
