@@ -39,4 +39,4 @@ As we sauntered onto the football field, the bumbling of the crowd gradually fel
 I learned the value in working as a team with everyone during practices, and how that brought us to where we are. I learned that, even in my senior year, I can still feel nervous! Finally, I learned that we have a solid shot at championships. :)
 Thank you for reading, as always. 
 
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202024/IMG_3883.jpg?raw=true" width="800" height="600" />
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202024/IMG_3883.jpg?raw=true" width="1200" height="1000" />
