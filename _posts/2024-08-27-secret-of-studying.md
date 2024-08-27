@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The Secret behind Studying"
+date: 2024-08-27 12:00:00 -0000
+categories: blog
+---
 # The Secret Behind Studying
 
 Senior year. I've learned a lot of things, but one of the most important I am about to share with all of you. Mind blown!
