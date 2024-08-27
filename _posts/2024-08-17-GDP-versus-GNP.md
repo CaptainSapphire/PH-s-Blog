@@ -1,3 +1,9 @@
+---
+layout: post
+title: GDP versus GNP"
+date: 2024-08-17 12:00:00 -0000
+categories: blog
+---
 # GDP versus GNP
 
 What is the difference between these two terms? Where do we look at them?<br><br>
