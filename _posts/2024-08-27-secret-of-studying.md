@@ -15,6 +15,9 @@ These discussions and this out-loud explanation landed me a higher score on my e
 To study for an APPC quiz, I did some practice problems, wrote a lesson for a blog post, and read over my notes. Despite more time being dedicated, and having various techniques, the a
 APPC quiz did more poorly.
 
+!["APPC Quiz"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202024/Screenshot%202024-08-27%201.55.46%20PM.png?raw=true)
+!["Economics Test"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202024/Screenshot%202024-08-27%201.56.00%20PM.png?raw=true)
+
 # Some of Playing the Devil's Advocate
 There are a variety of things that would affect these two subjects. For one, I struggled in APPC, and it's a new class, so the materials haven't been adjusted to be maximized for students.
 My economics teacher has us verbally participate in every class when we do lessons, while APPC lessons are videos. My point is, that there are a variety of variables that could affect this "experiment." <br><br>
