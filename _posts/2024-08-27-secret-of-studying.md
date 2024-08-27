@@ -1,8 +1,7 @@
 # The Secret Behind Studying
 
 Senior year. I've learned a lot of things, but one of the most important I am about to share with all of you. Mind blown!
-<br><br><br>
-
+<br>
 # Some Data
 <a href="https://uwaterloo.ca/news/news/study-finds-reading-information-aloud-yourself-improves"> According to a study done by the University of Waterloo, "You are more likely to remember something if you read it out loud." </a>
 
