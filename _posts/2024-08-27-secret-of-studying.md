@@ -16,5 +16,16 @@ To study for an APPC quiz, I did some practice problems, wrote a lesson for a bl
 APPC quiz did more poorly.
 
 # Some of Playing the Devil's Advocate
-There are a variety of things that would affect these two subjects. For one, I struggled in APPC, and it's a new class, so the materials haven't been adjusted to be maximized to students.
-My economics teacher has us verbally participate in every class when we do lessons, while APPC lessons are videos. 
+There are a variety of things that would affect these two subjects. For one, I struggled in APPC, and it's a new class, so the materials haven't been adjusted to be maximized for students.
+My economics teacher has us verbally participate in every class when we do lessons, while APPC lessons are videos. My point is, that there are a variety of variables that could affect this "experiment." <br><br>
+The methods I used for APPC still gave me a solid score on the quiz, however, from this experience, vobally expressing the lesson is the best secret to studying. <br>
+
+# The Rest of the Story and Data
+Albert Einstein — 'You do not really understand something unless you can explain it to your grandmother.'
+<br>
+Explaining a lesson aloud doesn't just help you remember things better. It demonstrates your understanding of said lesson. If you can't explain it, you don't understand it. 
+<br><br>
+It seems so simple, but in all actuality, most students don't seem to know this. In fact, 4/5 surveyed around me take their confidence in receiting the notes as complete understanding in the subject. 
+
+# Concluding thoughts
+I believe my case has been made enough, that the secret to studying to verbally practicing/reviewing the material. However, I understand some subjects it will be more difficult to implement this. Either way, give it a shot. Worst case scenario, you spend more time studying, just in a different way. Thank you for reading, and as always, I'll see you next time :)
