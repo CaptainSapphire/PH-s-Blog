@@ -1,3 +1,9 @@
+---
+layout: post
+title: "First Football Game of the Year: I was nervous!"
+date: 2024-08-24 12:00:00 -0000
+categories: blog
+---
 # First Football Game of the Year: I was nervous!
 
 Performances are not uncommon, by your senior year of high school. However, for our show, The Moon Race, there was reason for fear.<br><br>
