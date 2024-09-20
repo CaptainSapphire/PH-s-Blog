@@ -22,4 +22,4 @@ We kicked off with a warm up, and I worked with a social media member to get a p
 <br><br>
 Taking a step outside and getting hit with rays of light gave me hope for a light performance. After we took senior photos, we walked to the cafeteria (which was right around the corner) and set up to play *Fireball*. The cafeteria ladies gathered outside to watch as we played for all of the students who entered the gym. We followed that with *Seven Nation Army,* and lastly *Land of 1000 Dances*. It was relatively as you'd expect. 
 <br><br>
-The loud environment of the rally is unchanging throughout the years. The actual lights are off, replaced by the green and yellow party ones. 
+The loud environment of the rally is unchanging throughout the years. The actual lights are off, replaced by the green and yellow party ones.  
