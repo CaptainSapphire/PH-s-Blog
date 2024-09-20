@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Fall Rally"
+date: 2024-09-20 12:00:00 -0000
+categories: blog
+---
+
 # The Fall rally is coming up!
 On Friday, the first rally of the year is happening at my school. But, why is this relevant to me?
 
