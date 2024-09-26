@@ -11,6 +11,6 @@ On Monday, the NHS Mulching Volunteer event signups opened, and I signed up. Bec
 
 
 ## The Event Itself
-
+With a temperature of 64-70°f, the all-black was not the best attire to wear. However, I was preoccupied with concert preparations and was required to wear a band polo to promote the program. My poor choice of footwear was not ideal either, but you've gotta take it in stride. 
 
 ## A Reflection
