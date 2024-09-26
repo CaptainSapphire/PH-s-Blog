@@ -11,6 +11,6 @@ On Monday, the NHS Mulching Volunteer event signups opened, and I signed up. Bec
 
 
 ## The Event Itself
-With a temperature of 64-70°f, the all-black was not the best attire to wear. However, I was preoccupied with concert preparations and was required to wear a band polo to promote the program. My poor choice of footwear was not ideal either, but you've gotta take it in stride. 
+With a temperature of 64-70°f, the all-black was not the best attire to wear. However, I was preoccupied with concert preparations and was required to wear a band polo to promote the program. My poor choice of footwear was not ideal either, but you've gotta take it in stride. Speaking of stride, I walked from the band room to the tennis courts, with a pile of mulch about the height of the average middle schooler sitting in a couple of parking spots, off to the side of the lot. I approached the white truck, and signed in. I was directed to shovel mulch into barrels. Other students will take the mulch and take it to a section where more volunteers will reap it into the soil. <br><br>
 
 ## A Reflection
