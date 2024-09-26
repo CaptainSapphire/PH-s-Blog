@@ -24,5 +24,5 @@ I was given gardening gloves, a mask (I doubt I've worn one since COVID), and a 
 
 ## A Reflection
 I got my NHS credit, and I did my portion of labor. However, there's always something to learn. I learned what mulching is, and the most efficient way to shovel it. (Tip: Use gloves to remove any branches so the dirt of the mulch can be shoveled with more ease.) Additionally, I see the enjoyment in pure exercise, as strange as it sounds. In marching band, there's much more to think about, but with this activity, there wasn't a lot more besides "shovel dirt, place dirt." <br><br>
-Well, thank you for reading and...
+Well, thank you for reading and...<br><br>
 !["Happy Mulching!"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202024/Screenshot%202024-09-26%2012.43.06%20PM.png?raw=true)
