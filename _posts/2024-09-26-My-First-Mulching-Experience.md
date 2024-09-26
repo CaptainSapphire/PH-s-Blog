@@ -11,8 +11,9 @@ On Monday, the NHS Mulching Volunteer event signups opened, and I signed up. Bec
 
 
 ## The Event Itself
-With a temperature of 64-70°f, the all-black was not the best attire to wear. However, I was preoccupied with concert preparations and was required to wear a band polo to promote the program. My poor choice of footwear was not ideal either, but you've gotta take it in stride. Speaking of stride, I walked from the band room to the tennis courts, with a pile of mulch about the height of the average middle schooler sitting in a couple of parking spots, off to the side of the lot. I approached the white truck and signed in. I was directed to shovel mulch into barrels. Other students will take the mulch and take it to a section where more volunteers will reap it into the soil. <br><br>
+With a temperature of 64-70°f, the all-black was not the best attire to wear. However, I was preoccupied with concert preparations and was required to wear a band polo to promote the program. My poor choice of footwear was not ideal either, but you've gotta take it in stride. <br><br>
+Speaking of stride, I walked from the band room to the tennis courts, with a pile of mulch about the height of the average middle schooler sitting in a couple of parking spots, off to the side of the lot. I approached the white truck and signed in. I was directed to shovel mulch into barrels. Other students will take the mulch and take it to a section where more volunteers will reap it into the soil. <br><br>
 I was given gardening gloves, a mask (I doubt I've worn one since COVID), and a rake. From 3:30-4:00pm, I was shoveling. It was nice to do physical work, strangely enough. I see the fulfillment that can be achieved from going to the gym through this activity.
 
 ## A Reflection
-I got my credit, and I did my half. 
+I got my NHS credit, and I did my portion of labor. However, there's always something to learn. I learned what mulching is, and the most efficient way to shovel it. (Tip: Use gloves to remove any branches so the dirt of the mulch can be shoveled with more ease.) Additionally, I see the enjoyment in pure exercise, as strange as it sounds. In marching band, there's much more to think about, but with this activity, there wasn't a lot more besides "shovel dirt, place dirt." Thank you for reading and....
