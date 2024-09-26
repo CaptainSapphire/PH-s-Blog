@@ -1,3 +1,10 @@
+---
+layout: post
+title: "My First Mulching Experience: How did it go?"
+date: 2024-09-26 12:00:00 -0000
+categories: blog
+---
+
 # My First Mulching Experience: How did it go?
 
 ## What is Mulching
