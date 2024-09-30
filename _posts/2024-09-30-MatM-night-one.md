@@ -23,8 +23,8 @@ The two emcees of that night were Ava Winkle and Gal Yelinek, two choir students
 more proud. 
 <br>
 All of a sudden, Mr. Borquez (Music Director) appeared and asked Ava Winkle to come sing the Star Spangled Banner. This was not planned, and I jumped in as emcee for a few minutes. I wasn't the smoothest, but I was ready. I think with more practice perhaps I could get the hang of improv and livestreaming, but for now, I will stick to videos. 
-
-
+[!["Thumbnail of livestream"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202024/Screenshot%202024-09-30%201.40.11%20PM.png?raw=true)](https://www.youtube.com/watch?v=_GpMPi6GcXs)
+*click on image to see livestream.*
 
 # The Performances
 
