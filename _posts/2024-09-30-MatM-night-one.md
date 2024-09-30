@@ -24,8 +24,14 @@ more proud.
 <br>
 All of a sudden, Mr. Borquez (Music Director) appeared and asked Ava Winkle to come sing the Star Spangled Banner. This was not planned, and I jumped in as emcee for a few minutes. I wasn't the smoothest, but I was ready. I think with more practice perhaps I could get the hang of improv and livestreaming, but for now, I will stick to videos. 
 [!["Thumbnail of livestream"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202024/Screenshot%202024-09-30%201.40.11%20PM.png?raw=true)](https://www.youtube.com/watch?v=_GpMPi6GcXs)
-*click on image to see livestream.*
+<br>
+*Click on the image to see Livestream.*
+<br><br>
+The rest of the night was much less eventful. I was filling in for the historians as I got pictures of the performances. (Historians is a group in student leadership that goes to OPM events and takes pictures. Typically, we want two historians, but one had a family event last minute.)
 
 # The Performances
+I genuinely enjoyed many of the songs and performances. I can feel the love, time, and effort that the Concert Band and Wind Symphony put on. My favorites would be *Arabian Nights* and the *La La Land Medley.* Arabian Nights had varying dynamics, making it an interesting listen. 
 
 # A Reflection
+Outside of all of the running around, it was a regular concert. At some point, the camera got knocked down, but AV/Tech handled it swiftly so I'm happy for them. I'm fortunate to have had the privilege to attend. The ride home was a little dark, and my first time driving past sundown, but as I said, I am content. <br><br>
+Thank you!
