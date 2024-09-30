@@ -21,7 +21,10 @@ worked with AV/Tech to get that updated version on screen for them in case they 
 I ran over to the Pavilion (where the performances are held, and the concessions) and asked the parent volunteers (who are in charge of OPIMA and our funds) if there was anything they'd like to promote. They said to direct viewers to the parent volunteer link on the website. I added this to the emcee doc, and let the emcees know. I grabbed them their programs, and we were live.
 The two emcees of that night were Ava Winkle and Gal Yelinek, two choir students. You could tell they were a little nervous, but they did wonderfully and I couldn't be
 more proud. 
+!["Picture with Emcee"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202024/Screenshot%202024-09-30%201.55.41%20PM.png?raw=true)
 <br>
+*Here is the picture I got with Ava Winkle, the emcee.*
+<br><br>
 All of a sudden, Mr. Borquez (Music Director) appeared and asked Ava Winkle to come sing the Star Spangled Banner. This was not planned, and I jumped in as emcee for a few minutes. I wasn't the smoothest, but I was ready. I think with more practice perhaps I could get the hang of improv and livestreaming, but for now, I will stick to videos. 
 [!["Thumbnail of livestream"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202024/Screenshot%202024-09-30%201.40.11%20PM.png?raw=true)](https://www.youtube.com/watch?v=_GpMPi6GcXs)
 <br>
@@ -34,4 +37,4 @@ I genuinely enjoyed many of the songs and performances. I can feel the love, tim
 
 # A Reflection
 Outside of all of the running around, it was a regular concert. At some point, the camera got knocked down, but AV/Tech handled it swiftly so I'm happy for them. I'm fortunate to have had the privilege to attend. The ride home was a little dark, and my first time driving past sundown, but as I said, I am content. <br><br>
-Thank you!
+Thank you for reading!
