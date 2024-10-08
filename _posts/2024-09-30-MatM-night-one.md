@@ -5,7 +5,7 @@ If you do not already know, I am in the Oak Park Music Program,
 working in student leadership as the IMC (Student Band Leadership) President. This means I must attend all of the performances put on by the 
 OPM Program. So, I came to help at the first night of Music at the Movies, where the Concert Band and Wind Symphony were performing. 
 <br><br>
-Music at the Movies is a different type of concert the OPM Program puts on. The following differences sets it apart from other concerts?
+Music at the Movies is a different type of concert the OPM Program puts on. The following differences sets it apart from other concerts:
 - It is the only one where entry is charged. 20$ for adults, 5$ for students (with school ID).
 - Only tunes from Movies/Media are played.
 - A screen behind the performers playing video from said media.
