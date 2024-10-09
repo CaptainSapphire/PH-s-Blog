@@ -12,3 +12,6 @@ bookmarks
 museum
 
 # Final Thoughts
+
+
+!["Email"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/Screenshot%202024-10-09%209.43.29%20AM.png?raw=true)
