@@ -66,5 +66,9 @@ The two of them are holding hands as the angrily look down/as they fall. Aqua tr
 - **Destined, defining, fated**: As they sing destined, defining, fated love, the the roles (from the play) of the four seen in the previous shot stand (plus the other two actors). Destined love would be that acting brought them together, like it's *destiny*. Defining, meaning Any process serving to define the shape of something, would be the experiences that shaped the main four. Fated would be Kana and Akane's fated rivalry, as their acting styles, personalities, futures, past, and characters are natural foils and directly contrast each other. 
 - **Inevitable, Certain, Eternal love**: This is a shot of the new members of B Komachi together. Inevitable meaning it was bound for them to come together, and love each other. Certain meaning fixed or inevitable, with the three of them still together. Eternal, is only a shot of Ruby. Ruby will eternally love idols and especially Ai, as seen in the literal case, where she died and brought it back. 
 
+### 1:18mins-1:30mins
+The scene where Princess Saya dies in the play is a difficult one to master at rehersals, as Aqua struggles to call upon specific emotions, seen in the episode where Akane learns the truth. The resolution to the OP is this scene being performed successfully. We suddenly flash to every, up and bowing, as the performance has ended. Everyone in this together, as Ai smiles from the crowd. <br>
+This smile of hers is perhaps how they are getting closer to the truth, or it lingers in the audience of the play. 
 
-## Analyzing the Lyrics
+## Wow that was a lot!
+Indeed it was. Lyrical analysis and analysis of the star or the roles in the play can be another blog post for another day. I'll finish and upload this post once I finish the season and my analysis is complete. 
