@@ -18,12 +18,16 @@ I will be looking at this from a literary perspective, keeping what I've learned
 - **Akane versus Kana**: The two of them raise swords at each other as they stand under a bridge together. This symbolizes their outer conflict, as their rivalry is a focus point at the start of S2. The swords in their hands are the swords from the play they are in together, showing how they use the play as a tool for their rivalry.
 !["Akane and Kana"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/oshi-no-ko-assets/3.png?raw=true)
 - **Sayuka and Melt**: The two boys are actors in the play, with mild inner conflicts. Melt did horribly on Sweet Today, and that shows in his drive to improve. Sayuka struggles personally as well, though I am less sure as to what, as my focus on this season isn't on this character. Sayuka looks from the light to the shade, symbolizing he's willing to look at the issues in his acting to improve.
-
+!["Melt?"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/oshi-no-ko-assets/4.png?raw=true)
 - **Taiki**: Taiki is a quiet prodigy, amazing at acting but otherwise not very social- hence the hood and the fact he's also under the bridge.
-- **Sumiaki, Goa, and Toshiro**: The adults in control of the play. They turn and look at the camera, implying that they are there perhaps to keep an eye, or that all eyes are on the cast of the play. 
-- **Mem-Cho**: She looks downward to the camera with a smile, and another member of the introduction who isn't under the bridge. She's in the public eye, same as the adults running the play, which is perhaps why she is not under the bridge. 
-- <mark>**UNSURE**: We get a close shot of a girl smiling, and I couldn't find anything about her on the wiki. I have yet to see something, or I am forgetting something. Mem-cho stands in the middle of the supporting characters- or the characters who support the main cast in their own ways.
-From the looks of it, the main cast in the play are in under the bridge. The bridge could be the pressure of the play or the fact the public doesn't see what happens behind the scenes of these actors.  </mark>
+!["Taiki under the bridge"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/oshi-no-ko-assets/5.png?raw=true)
+- **Sumiaki, Goa, and Toshiro**: The adults in control of the play. They turn and look at the camera, implying that they are there perhaps to keep an eye, or that all eyes are on the cast of the play.
+!["Adults"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/oshi-no-ko-assets/6.png?raw=true)
+- **Mem-Cho**: She looks downward to the camera with a smile, and another member of the introduction who isn't under the bridge. She's in the public eye, same as the adults running the play, which is perhaps why she is not under the bridge.
+!["Mem-Cho"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/oshi-no-ko-assets/7.png?raw=true)
+- <mark>**UNSURE**: We get a close shot of a girl smiling, and I couldn't find anything about her on the wiki. I have yet to see something, or I am forgetting something. Mem-cho stands in the middle of the supporting characters- or the characters who support the main cast in their own ways.</mark>
+!["Mem-Cho with group"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/oshi-no-ko-assets/8.png?raw=true)
+From the looks of it, the main cast in the play are in under the bridge. The bridge could be the pressure of the play or the fact the public doesn't see what happens behind the scenes of these actors.
 <br><br>
 <mark>Then, we get a visual of Aqua and Ruby on a small platform that has stairs on the side. This is something used in theatre. The camera is looking at them from a crowd, and the background swaps between a stadium and what seems to be a hospital. The sides of the screen slide in, a visual effect taking inspiration from the main plot, regarding the 2.5D theatre.
 The camera zooms in past the crowd as the image changes to the main cast of this season, all standing outside. This whole segment could symbolize the truth beyond the crowd and beyond the public eye, as the crowd disappears as we see more than just Aqua and Ruby approaching a stage.</mark>
