@@ -1,6 +1,7 @@
 # Hyperanalyzing Oshi No Ko's Opening
 I thoroughly enjoy analyzing whatever media I consume on a deeper level, and regadless of the fact it's an anime or not, I think it could be interesting to go deeper into understanding the meaning behind *Oshi No Ko*'s opening.
 <mark>come back to later</mark>
+https://www.youtube.com/watch?v=u-meJLUTIb8 - video for reference
 
 ## Context
 *Oshi No Ko* is an anime released in 2023, with season 2 airing currently in 2024. The manga is nearing its completion as the anime approaches the climax of the Play Arc. 
@@ -49,14 +50,19 @@ The two of them start running toward Ai, which is off the building. This could m
 - They are blinded by their search for Ai
 At the climax of the song, the two of them, with the star in each of their's eyes, reach for Ai and jump. Taking a peak at the lyrics, "Without you, I cannot live" implying the jump is indeed for suicide or self-destruction. However, this could be their jump into their search for the truth, as without the leap they cannot live.
 
-### 56 sec-
+### 56 sec-1:06 mins
 The two of them are holding hands as the angrily look down/as they fall. Aqua transforms into Touki, the antagonist from the play he's performing in. Their roles in the play may get it's own post in terms of symbolism. However, this is a clear indication that in his drive for truth, he is now playig Touki, and that these two facts strongly tie to each other. 
 - **Princess Saya versus Tsuurugi**: The two characters played by Akane and Kana. This is a parallel of the conflict seen at the very beginning of this blog post- now taking form and manifesting through their play's performance. This is once more a visual of their rivalry and conflict.
 - <mark>**shocked girl**
 - **Ruby**: Ruby in her B Komachi costume does a dance with red heart balloons in the back. This is a reminder, more than anything, of what Ruby is up to.
 - **The two manga artists**: This is a reference to Abiko's episode, which is also a parallel to an earlier mention of their conflict.
 - **The play**: We get some interesting art of the battle, which doesn't symbolize anything that the roles don't already cover.
+
+### 1:07mins-1:17mins
+*It is to be noted memories and shots from the anime flash over each of these scenes.
 - **Fatal, Deadly, Tragic love**: As they sing fatal, deadly, tragic love, aqua is seen with his closest friends, then him and his sister, and then himself. Fatal, meaning Causing ruin or destruction; disastrous, could mean that his relationships are all relating to causes of ruin. Deadly love between him and his sister is their ties to Ai's death. Tragic love with himself would be Aqua's undying and everlasting love for Ai, as it is sad, and tragic.
 - **Destined, defining, fated**: As they sing destined, defining, fated love, the the roles (from the play) of the four seen in the previous shot stand (plus the other two actors). Destined love would be that acting brought them together, like it's *destiny*. Defining, meaning Any process serving to define the shape of something, would be the experiences that shaped the main four. Fated would be Kana and Akane's fated rivalry, as their acting styles, personalities, futures, past, and characters are natural foils and directly contrast each other. 
+- **Inevitable, Certain, Eternal love**: This is a shot of the new members of B Komachi together. Inevitable meaning it was bound for them to come together, and love each other. Certain meaning fixed or inevitable, with the three of them still together. Eternal, is only a shot of Ruby. Ruby will eternally love idols and especially Ai, as seen in the literal case, where she died and brought it back. 
+
 
 ## Analyzing the Lyrics
