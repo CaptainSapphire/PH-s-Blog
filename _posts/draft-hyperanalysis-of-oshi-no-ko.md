@@ -1,7 +1,8 @@
 # Hyperanalyzing Oshi No Ko's Opening
 I thoroughly enjoy analyzing whatever media I consume on a deeper level, and regadless of the fact it's an anime or not, I think it could be interesting to go deeper into understanding the meaning behind *Oshi No Ko*'s opening.
-<mark>come back to later</mark>
-https://www.youtube.com/watch?v=PAcf55v6zqQ - video for reference
+<mark>come back to later if its marked</mark>
+[!["Opening for Reference"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/oshi-no-ko-assets/0.png?raw=true)](https://www.youtube.com/watch?v=PAcf55v6zqQ)<br>
+*Here is the opening, for reference.*
 
 ## Context
 *Oshi No Ko* is an anime released in 2023, with season 2 airing currently in 2024. The manga is nearing its completion as the anime approaches the climax of the Play Arc. 
