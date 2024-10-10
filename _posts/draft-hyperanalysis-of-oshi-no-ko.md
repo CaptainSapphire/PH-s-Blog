@@ -1,6 +1,6 @@
 # Hyperanalyzing Oshi No Ko's Opening
 I thoroughly enjoy analyzing whatever media I consume on a deeper level, and regadless of the fact it's an anime or not, I think it could be interesting to go deeper into understanding the meaning behind *Oshi No Ko*'s opening.
-<mark>come back to later if its marked</mark>
+<mark>come back to later if its marked</mark><br>
 [!["Opening for Reference"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/oshi-no-ko-assets/0.png?raw=true)](https://www.youtube.com/watch?v=PAcf55v6zqQ)<br>
 *Here is the opening, for reference.*
 
