@@ -35,5 +35,5 @@ The zeros/roots are the numbers on the top that aren't holes.
 ```
 (x)(x+3)/(x+3)(x+4) --> x = 0 is the root
 ```
-
-## Transformations
+## Reflection
+Wish me luck on my test, thank you for reading!
