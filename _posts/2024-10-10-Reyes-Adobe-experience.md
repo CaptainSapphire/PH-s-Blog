@@ -19,8 +19,15 @@ Some roles got swapped around where she left to work at the "Grateful House," or
 Some kids came over. A mom with two little white kids came over, and they colored. The president went over and read them a story from our selection of books. I think it was about penguins. We had one other set of kids after these two. Two Asian kids, who didn't primarily speak English. I rainbow-organized our materials to make the table more appealing in our off time. 
 <br><br>
 Turns out, the girls who left Bookmarks and Storytelling for the Museum did not want to stay volunteering there. They texted the president they wanted to switch back out. All the volunteers were in duos except myself and the president, so we went to the museum to see what was the issue.
+
 ### Museum
-Entering the museum, the vice and old friend volunteer approached us, saying they did not like working with one of the people there. There was AC and it was nearly 90 degrees Fahrenheit outside, so we switched with them. 
+Entering the museum, the vice and old friend volunteer approached us, saying they did not like working with one of the people there. The museum was about the size of a master bedroom with three of the walls decked out in information and objects, and one wall being a large glass door.  There was AC and it was nearly 90 degrees Fahrenheit outside, so we were inclined to switch with them. <br><br>
+An old, deaf, black woman came over. She was very, very energetic, but incredibly sweet. She explained we needed to:
+- *Press play on the video when it stopped*: There was a video playing on a TV that we are to loop. There is a little triangle/play button we press when the video stops. 
+- *Let people who enter know where the Adobe House is*: It was outside, just down the way from the museum. It's one of the main attractions. 
+- *Describe facts and information about the contents of the museum*: I took APUSH, so history facts are a breeze for me now. I explained to the president some of them so we both could explain what this museum was about. 
+- *Tell people who enter why it's called the Grateful House*: Louis, the old black woman, told me this. "We call this the Grateful House because, without the people on these walls, we wouldn't be here as we are today."
+
 
 ## Final Thoughts
 
