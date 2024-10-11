@@ -26,10 +26,16 @@ An old, deaf, black woman came over. She was very, very energetic, but incredibl
 - *Press play on the video when it stopped*: There was a video playing on a TV that we are to loop. There is a little triangle/play button we press when the video stops. 
 - *Let people who enter know where the Adobe House is*: It was outside, just down the way from the museum. It's one of the main attractions. 
 - *Describe facts and information about the contents of the museum*: I took APUSH, so history facts are a breeze for me now. I explained to the president some of them so we both could explain what this museum was about. 
-- *Tell people who enter why it's called the Grateful House*: Louis, the old black woman, told me this. "We call this the Grateful House because, without the people on these walls, we wouldn't be here as we are today."
+- *Tell people who enter why it's called the Grateful House*: Louise, the old black woman, told me this. "We call this the Grateful House because, without the people on these walls, we wouldn't be here as we are today."
+<br><br>
+As people came in, we got more used to welcoming them in. After a couple of hours, the two people wanted to switch back. After some discussion, most of the volunteers worked in the museum. Louise pulled me aside, and told me that: "I was a teacher for 57 years! Do you know why?"<br>
+Typically when an adult asks you something to teach you a lesson, you just ask them what, as they go in preferring you don't know, otherwise their time is wasted. <br>
+"To bring hope. I pray to the sweet lord each night, to instill hope in at least one student with the knowledge of the past. Now, I want you dear volunteers to do the same."<br><br>
+I find that will in her admirable, and to be frank, her words have still lingered in my mind. On rare occasion is the advice bestowed upon me by strangers or adults applicable or even helpful. The assumptions many individuals have is I lack understanding of the world around me, and that I do not seek to know. However, Louise understood that I lack the understanding of our world yet, but I am open to learn.<br>
 
+The drive home, my phone overheated, and I drove the school, and then home from there. the school I knew how to get to from where I was, and from school I knew how to get home. 
 
 ## Final Thoughts
-
+I thoroughly enjoyed my time volunteering at the Reyes Adobe Event. I learned a thing or too, and some fun facts about the lives that resided here long ago. Thank you for reading!
 
 !["Email"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/Screenshot%202024-10-09%209.43.29%20AM.png?raw=true)
