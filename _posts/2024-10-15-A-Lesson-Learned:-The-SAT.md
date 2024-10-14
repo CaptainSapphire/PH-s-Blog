@@ -12,4 +12,4 @@ I sped-walked down the stairs and down the hall to a wide building with both doo
 I thanked him and sprinted. I got to the line, somewhat out of breath, on time. 
 ## The Lesson 
 You got there on time, Priya. What's the issue? <br><br>
-Well, I was lucky. I got lucky getting the registration spot, and I got lucky getting that parking spot. I was fortunate that the students and staff were willing to help me get to where I needed to go. 
+Well, I was lucky. I got lucky getting the registration spot, and I got lucky getting that parking spot. I was fortunate that the students and staff were willing to help me get to where I needed to go. Next time, I plan to do everything much earlier, especially on important occasions as such
