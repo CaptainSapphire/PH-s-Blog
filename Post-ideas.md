@@ -1,3 +1,2 @@
 - SOCO
 - SAT
-- reyes adobe
