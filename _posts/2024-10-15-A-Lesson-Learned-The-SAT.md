@@ -1,3 +1,9 @@
+---
+layout: post
+title: "A Lesson Learned: The SAT"
+date: 2024-10-16 12:00:00 -0000
+categories: blog
+---
 # A Lesson Learned: The SAT
 I took the October 5th SAT and learned a lesson the hard way.
 ## Signing up for the SAT
