@@ -18,4 +18,4 @@ After seeing the grade, I immediately opened a Google Doc. Every resource I knew
 I set the goal to raise my average test score and my grade to either a B or an A. As depressing as the current state is, I have to start somewhere. 
 
 ## Reflecting thoughts
-
+I admit, I'm frustrated and disappointed with the current state of my grades in APPC. I've made blog post after blog post, and done as many practice problems as I could find. More of my time is required to get even a remotely good grade, but regardless, I signed up for this class. I know I can raise this, and hopefully, these resources can help the other students as well. Thank you for reading. 
