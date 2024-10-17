@@ -12,7 +12,10 @@ I do not know the logistics, but in order to start at Moorpark College with Calc
 After seeing the grade, I immediately opened a Google Doc. Every resource I knew for math help, I checked. 
 - First, I hunted down the *Math Honors Society (MHS)* poster and planned times each day to go in and review the homework with them. 
 - I checked SchoolHouse.org to see if they have Precalculus help. Unfortunately, my search was unfruitful. There aren't any times that I can join.
-- I checked Khan Academy and found they have a clear Precalculus review. 
+- I checked Khan Academy and found they have a clear Precalculus review. My goal is to get through at least one lesson per day, with mastery of the practice problems provided (Redo them until I fully understand the concept.)
+- YouTube had two courses that will be of little help, but better than none.
+- Collegeboard has resources such as videos and practice problems on the CollegeBoard Classroom.
+I set the goal to raise my average test score and my grade to either a B or an A. As depressing as the current state is, I have to start somewhere. 
 
 ## Reflecting thoughts
 
