@@ -5,8 +5,12 @@ I got a slightly above-average score of 1130, which is slightly lower than the a
 
 ## Compared to my PSAT
 I got a 1200 on my PSAT, and I didn't review for that at all. However, I think most of the geometry-related concepts were much, much fresher in my mind.
-I didn't need any formulas or SOH-CAH-TOA, and if I were to retake the SAT, I would put a lot more focus on geometry, since there were definitely large portions of the math section where I could not recall anything from geometry.
-Looking at the finer details, I actually did worse on the English section. I think a majority of it was reading comprehension or grammatical tidbits, so I would, next time, do at least half of the English/Writing Khan Academy prep. 
+I didn't need any formulas or SOH-CAH-TOA, and if I were to retake the SAT, I would put a lot more focus on geometry, since there were definitely large portions of the math section where I could not recall anything from geometry.<br><br>
+
+!["The geometry and trig struggle"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/Screenshot%202024-10-20%2011.26.10%20AM.png?raw=true)
+*Here is evidence from the SAT of how the geometry and trig sections were the weakest.*<br><br>
+
+Looking at the finer details, I actually did worse in the English section. The performance in each area wasn't bad but could be strengthened, especially "Information and Ideas" (based on a look at the details from this SAT.) I would, next time, do at least half of the English/Writing Khan Academy prep. <br><br>
 
 ## How was my prep?
 I didn't take a lot of measures to prepare for the SAT. I think I could've started earlier on preparation.
