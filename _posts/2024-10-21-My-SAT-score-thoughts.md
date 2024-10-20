@@ -18,3 +18,4 @@ At the end of the day, I got what I gave. Had I given more time and focused more
 However, I don't see a reason to be hard on myself in that I got an acceptable score.
 I'm going to a UC/CSU after Community College, so there's not a lot of pressure to do well on the SAT regardless. Thank you for reading :)
 <br><br>
+!["SAT Scores"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202024/Screenshot%202024-10-20%2011.21.35%20AM.png?raw=true)
