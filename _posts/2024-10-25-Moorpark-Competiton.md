@@ -14,3 +14,5 @@ A little while later,
 ## The Aftermath
 We are part of the 2A Green division. We placed fourth among our division. However, among 17 schools in 2A overall, we still placed 4th. 
 https://www.scsboa.org/2024-field-season/
+
+## Final Thoughts
