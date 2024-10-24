@@ -16,6 +16,7 @@ It was finally time to take the field. I had my prop on all four wheels and star
 
 ## The Performance
 
+!["Movement 1"](https://photos.smugmug.com/Moorpark-Competition-10202024/i-qdt2DpP/0/KZrX3vxKgPc4qzwcsRF6mbNWb2zs2x9xfVtxQZp72/L/IMG_5053-L.jpg)
 
 !["Me during the performance."](https://photos.smugmug.com/Moorpark-Competition-10202024/i-vRT7rvd/0/L6zrSpwDJsLQLHsXx6kdgNVkWDbmMcRJMLQ3Ck8Xw/L/_NZ84710-L.jpg)
 ## The Rest of the Night
