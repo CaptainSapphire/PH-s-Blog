@@ -12,7 +12,7 @@ Warm-ups went fine, I was somewhat preoccupied. My friend from the yearbook was 
 *warm-up picture. I took this image.*<br><br>
 Then, the prop people went with the pit, taking all our equipment around the school. It was a long walk, but I didn't mind. It eased my nerves and gave me some time to think. Typically, I don't like long spans of time with room for thought, but I suppose this one was fine. We took our places on the side of the field. Brandon and I lined our props up. It was all fine. <br><br>
 We had a moment of panic though. Typically, we go on the field, warm up at the center, and then go to our dots. With our props, what were we to do? Drop them off and run into arcs? Take them into warm-ups? We also never discussed how we were to go onto the field. Brandon assured to just "do whatever all the other prop people do." Not a great plan, I told him. Though, better than nothing. The woodwind coach came over and said "I never did an on-field warm-up before any of my marching band performances at TOHS." This is Oak Park, I can't say I had any confidence he was correct. In *my* four years, we always did one. The battery coach stated we likely won't do one, but that they'll tell us if anything changes, so whatever. <br><br>
-It was finally time to take the field. 
+It was finally time to take the field. I had my prop on all four wheels and started pushing my calves and walking backward. Titling it went faster, and I got the prop to its location. We were all called into an arc, and I think the director realized that we never talked about it. For a warm-up done on the fly, it went well. We all then went to our dots. 
 
 ## The Performance
 
