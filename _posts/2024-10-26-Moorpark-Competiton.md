@@ -18,6 +18,7 @@ It was finally time to take the field. I had my prop on all four wheels and star
 At the start of movement one, I noticed the horn angle of one of my section members was lacking. I've noticed this tendency to relax the posture once the focus on the performance is drawn to a different detail. On stage, timeliness seems to be the focus. However, posture is definitely something to set straight. <br><br>
 The first visual was fine, but the second was a little janky. I think establishing the timing of the first count of the visual will allow a smoother transition between the move beforehand and the hold.  <br><br>
 !["Movement 1"](https://photos.smugmug.com/Moorpark-Competition-10202024/i-qdt2DpP/0/KZrX3vxKgPc4qzwcsRF6mbNWb2zs2x9xfVtxQZp72/L/IMG_5053-L.jpg)<br><br>
+*The set I'm referring to during movement one. Image taken by Antony Yang.*<br><br>
 
 
 
