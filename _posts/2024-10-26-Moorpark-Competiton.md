@@ -19,7 +19,7 @@ At the start of movement one, I noticed the horn angle of one of my section memb
 The first visual was fine, but the second was a little janky. I think establishing the timing of the first count of the visual will allow a smoother transition between the move beforehand and the hold.  <br><br>
 !["Movement 1"](https://photos.smugmug.com/Moorpark-Competition-10202024/i-qdt2DpP/0/KZrX3vxKgPc4qzwcsRF6mbNWb2zs2x9xfVtxQZp72/L/IMG_5053-L.jpg)<br><br>
 *The set I'm referring to during movement one. Image taken by Antony Yang.*<br><br>
-
+Movement 2 we either dragged or rushed, I can't quite recall. I do recall feeling a lot of our sounds being relatively strong, though. 
 
 
 !["Me during the performance."](https://photos.smugmug.com/Moorpark-Competition-10202024/i-vRT7rvd/0/L6zrSpwDJsLQLHsXx6kdgNVkWDbmMcRJMLQ3Ck8Xw/L/_NZ84710-L.jpg)<br><br>
