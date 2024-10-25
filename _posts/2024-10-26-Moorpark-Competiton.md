@@ -15,6 +15,8 @@ We had a moment of panic though. Typically, we go on the field, warm up at the c
 It was finally time to take the field. I had my prop on all four wheels and started pushing my calves and walking backward. Titling it went faster, and I got the prop to its location. We were all called into an arc, and I think the director realized that we never talked about it. For a warm-up done on the fly, it went well. We all then went to our dots. 
 
 ## The Performance
+At the start of movement one, I noticed the horn angle of one of my section members was lacking. I've noticed this tendency to relax the posture once the focus on the performance is drawn to a different detail. On stage, timeliness seems to be the focus. However, posture is definitely something to set straight. <br><br>
+The first visual was fine, but the second was a little janky. I think establishing the timing of first count of the visual will allow a smoother transition between the move beforehand and the hold.  
 
 !["Movement 1"](https://photos.smugmug.com/Moorpark-Competition-10202024/i-qdt2DpP/0/KZrX3vxKgPc4qzwcsRF6mbNWb2zs2x9xfVtxQZp72/L/IMG_5053-L.jpg)
 
