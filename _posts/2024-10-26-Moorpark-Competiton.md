@@ -20,7 +20,7 @@ The first visual was fine, but the second was a little janky. I think establishi
 !["Movement 1"](https://photos.smugmug.com/Moorpark-Competition-10202024/i-qdt2DpP/0/KZrX3vxKgPc4qzwcsRF6mbNWb2zs2x9xfVtxQZp72/L/IMG_5053-L.jpg)<br><br>
 *The set I'm referring to during movement one. Image taken by Antony Yang.*<br><br>
 Movement 2 we either dragged or rushed, I can't quite recall. I do recall feeling a lot of our sounds being relatively strong, though. 
-Movement 3 was rough. We dragged a lot, and did what the OPB staff call "the pedestrian walk." Essentially, at a slower tempo, marchers will walk like a pedestrian rather than march like a marcher. This gives a lazy, unclean look 
+Movement 3 was rough. We dragged a lot, and did what the OPB staff call "the pedestrian walk." Essentially, at a slower tempo, marchers will walk like a pedestrians rather than march like a marcher. This gives a lazy, unclean look 
 
 !["Me during the performance."](https://photos.smugmug.com/Moorpark-Competition-10202024/i-vRT7rvd/0/L6zrSpwDJsLQLHsXx6kdgNVkWDbmMcRJMLQ3Ck8Xw/L/_NZ84710-L.jpg)<br><br>
 ## The Rest of the Night
