@@ -19,12 +19,16 @@ At the start of movement one, I noticed the horn angle of one of my section memb
 The first visual was fine, but the second was a little janky. I think establishing the timing of the first count of the visual will allow a smoother transition between the move beforehand and the hold.  <br><br>
 !["Movement 1"](https://photos.smugmug.com/Moorpark-Competition-10202024/i-qdt2DpP/0/KZrX3vxKgPc4qzwcsRF6mbNWb2zs2x9xfVtxQZp72/L/IMG_5053-L.jpg)<br><br>
 *The set I'm referring to during movement one. Image taken by Antony Yang.*<br><br>
-Movement 2 we either dragged or rushed, I can't quite recall. I do recall feeling a lot of our sounds being relatively strong, though. 
-Movement 3 was rough. We dragged a lot, and did what the OPB staff call "the pedestrian walk." Essentially, at a slower tempo, marchers will walk like a pedestrians rather than march like a marcher. This gives a lazy, unclean look 
+Movement 2 we either dragged or rushed, I can't quite recall. I do recall feeling a lot of our sounds being relatively strong, though. There is one "follow the leader" move that everyone gets offstep at, so I think we can improve that move, and increase our score significantly. <br><br> 
+Movement 3 was rough. We dragged a lot, and did what the OPB staff call "the pedestrian walk." Essentially, at a slower tempo, marchers will walk like a pedestrians rather than march like a marcher. This gives a lazy, unclean look to the show. This movement I think is going to receive the most work over the span of this upcoming week. <br><br>
+Movement 4 was the *Intergalactic Dance,* and I think we looked pretty cool. Making the movements snappier will likely give a more confident feel to the dance, so outside of practice leadership should try to get sections to strengthen the counts each step of the dance occurs on. <br><br>
+Movement 5 was okay, I think for the newest movement it was going to come out a little janky regardless of any adjustments we could make. I believe the ending likely looked pretty cool, and the trumpets that push that upper octave on the last note KILLED it! <br><br>
 
 !["Me during the performance."](https://photos.smugmug.com/Moorpark-Competition-10202024/i-vRT7rvd/0/L6zrSpwDJsLQLHsXx6kdgNVkWDbmMcRJMLQ3Ck8Xw/L/_NZ84710-L.jpg)<br><br>
-## The Rest of the Night
+*Here's a picture of me during the performance.*
 
+## The Rest of the Night
+After the performance
 
 ## The Aftermath
 We are part of the 2A Green division. We placed fourth among our division. However, among 17 schools in 2A overall, we still placed 4th. 
