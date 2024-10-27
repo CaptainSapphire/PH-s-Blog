@@ -37,8 +37,8 @@ Now, I thought most of the fun party people graduated last year. However, the bu
 Getting back to the school, we all put the uniforms away, and ran down to the field to help put away all the equipment. I carried up a cart with one of the low brass section leaders/my friend, Izadora, then a sousaphone. Going back down, a couple of friends joined us on the other cart to go to the band room. Izadora, Kai, Brandon, and I ran the cart up, and killed my calves in the process (worth it!). Then, I went home and CRASHED.
 
 ## The Aftermath
-We are part of the 2A Green division. The number is by size, and I'm not sure how the color sorting system works. We placed fourth in our division. However, among 17 schools in 2A overall, we still placed 4th. So, we overall did amazing, simply, our division were some of the strongest schools in the 2A division. I'm incredibly proud of our performance last Saturday, and I look forward to this week's practices and performance. Like always, thank you for reading!<br><br>
+We are part of the 2A Green division. The number is by size, and I'm not sure how the color sorting system works. We placed fourth in our division. However, among 17 schools in 2A overall, we still placed 4th. So, we overall did amazing, simply, our division were some of the strongest schools in the 2A division. 
 *[Link to the SCSBOA website for reference.](https://www.scsboa.org/2024-field-season/)*
 ## Final Thoughts
-
+I'm incredibly proud of our performance last Saturday, and I look forward to this week's practices and performance. Like always, thank you for reading!<br><br>
 !["The final group picture :)"](https://photos.smugmug.com/Moorpark-Competition-10202024/i-NVLczmz/0/LJ5Gx72KxQHpMccNHz6mRXMv9R93q2BQxVF6vjJBW/XL/IMG_8760-XL.jpg)
