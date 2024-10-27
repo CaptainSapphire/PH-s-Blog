@@ -22,18 +22,23 @@ The first visual was fine, but the second was a little janky. I think establishi
 Movement 2 we either dragged or rushed, I can't quite recall. I do recall feeling a lot of our sounds being relatively strong, though. There is one "follow the leader" move that everyone gets offstep at, so I think we can improve that move, and increase our score significantly. <br><br> 
 Movement 3 was rough. We dragged a lot, and did what the OPB staff call "the pedestrian walk." Essentially, at a slower tempo, marchers will walk like a pedestrians rather than march like a marcher. This gives a lazy, unclean look to the show. This movement I think is going to receive the most work over the span of this upcoming week. <br><br>
 Movement 4 was the *Intergalactic Dance,* and I think we looked pretty cool. Making the movements snappier will likely give a more confident feel to the dance, so outside of practice leadership should try to get sections to strengthen the counts each step of the dance occurs on. <br><br>
+!["Movement 4 Dance"](https://photos.smugmug.com/Moorpark-Competition-10202024/i-hVp45wk/0/MrHq99MGQWD5X5rw4KtmBZ9f9RDQmDcmL2xmdXBNn/L/IMG_5132-L.jpg)<br><br>
 Movement 5 was okay, I think for the newest movement it was going to come out a little janky regardless of any adjustments we could make. I believe the ending likely looked pretty cool, and the trumpets that push that upper octave on the last note KILLED it! <br><br>
 
 !["Me during the performance."](https://photos.smugmug.com/Moorpark-Competition-10202024/i-vRT7rvd/0/L6zrSpwDJsLQLHsXx6kdgNVkWDbmMcRJMLQ3Ck8Xw/L/_NZ84710-L.jpg)<br><br>
 *Here's a picture of me during the performance.*
 
 ## The Rest of the Night
-After the performance
+After the performance, I walked around with a friend of mine. I went to Mr. Borquez and asked him if we could surprise my good friend and the drum major, Navya Sreeraj, for her birthday. He agreed, and he said we will during the group picture. 6:20 rolls around, and everyone gets together for the group picture (See at bottom of blog post). Mr. Borquez says "hey everyone, it's Navya's birthday! Let's sing her happy birthday," (paraphrased). We sang and I passed her the cupcake I got for her. She seemed overjoyed. We got the group picture, and Carter's mom had brought cookies for everyone for the occasion, so we all had a chocolate chip cookie. <br><br>
+After loading us all on the bus, the director stood up and debriefed our final score, and other information. He let us know the plans once we returned to the school, and then ended with: <br><br>
+**"Don't go crazy :)"**
+<br><br>
+Now, I thought most of the fun party people graduated last year. However, the bus ride home brought out a lot of the party in all of us. The senior guys put on some popular songs, and all us older members and some younger members sang along. From *Die with a Smile* to *Fly me to the Moon,* we enjoyed so many different songs. I had such an amazing time. To quote a text I sent to my friend, "I love it here because of moments like these."<br><br>
+Getting back to the school, we all put the uniforms away, and ran down to the field to help put away all the equipment. I carried up a cart with one of the low brass section leaders/my friend, Izadora, then a sousaphone. Going back down, a couple of friends joined us on the other cart to go to the band room. Izadora, Kai, Brandon, and I ran the cart up, and killed my calves in the process (worth it!). Then, I went home and CRASHED.
 
 ## The Aftermath
-We are part of the 2A Green division. We placed fourth among our division. However, among 17 schools in 2A overall, we still placed 4th. 
-https://www.scsboa.org/2024-field-season/
-
+We are part of the 2A Green division. The number is by size, and I'm not sure how the color sorting system works. We placed fourth in our division. However, among 17 schools in 2A overall, we still placed 4th. So, we overall did amazing, simply, our division were some of the strongest schools in the 2A division. I'm incredibly proud of our performance last Saturday, and I look forward to this week's practices and performance. Like always, thank you for reading!<br><br>
+*[Link to the SCSBOA website for reference.](https://www.scsboa.org/2024-field-season/)*
 ## Final Thoughts
 
 !["The final group picture :)"](https://photos.smugmug.com/Moorpark-Competition-10202024/i-NVLczmz/0/LJ5Gx72KxQHpMccNHz6mRXMv9R93q2BQxVF6vjJBW/XL/IMG_8760-XL.jpg)
