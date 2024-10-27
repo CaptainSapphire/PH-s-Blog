@@ -1,4 +1,4 @@
-# The First competition: Moorpark!
+# Our First Competition: Moorpark!
 Last Saturday, the Oak Park Eagle Brigade (OPB) went to our first competition: The Moorpark Competition. 
 
 ## A Breakdown
