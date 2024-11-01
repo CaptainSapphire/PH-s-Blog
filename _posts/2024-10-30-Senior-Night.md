@@ -20,3 +20,4 @@ All my other senior friends conducted their pep tunes of choice, and the rest of
 ## Final Thoughts
 I had a lot of fun, and I'm grateful for the memories I've been given these four years. I'm not sad I'm going, but I am nostalgic for the times I had. I've experienced so very much through marching band, both good and bad. The lesson? Take it in stride, I suppose. Thank you for reading :)
 
+!["Seniors picture"](https://photos.smugmug.com/Senior-Night-102524/i-dCm3spT/0/M9KGg9hh7vGPqLvRrdHFh83SmNZX9rgVgQDGk2CLG/L/IMG_1355-L.jpg)
