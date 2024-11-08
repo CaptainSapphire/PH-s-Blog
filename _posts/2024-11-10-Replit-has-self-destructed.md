@@ -12,6 +12,7 @@ it is defined as an IDE - or as they put it, " an American start-up and an onlin
 <br><br> 
 This is where the problem starts. In 2020, far before all of these occurences, Masad stated that [Replit is not an IDE](https://amasad.me/replit_ide). It just was an IDE for everyone. And so, hundreds of Repls manifested on the platform. Their Python course, 100s days of Python, requires making a new Repl each time. <br><br>
 **They then instill a limit, 3 repls. Now, you've gotta pay for more. And, your old Repls will be deleted.**<br><br>
+![Replit's limit image](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202024/replitlimit.png?raw=true)<br><br>
 I don't disagree with the policy of removing old, unused Repls. If they don't serve a purpose, it is a waste of resources. The incredibly low Repl limit introduces their subscription service. No activity on their twitter can be found discussing this. In fact, Replit seems to have done more to make the subject be radio silent. <br><br>
 
 ## Radio Silence
