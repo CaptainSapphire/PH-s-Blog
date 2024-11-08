@@ -4,7 +4,7 @@ To watch so much potential wither away is... disappointing, and disheartening. W
 ## The start of the story
 Amjad Masad, a seven year old, had a love for for programming. Despite facing a range of academic odds, Masad graudated from high school and majored in Computer Science at PSUT. 
 After working at Yahoo and [Codecademy](https://www.codecademy.com/about), Masad moved to starting up a platform of his own. Hence, Replit was born. <br><br>
-![Masad's picture of himself](https://amasad.me/public/images/pic.jpeg)<br><br>
+![Replit logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FvJMw1Jb%2Freplit-logo.png&f=1&nofb=1&ipt=ddcae9062282b19f1642e7bc97e93549f800d1b70c833b31245c4e52da004a69&ipo=images)<br><br>
 *Masad, the CEO and founder of Replit.*
 <br><br>
 Last year, I took AP Computer Science Principles, and Replit was mixed in the course. We were taught, for a year, that Replit was an IDE to build and test your code. If you search "What is Replit" on DuckDuckGo, 
