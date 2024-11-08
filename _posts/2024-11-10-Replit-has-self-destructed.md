@@ -20,7 +20,8 @@ Other peopel can't talk about it easily either. Their Discord server is no longe
 There are so many flaws in how this is covered. Many of their users just got shut down without anything. No twitter post, no YouTube video. Just two emails. This subscription service can still be a great resource for those willing to pay, but it won't be worth it, as there are better resources that are free. <br><br>
 
 ## Was it Doomed?
-Replit is another case of something growing too big, too fast. I learned in economics that the goal of a company isn't to maximize revenue, but to find the ground between the most profit and least costs. Replit was 
+Replit is another case of something growing too big, too fast. I learned in economics that the goal of a company isn't to maximize revenue, but to find the ground between the most profit and least costs. Replit stock has only grown because of the subscription service, as now the company can pay for the the resources and investors aren't losing money. As a free resource and a start up, at some point, they did have to find some way to monetize the platform. It was unexpected to have occured so fast, and in such a short amount of time. <br><br>
+
 
 ## The Consequences
 vgc
