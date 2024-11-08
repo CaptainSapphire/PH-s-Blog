@@ -21,8 +21,9 @@ There are so many flaws in how this is covered. Many of their users just got shu
 
 ## Was it Doomed?
 Replit is another case of something growing too big, too fast. I learned in economics that the goal of a company isn't to maximize revenue, but to find the ground between the most profit and least costs. Replit stock has only grown because of the subscription service, as now the company can pay for the the resources and investors aren't losing money. As a free resource and a start up, at some point, they did have to find some way to monetize the platform. It was unexpected to have occured so fast, and in such a short amount of time. <br><br>
-The unprofessionalism coming from the CEO on the issue is reflected on his unprofessionalism generally. Private beliefs should not intermix with your work account. 
-![What a tweet.](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202024/tweetmasad.png?raw=true)
+The unprofessionalism coming from the CEO on the issue is reflected on his unprofessionalism generally. Private beliefs should not intermix with your work account. The inability for the CEO to manage the platform unfortnately was to be foreseen with this mismanagement of PR. PR and marketing is everything to selling your company as credible, and keeping your Twitter professional is step one. 
+![What a tweet.](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202024/tweetmasad.png?raw=true)<br><br>
+*I don't have any takes on his opinion, but it simply doesn't belong in a professional environment.*<br><br>
 
 ## The Consequences
 vgc
