@@ -13,21 +13,23 @@ This is where the problem starts. In 2020, far before all of these occurences, M
 I don't disagree with the policy of removing old, unused Repls. If they don't serve a purpose, it is a waste of resources. The incredibly low Repl limit introduces their subscription service. No activity on their twitter can be found discussing this. In fact, Replit seems to have done more to make the subject be radio silent. <br><br>
 
 ## Radio Silence
-[Replit's Twitter](https://x.com/Replit) has only covered their Replit AI features and Replit Agent. The loss of this free resource for code is gone, essentially. It was a competitor to Microsoft and GitHub, and it seems GitHub will still be the coding capital as it stands. I'm posting this through Github, and I am grateful for the resources it provides for free. However, it is still unfortunate to see such a competitor with so much potential wither away. [Masad's twitter, blog and online prescence](https://x.com/amasad)
+[Replit's Twitter](https://x.com/Replit) has only covered their Replit AI features and Replit Agent. The loss of this free resource for code is gone, essentially. It was a competitor to Microsoft and GitHub, and it seems GitHub will still be the coding capital as it stands. I'm posting this through Github, and I am grateful for the resources it provides for free. However, it is still unfortunate to see such a competitor with so much potential wither away. [Masad's twitter, blog and online prescence](https://x.com/amasad). <br><br>
+Other peopel can't talk about it easily either. Their Discord server is no longer active or accessible. Replit Forums and Community has been taken down, and they reccomended to go to StackOverflow. Going to StackOverflow, you can only discuss *code* issues. There is no one else around to ask: "What happened to Replit?"
 
 ## Hello??
-There are so many flaws in how this is covered. 
+There are so many flaws in how this is covered. Many of their users just got shut down without anything. No twitter post, no YouTube video. Just two emails. This subscription service can still be a great resource for those willing to pay, but it won't be worth it, as there are better resources that are free. <br><br>
 
-## The consequences
+## Was it Doomed?
+Replit is another case of something growing too big, too fast. I learned in economics that the goal of a company isn't to maximize revenue, but to find the ground between the most profit and least costs. Replit was 
 
-## How it's affect us
-
+## The Consequences
 vgc
 girls who code
 apcompsci
 
 
-
+## Closng Thoughts
+At the end of the day, it's unfortunate, but not the end of the world. 
 
 
 ## Works Cited
