@@ -3,9 +3,9 @@ To watch so much potential wither away is... disappointing, and disheartening. W
 
 ## The start of the story
 Amjad Masad, a seven year old, had a love for for programming. Despite facing a range of academic odds, Masad graudated from high school and majored in Computer Science at PSUT. 
-After working at Yahoo and [Codecademy](https://www.codecademy.com/about), Masad moved to starting up a platform of his own. Hence, Replit was born. 
+After working at Yahoo and [Codecademy](https://www.codecademy.com/about), Masad moved to starting up a platform of his own. Hence, Replit was born. <br><br>
 ![Masad's picture of himself](https://amasad.me/public/images/pic.jpeg)<br><br>
-*Masad, the CEO and founder of Replit.*<br><br>
+*Masad, the CEO and founder of Replit.*
 <br><br>
 Last year, I took AP Computer Science Principles, and Replit was mixed in the course. We were taught, for a year, that Replit was an IDE to build and test your code. If you search "What is Replit" on DuckDuckGo, 
 it is defined as an IDE - or as they put it, " an American start-up and an online integrated development environment." In fact, there are hundreds of videos on YouTube calling Replit an IDE. 
@@ -30,9 +30,10 @@ The unprofessionalism coming from the CEO on the issue is reflected on his unpro
 ## The Consequences
 I've seen Replit being withdrawn from a few places. GirlsWhoCode are reworking their choice of IDE, as paying for Replit Core is going to be unsustainable for the company. AP Computer Science has switched to App Lab and Scratch again. My club, Video Game Creation Club, is switching IDEs. The coding clubs at our school have moved back to Github. 
 
-
 ## Closng Thoughts
-At the end of the day, it's unfortunate, but not the end of the world. 
+At the end of the day, it's unfortunate, but not the end of the world. It's strange to me, a little bit. To see something disappear, and everyone just keeps walking. The rain starts, and everyone in the crowd opens an umbrella, and continues. This blog post is me standing in the rain, before I walk on too. Thank you Replit, for being where I started coding. I'm grateful for the platform it provided. Goodbye :)
+<br><br>
+Thank you for reading. 
 
 
 ## Works Cited
