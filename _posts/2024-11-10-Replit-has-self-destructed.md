@@ -26,9 +26,7 @@ The unprofessionalism coming from the CEO on the issue is reflected on his unpro
 *I don't have any takes on his opinion, but it simply doesn't belong in a professional environment.*<br><br>
 
 ## The Consequences
-vgc
-girls who code
-apcompsci
+I've seen Replit being withdrawn from a few places. GirlsWhoCode are reworking their choice of IDE, as paying for Replit Core is going to be unsustainable for the company. AP Computer Science has switched to App Lab and Scratch again. My club, Video Game Creation Club, is switching IDEs. The coding clubs at our school have moved back to Github. 
 
 
 ## Closng Thoughts
