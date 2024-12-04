@@ -53,4 +53,6 @@ GDP = 26 mil + 10 mil + 50 mil + (14 mil - 24 mil)
 Now put it all in your calculator, and you should get 76 million dollars (for your answer.)
 
 ## Finishing Notes
-Thank you for reading, and wish me luck on the econ test! I might make another post to review, but we shall see. 
+Thank you for reading, and wish me luck on the econ test! I might make another post to review, but we shall see. Here's a little comic I made about it, and see you next time :)
+<br><br>
+!["comic"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/December%202024/IMG_5706.jpg?raw=true)
