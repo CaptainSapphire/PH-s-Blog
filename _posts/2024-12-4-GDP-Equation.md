@@ -15,4 +15,42 @@ The equation above has a lot of variables, but what do they mean? <br><br>
 - X = Exports
 - M = Imports
 
-## Practice Problems
+## How to Remember the Variables
+All of the variables except one the first/second letter matches the variable letter. C = **C**onsumer Spending, for example. Focus instead on remebering the I. The teacher even told us, he's going to add "investments" and "intermediate spending" to throw us off, but the I is Business expenditures. 
+
+## Let's Do a Practice Problem
+```
+Consumer spending = 26 mil
+Government spending = 50 mil
+secondhand spending = 14 mil
+imports = 24 mil
+exports = 14 mil
+business expenditures = 10 mil
+intermediate spending = 23 mil
+investments = 56 mil
+```
+<br> *these numbers are made up for practice.*<br><br>
+We have a whole lot of numbers here, but don't confuse yourself! Only look for those that fit into our equation. First, our C, or consumer spending. <br><br>
+```
+GDP = C + I + G + (X - M)
+GDP = 26 mil + I + G + (X - M)
+```
+Next, our BUSINESS EXPENDITURES.
+```
+GDP = 26 mil + I + G + (X - M)
+GDP = 26 mil + 10 mil + G + (X - M)
+```
+Then, our government spending.
+```
+GDP = 26 mil + 10 mil + G + (X - M)
+GDP = 26 mil + 10 mil + 50 mil + (X - M)
+```
+Finally, our foreign sector, aka, our trade balance. Our imports and our exports. 
+```
+GDP = 26 mil + 10 mil + 50 mil + (X - M)
+GDP = 26 mil + 10 mil + 50 mil + (14 mil - 24 mil)
+```
+Now put it all in your calculator, and you should get 76 million dollars (for your answer.)
+
+## Finishing Notes
+Thank you for reading, and wish me luck on the econ test! I might make another post to review, but we shall see. 
