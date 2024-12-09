@@ -5,6 +5,8 @@
 Tomorrow, I have an AP Precalculus test on unit 2B. 
 To study, I decided to try making tutorial videos on how to solve varying math problems. 
 All of them are up on my YouTube channel or will be by the beginning of tomorrow.
+[![youtube channel](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/December%202024/Screenshot%202024-12-09%209.32.08%20AM.png?raw=true)](https://www.youtube.com/@priya-harry)<br><br>
+*YouTube Channel linked above.*<br><br>
 
 ## The Method
 The problems stem from two resources- flippedmath.com and the worksheets that my school gives me. 
