@@ -39,3 +39,6 @@ appreciate everything you have today before it's gone tomorrow. A year from now,
 ## Final Thoughts
 Today, I appreciate what January was then, and I appreciate what January will be now. To the new year!<br><br>
 ...and thank you for reading :)
+
+!["Front Side"]()
+!["Back Side"]()
