@@ -40,5 +40,5 @@ appreciate everything you have today before it's gone tomorrow. A year from now,
 Today, I appreciate what January was then, and I appreciate what January will be now. To the new year!<br><br>
 ...and thank you for reading :)
 
-!["Front Side"]()
-!["Back Side"]()
+!["Front Side"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/January%202025/IMG_6899.jpg?raw=true)
+!["Back Side"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/January%202025/IMG_6900.jpg?raw=true)
