@@ -1,6 +1,6 @@
 # A year ago today: 2024 & 2025
 For Christmas of 2023, I was gifted a notebook. I decided to use it for keeping track of the things in my brain. For 2025, I'm repurposing the notebook for journaling, and so I removed the old pages. <br><br>
-A year ago today, I listed all my homework and responsibilities. What can we learn from taking a look at them?
+A year ago today, I listed all my homework and responsibilities. What can we learn from taking a look at them? (They are at the bottom of the post for reference throughout).
 
 ## First level
 On the front side, we have my homework, yay! <br>
