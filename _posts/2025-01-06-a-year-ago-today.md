@@ -31,14 +31,14 @@ It's similar to code, where the code can work but kill the computer. You want to
 Looking to the very bottom of the iceberg, it tells *me* something. In the moment, APUSH seemed like the end of the world. What if I don't get those book questions in on time? What if I don't understand the Edpuzzle?<br><br>
 But looking at it now, it seems so small. APUSH is an important class, you want to do well. But it isn't the end all, be all. Everything I listed is so, so tiny in the grand scheme of things. <br><br>
 If I could tell Priya from a year ago something, I would tell her this:
-```
-"None of this is as big as it seems. Think of what you imagine life will be like for me; or you in a year from now. Take a moment to breathe. Appreciate the fact that this isn't going to last forever, but it's going to help you get where you want to go. And, most of all,
+****
+"None of this is as big as it seems. Think of what you imagine life will be like for me; or you in a year from now. Take a moment to breathe. Appreciate the fact that this isn't going to last forever, but it's going to help you get where you want to go. <br>And, most of all,
 appreciate everything you have today before it's gone tomorrow. A year from now, I won't have the same friends, the same work, the same time. Appreciate it, and keep doing your best."
-```
+****
 
 ## Final Thoughts
 Today, I appreciate what January was then, and I appreciate what January will be now. To the new year!<br><br>
 ...and thank you for reading :)
 
-!["Front Side"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/January%202025/IMG_6899.jpg?raw=true)
-!["Back Side"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/January%202025/IMG_6900.jpg?raw=true)
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/January%202025/IMG_6899.jpg?raw=true" alt="Front Side" width="200"/>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/January%202025/IMG_6900.jpg?raw=true" alt="Back Side" width="200"/>
