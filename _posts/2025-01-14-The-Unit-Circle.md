@@ -1,6 +1,6 @@
 # The Unit Circle: APPC 3.2
-APPC, or Advanced Placement Precalculus, teaches Trigonometry for unit 3. Here's a summary of 3.2 for my practice and your learning journey. :) 
-* θ = angle, theta is a greek letter used to represent such. 
+APPC, or Advanced Placement Precalculus, teaches Trigonometry for unit 3. Here's a summary of 3.2 for my practice and your learning journey. :) <br><br>
+θ = angle, theta is a greek letter used to represent such. 
 
 ## What is the Unit Circle?
 A Unit Circle is a circle with a radius of 1. This makes all of the calculations relating to the Unit Circle simpler. 
