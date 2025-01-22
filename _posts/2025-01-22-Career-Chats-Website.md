@@ -19,5 +19,6 @@ However, this website needs to be *easy to edit* for future volunteers, and OPHS
 # Final Thoughts
 The website is linked below, feel free to check it out and provide any feedback. Thank you for reading :)
 <br><br>
-[![New Website](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/January%202025/careerchats.png?raw=true)](https://sites.google.com/opusd.us/ophscareerchats/home)
 
+
+<a href="https://sites.google.com/opusd.us/ophscareerchats/home"><img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/January%202025/careerchats.png?raw=true" alt="New Website" width="900"/></a>
