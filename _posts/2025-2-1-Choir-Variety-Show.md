@@ -11,3 +11,6 @@ I drove to the school and arrived at around 6:30 pm.
 
 
 // https://www.youtube.com/watch?v=kriVd_JAKdc
+
+
+<a href="https://www.youtube.com/watch?v=kriVd_JAKdc"><img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/varietyshow.png?raw=true" alt="Livestream link" width="900"/></a>
