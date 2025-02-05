@@ -23,7 +23,12 @@ Short answer yes, long answer... <br><br>
 !["Slide 5"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide5.png?raw=true)<br><br>
 Data Science seems to take the aspects of what I like most of Computer Science and focus on them. In particular, Python. I took the Data Science courses GirlsWhoCodeoffered in their Self Paced Program two years ago, and it was my favorite course I've ever taken because of it's use of Python and the projects I got to build [(view here)](https://github.com/CaptainSapphire/GirlsWhoCode/tree/main/SPP-2023/Data%20Science).<br><br>
 !["Slide 6"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide6.png?raw=true)<br><br>
+Here is another slide adding on to my previous point.<br><br>
+So Data Science is parts of computer science and math, what else?
 
-# 
+# Unemployment Rate
+!["Slide 8"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide8.png?raw=true)<br><br>
+The Computer Science Industry feels like it is in a state of panic with its unemployment rate of ~7.8% (twice what's okay). Typically, 4% unemployment is what is desirable as it is only [frictional unemployment](https://duckduckgo.com/?q=define+frictional+unemployment&ia=web). Meanwhile, the Data Science unemployment [(according to zippia.com)](https://www.zippia.com/data-scientist-jobs/demographics/) works in a wave where it generally remains low. To me it's simple in terms of "go where the jobs are" and go where there's less unemployment and general panic. 
+
 #
 #
