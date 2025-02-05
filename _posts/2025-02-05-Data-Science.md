@@ -21,7 +21,7 @@ Short answer yes, long answer... <br><br>
 
 # Introduction to Data Science (in relation to Computer Science)
 !["Slide 5"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide5.png?raw=true)<br><br>
-Data Science seems to take the aspects of what I like most of Computer Science and focus on them. In particular, Python. I took the Data Science courses GirlsWhoCodeoffered in their Self Paced Program last year
+Data Science seems to take the aspects of what I like most of Computer Science and focus on them. In particular, Python. I took the Data Science courses GirlsWhoCodeoffered in their Self Paced Program two years ago, and it was my favorite course I've ever taken because of it's use of Python and the projects I got to build [(view here)](https://github.com/CaptainSapphire/GirlsWhoCode/tree/main/SPP-2023/Data%20Science).
 
 # 
 #
