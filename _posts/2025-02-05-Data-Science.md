@@ -19,7 +19,10 @@ I'm not here to bash Computer Science but to recognize its flaws. The constant s
 So it has flaws, big deal. Is this still where I want to work though, and is there maybe something else that works better for me? <br><br>
 Short answer yes, long answer... <br><br>
 
+# Introduction to Data Science (in relation to Computer Science)
+!["Slide 5"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide5.png?raw=true)<br><br>
+Data Science seems to take the aspects of what I like most of Computer Science and focus on them. In particular, Python. I took the Data Science courses GirlsWhoCodeoffered in their Self Paced Program last year
 
-# Benefits and Comparison
+# 
 #
 #
