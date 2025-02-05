@@ -12,7 +12,9 @@ She learned so many things from so many communities. There are people out there,
 I realized I never wanted to do med on my own. It wasn't an industry I wanted to work in, and I respect those who did. But this world was told to me to be the best option. And I wanted to be *the best* just like any other kid.<br><br>
 From there, I learned about the successful, lucrative, enjoyable computer science industry. It wasn't just one thing, it was a statue with big, wide arms. Programming, marketing, product management, and teaching- it felt like every aspect of life was touched by computer science. So, I stepped into high school with a bag on my back and a goal in my mind. To be a star with Computer Science. 
 <br><br>
-Throughout high school, I took courses to learn programming and computer science. GirlsWhoCode, especially. 
+Throughout high school, I took courses to learn programming and computer science. FreeCodeCamp, CodeAvengers, GirlsWhoCode, especially. <br><br>
+Then, senior year, I felt something shift in the Computer Science industry. OpenAI releases ChatGPT, 
+
 #
 #
 #
