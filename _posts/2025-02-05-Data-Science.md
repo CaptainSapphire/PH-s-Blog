@@ -13,7 +13,7 @@ I realized I never wanted to do med on my own. It wasn't an industry I wanted to
 From there, I learned about the successful, lucrative, enjoyable computer science industry. It wasn't just one thing, it was a statue with big, wide arms. Programming, marketing, product management, and teaching- it felt like every aspect of life was touched by computer science. So, I stepped into high school with a bag on my back and a goal in my mind. To be a star with Computer Science. 
 <br><br>
 Throughout high school, I took courses to learn programming and computer science. FreeCodeCamp, CodeAvengers, GirlsWhoCode, especially. <br><br>
-Then, senior year, I felt something shift in the Computer Science industry. OpenAI releases ChatGPT, 
+Then, senior year, I felt something shift in the Computer Science industry. OpenAI releases ChatGPT, and China drops Deepseek. Technology is constantly changing and evolving, and in Computer Science you have to constantly be up to date skill wise. 
 
 #
 #
