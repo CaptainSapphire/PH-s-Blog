@@ -36,6 +36,10 @@ Both industries make big money. Bonuses, Data Science is based or very concentra
 To be frank, the salary is what attracted me to Computer Science in the first place. Money is 70% of the reason why I'd work, with the other 30% being general life fufillment. I've been told over and over again how much *money doesn't make you happy*, and to do what makes you happiest. I disagree. Sacrifies must be made to be successful, and "loving your job" to me is one of them. 
 
 # Cons of Both Industries
+!["Slide 12"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide12.png?raw=true)<br><br>
+Data Science seems to be high stress, although my Computer Science teacher tells me it won't be around for very long and that it is very oversaturated. I'm not sure the truth in this, although it is something to consider. <br><br>
+!["Slide 13"]()
+
 
 # Pros of Both Industries
 
