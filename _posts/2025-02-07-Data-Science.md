@@ -10,7 +10,7 @@ She learned so many things from so many communities. There are people out there,
 **Your life is your own.** <br><br>
 
 I realized I never wanted to do med on my own. It wasn't an industry I wanted to work in, and I respect those who did. But this world was told to me to be the best option. And I wanted to be *the best* just like any other kid.<br><br>
-From there, I learned about the successful, lucrative, enjoyable computer science industry. It wasn't just one thing, it was a statue with big, wide arms. Programming, marketing, product management, and teaching- it felt like every aspect of life was touched by computer science. So, I stepped into high school with a bag on my back and a goal in my mind. To be a star with Computer Science. 
+From there, I learned about the successful, lucrative, enjoyable computer science industry. It wasn't just one thing, it was a statue with big, wide arms. Programming, marketing, product management, and teaching- it felt like every aspect of life was touched by computer science. So, I stepped into high school with a bag on my back and a goal in my mind. To be a star in Computer Science. 
 <br><br>
 Throughout high school, I took courses to learn programming and computer science. FreeCodeCamp, CodeAvengers, GirlsWhoCode, especially. <br><br>
 Then, senior year, I felt something shift in the Computer Science industry. OpenAI releases ChatGPT, and China drops Deepseek. Technology is constantly changing and evolving, and in Computer Science you have to constantly be up to date skill wise. I feel stressed following, or trying to follow what's happening. <br><br>
@@ -21,30 +21,33 @@ Short answer yes, long answer... <br><br>
 
 # Introduction to Data Science (in relation to Computer Science)
 !["Slide 5"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide5.png?raw=true)<br><br>
-Data Science seems to take the aspects of what I like most of Computer Science and focus on them. In particular, Python. I took the Data Science courses GirlsWhoCodeoffered in their Self Paced Program two years ago, and it was my favorite course I've ever taken because of it's use of Python and the projects I got to build [(view here)](https://github.com/CaptainSapphire/GirlsWhoCode/tree/main/SPP-2023/Data%20Science).<br><br>
+Data Science seems to take the aspects of what I like most about Computer Science and focus on them. In particular, Python. I took the Data Science courses GirlsWhoCodeoffered in their Self Paced Program two years ago, and it was my favorite course I've ever taken because of its use of Python and the projects I got to build [(view here)](https://github.com/CaptainSapphire/GirlsWhoCode/tree/main/SPP-2023/Data%20Science).<br><br>
 !["Slide 6"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide6.png?raw=true)<br><br>
-Here is another slide adding on to my previous point.<br><br>
-So Data Science is parts of computer science and math, what else?
+Here is another slide that adds to my previous point.<br><br>
+So Data Science is part of computer science and math, what else?
 
 # Unemployment Rate
 !["Slide 8"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide8.png?raw=true)<br><br>
-The Computer Science Industry feels like it is in a state of panic with its unemployment rate of ~7.8% (twice what's okay). Typically, 4% unemployment is what is desirable as it is only [frictional unemployment](https://duckduckgo.com/?q=define+frictional+unemployment&ia=web). Meanwhile, the Data Science unemployment [(according to zippia.com)](https://www.zippia.com/data-scientist-jobs/demographics/) works in a wave where it generally remains low. To me it's simple in terms of "go where the jobs are" and go where there's less unemployment and [general panic](https://news.yahoo.com/news/computer-science-grads-job-market-091301837.html?guccounter=1). 
+The Computer Science Industry feels like it is in a state of panic with its unemployment rate of ~7.8% (twice what's okay). Typically, 4% unemployment is what is desirable as it is only [frictional unemployment](https://duckduckgo.com/?q=define+frictional+unemployment&ia=web). Meanwhile, the Data Science unemployment [(according to zippia.com)](https://www.zippia.com/data-scientist-jobs/demographics/) works in a wave where it generally remains low. To me, it's simple in terms of "go where the jobs are" and go where there's less unemployment and [general panic](https://news.yahoo.com/news/computer-science-grads-job-market-091301837.html?guccounter=1). 
 
 # Money, Money, Money
 !["Slide 10"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide10.png?raw=true)<br><br>
 Both industries make big money. Bonuses, Data Science is based or very concentrated in the state *I* live in: **California**. So perhaps keeping both majors or subjects in mind would be good...<br><br>
-To be frank, the salary is what attracted me to Computer Science in the first place. Money is 70% of the reason why I'd work, with the other 30% being general life fufillment. I've been told over and over again how much *money doesn't make you happy*, and to do what makes you happiest. I disagree. Sacrifices must be made to be successful, and "loving your job" to me is one of them. 
+To be frank, the salary is what attracted me to Computer Science in the first place. Money is 70% of the reason why I'd work, with the other 30% being general life fulfillment. I've been told over and over again how much *money doesn't make you happy*, and to do what makes you happiest. I disagree. Sacrifices must be made to be successful, and "loving your job" to me is one of them. 
 
 # Cons of Both Industries (Give me the bad news first...)
 !["Slide 12"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide12.png?raw=true)<br><br>
-Data Science seems to be high stress, although my Computer Science teacher tells me it won't be around for very long and that it is very oversaturated. I'm not sure the truth in this, although it is something to consider. <br><br>
+Data Science seems to be high stress, although my Computer Science teacher tells me it won't be around for very long and that it is very oversaturated. I'm not sure of the truth in this, although it is something to consider. <br><br>
 !["Slide 13"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide13.png?raw=true)<br><br>
 Computer Science is an intense market with a lot of layoffs, and it is generally an extreme environment from what I've heard. 
 
-
 # Pros of Both Industries (Okay, so what's the good news?)
+!["Slide 15"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide15.png?raw=true)<br><br>
+
 
 # What next?
 
+
 # Final Thoughts
+
 
