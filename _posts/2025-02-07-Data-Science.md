@@ -33,15 +33,16 @@ The Computer Science Industry feels like it is in a state of panic with its unem
 # Money, Money, Money
 !["Slide 10"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide10.png?raw=true)<br><br>
 Both industries make big money. Bonuses, Data Science is based or very concentrated in the state *I* live in: **California**. So perhaps keeping both majors or subjects in mind would be good...<br><br>
-To be frank, the salary is what attracted me to Computer Science in the first place. Money is 70% of the reason why I'd work, with the other 30% being general life fufillment. I've been told over and over again how much *money doesn't make you happy*, and to do what makes you happiest. I disagree. Sacrifies must be made to be successful, and "loving your job" to me is one of them. 
+To be frank, the salary is what attracted me to Computer Science in the first place. Money is 70% of the reason why I'd work, with the other 30% being general life fufillment. I've been told over and over again how much *money doesn't make you happy*, and to do what makes you happiest. I disagree. Sacrifices must be made to be successful, and "loving your job" to me is one of them. 
 
-# Cons of Both Industries
+# Cons of Both Industries (Give me the bad news first...)
 !["Slide 12"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide12.png?raw=true)<br><br>
 Data Science seems to be high stress, although my Computer Science teacher tells me it won't be around for very long and that it is very oversaturated. I'm not sure the truth in this, although it is something to consider. <br><br>
-!["Slide 13"]()
+!["Slide 13"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide13.png?raw=true)<br><br>
+Computer Science is an intense market with a lot of layoffs, and it is generally an extreme environment from what I've heard. 
 
 
-# Pros of Both Industries
+# Pros of Both Industries (Okay, so what's the good news?)
 
 # What next?
 
