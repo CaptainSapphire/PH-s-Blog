@@ -43,11 +43,12 @@ Computer Science is an intense market with a lot of layoffs, and it is generally
 
 # Pros of Both Industries (Okay, so what's the good news?)
 !["Slide 15"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/slide15.png?raw=true)<br><br>
-
+What's funny is when I searched the pros of Computer Science, it initially gave me the cons... <br><br>
+Anyway, overall, it seems Computer Science covers a wider range of topics, and has a higher average salary. However, data science has a lower unemployment rate and is relatively lucrative while not having weekly layoffs across the board.
 
 # What next?
-
+Right now, I'm picking out all my classes as I plan to go to Moorpark for two years and transfer to UCLA (or another UC/CSU). It's been going well, although I'm missing the STATS 20 transfer class, but no community college in CA offers that class. So, I'm currently sorting that out. Otherwise, the schedule of classes I've picked fits all of the transfer requirements. I need to switch out some classes to honors so I can do the Honors Program and get TAP certified. That'll be a blog post, eventually!
 
 # Final Thoughts
-
+This is a whole thing, but it's not a point of stress, interestingly enough. I think I'm going to major in Data Science and minor/alternative major in Computer Science so I can transfer to UCLA (I can't get TAP certified as a Computer Science major as it isn't in the UCLA College of Letters and Science.) I still very much enjoy Computer Science, and I mean nothing malicious when I criticize the industry. To me, I'm just trying to go where the jobs are. Anyway, thank you for reading! This was a longer blog post, so I really appreciate it. :)
 
