@@ -21,7 +21,7 @@ In 2010, Google Chrome surpassed Firefox in users and Mozilla began their declin
 ![Browser Wars](https://s.marketwatch.com/public/resources/images/MW-BY010_browse_MG_20140401091007.jpg)<br><br>
 
 ## Down, Down, Down...
-[Mozilla launches the Firefox OS project to revive the company and browser.](https://groups.google.com/forum/?fromgroups=#!searchin/mozilla.dev.platform/booting$20to$20the$20web/mozilla.dev.platform/dmip1GpD5II/CzJSSUMq5HsJ). However, [the OS](https://en.wikipedia.org/wiki/Firefox_OS) was discontinued
+[Mozilla launches the Firefox OS project to revive the company and browser.](https://groups.google.com/forum/?fromgroups=#!searchin/mozilla.dev.platform/booting$20to$20the$20web/mozilla.dev.platform/dmip1GpD5II/CzJSSUMq5HsJ). However, [the OS](https://en.wikipedia.org/wiki/Firefox_OS) was discontinued. The CEO entered himself into controversy over political donations, and 
 
 ## Sources (not linked in my article): 
 https://www.mozilla.org/en-US/about/history/
