@@ -25,3 +25,24 @@ Soon enough, the war was over and she was having kids. She said
 ‘Isn’t that the way they all have kids, natural?’” She chuckled. “So I really didn’t know about all the epidurals, 
 and all this other stuff people did so they’d be in less pain cos’ for me it was painful. 
 But I went through the pain. *Joyous pain!*” <br><br>
+
+She was still new to California, so she decided to stay home with the kids. “I was fine with it, I enjoyed staying home raising my kids. I didn’t have to work. I actually wanted to work, when they got bigger. But I didn’t have to work. To me, I was in a strange place, in California. So to me, to leave your kids with someone you don’t know would be very difficult for me. I wouldn’t do it.” <br><br>
+
+Besides, “back then, if you were a woman, you stayed home and took care of the kids.” <br><br>
+As she progressed, later in life, she had to face menopause.  <br><br>
+
+“You sure don’t wanna go through it! It’s very difficult, I mean menopause is terrible. Nothing to look forward to, just like getting old is nothing to look forward to. Because you have so many changes going on in your life, not just physical but mental changes. And it’s just really difficult to get along with other people.” <br><br>
+
+She detailed to me about the struggle with hot flashes; I know them well. My mother often gets hot flashes, and I hear they’re rough. <br><br>
+“Your grandpa was always cold, and I was always burning up! We’d have all the doors closed, and I’d have to fan myself cos’ I’m burning up!” She fanned herself and laughed. <br><br>
+
+So how does she recommend navigating menopause? <br><br>
+Her voice got real quiet, and she said slowly, “I recommend they take it easy, they take it slow. Take it one day at a time. Talk- and be calm,” and she began to laugh again. “*IF* that’s even possible!” <br><br>
+Throughout Deborah’s life, she faced her own challenges, from walking to school to watching the kids. However, through and through, she did her best to be nice and to stay positive. Womanhood throughout her life was defined as a caretaker and a supporter. She laughed after each question in this interview, and she ended laughing with her thumbs up, telling the camera “I hope I get an A!”
+
+
+
+
+
+
+
