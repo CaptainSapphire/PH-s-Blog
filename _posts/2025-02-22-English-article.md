@@ -3,7 +3,7 @@ A mother with three girls and a husband, fresh from across the country; 72-year-
 and raised her kids in California. She shares with us a story of growing up and moving from safety to new things as a woman, 
 time and time again. <br><br>
 
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/FullSizeRender(1).png?raw=true" style= "float: right;" width="200" /> Growing up in Tennessee, she faced one main obstacle in her early years. 
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/FullSizeRender(1).png?raw=true" style= "float: left;" width="200" /> Growing up in Tennessee, she faced one main obstacle in her early years. 
 “A lot of the struggles back then were if you lived far from the school; where I’m from, it *stormed*… 
 it was difficult to do that walk.” Every day, she walked “at least 2 miles, maybe more. 
 It was far, it would take you at least 30 minutes to walk home.” <br><br>
