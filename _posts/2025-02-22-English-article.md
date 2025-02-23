@@ -30,7 +30,7 @@ But I went through the pain. *Joyous pain!*” <br><br>
 
 Besides, “back then, if you were a woman, you stayed home and took care of the kids.” <br><br>
 As she progressed, later in life, she had to face menopause.  <br><br>
-
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/IMG_2963.JPG?raw=true" style= "float: left;" width="200">
 “You sure don’t wanna go through it! It’s very difficult, I mean menopause is terrible. Nothing to look forward to, just like getting old is nothing to look forward to. Because you have so many changes going on in your life, not just physical but mental changes. And it’s just really difficult to get along with other people.” <br><br>
 
 She detailed to me about the struggle with hot flashes; I know them well. My mother often gets hot flashes, and I hear they’re rough. <br><br>
