@@ -38,9 +38,11 @@ She detailed to me about the struggle with hot flashes; I know them well. My mot
 
 So how does she recommend navigating menopause? <br><br>
 Her voice got real quiet, and she said slowly, “I recommend they take it easy, they take it slow. Take it one day at a time. Talk- and be calm,” and she began to laugh again. “*IF* that’s even possible!” <br><br>
-Throughout Deborah’s life, she faced her own challenges, from walking to school to watching the kids. However, through and through, she did her best to be nice and to stay positive. Womanhood throughout her life was defined as a caretaker and a supporter. She laughed after each question in this interview, and she ended laughing with her thumbs up, telling the camera “I hope I get an A!”
+Throughout Deborah’s life, she faced her own challenges, from walking to school to watching the kids. However, through and through, she did her best to be nice and to stay positive. Womanhood throughout her life was defined as a caretaker and a supporter. She laughed after each question in this interview, and she ended laughing with her thumbs up, telling the camera “I hope I get an A!”<br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/IMG_4694.JPG?raw=true" width="200">
 
-
+## Blog Post Conclusion
+This was an article I wrote for my English class the other week. I got at 44/45, so I'd say it went relatively well
 
 
 
