@@ -26,11 +26,11 @@ Soon enough, the war was over and she was having kids. She said
 and all this other stuff people did so they’d be in less pain cos’ for me it was painful. 
 But I went through the pain. *Joyous pain!*” <br><br>
 
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/FullSizeRender.png?raw=true" style= "float: left;" width="200"> She was still new to California, so she decided to stay home with the kids. “I was fine with it, I enjoyed staying home raising my kids. I didn’t have to work. I actually wanted to work, when they got bigger. But I didn’t have to work. To me, I was in a strange place, in California. So to me, to leave your kids with someone you don’t know would be very difficult for me. I wouldn’t do it.” <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/FullSizeRender.png?raw=true" style= "float: left; padding-right:10px" width="200"> She was still new to California, so she decided to stay home with the kids. “I was fine with it, I enjoyed staying home raising my kids. I didn’t have to work. I actually wanted to work, when they got bigger. But I didn’t have to work. To me, I was in a strange place, in California. So to me, to leave your kids with someone you don’t know would be very difficult for me. I wouldn’t do it.” <br><br>
 
 Besides, “back then, if you were a woman, you stayed home and took care of the kids.” <br><br>
 As she progressed, later in life, she had to face menopause.  <br><br>
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/IMG_2963.JPG?raw=true" style= "float: left;" width="200">
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/IMG_2963.JPG?raw=true" style= "float: left; padding-right:10px" width="200">
 “You sure don’t wanna go through it! It’s very difficult, I mean menopause is terrible. Nothing to look forward to, just like getting old is nothing to look forward to. Because you have so many changes going on in your life, not just physical but mental changes. And it’s just really difficult to get along with other people.” <br><br>
 
 She detailed to me about the struggle with hot flashes; I know them well. My mother often gets hot flashes, and I hear they’re rough. <br><br>
@@ -42,7 +42,7 @@ Throughout Deborah’s life, she faced her own challenges, from walking to schoo
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/IMG_4694.JPG?raw=true" width="200">
 
 ## Blog Post Conclusion
-This was an article I wrote for my English class the other week. I got at 44/45, so I'd say it went relatively well
+This was an article I wrote for my English class the other week. I got at 44/45, so I'd say it went relatively well in the academic sense. Fellow classmates shared what they enjoyed about the article, but that isn't to say there aren't ways in which I can improve. Either way, thank you for reading! :)
 
 
 
