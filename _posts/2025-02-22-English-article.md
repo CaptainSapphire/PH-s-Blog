@@ -26,8 +26,7 @@ Soon enough, the war was over and she was having kids. She said
 and all this other stuff people did so they’d be in less pain cos’ for me it was painful. 
 But I went through the pain. *Joyous pain!*” <br><br>
 
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/FullSizeRender.png?raw=true" style= "float: left; padding-right:10px" width="200"> She was still new to California, so she decided to stay home with the kids. “I was fine with it, I enjoyed staying home raising my kids. I didn’t have to work. I actually wanted to work, when they got bigger. But I didn’t have to work. To me, I was in a strange place, in California. So to me, to leave your kids with someone you don’t know would be very difficult for me. I wouldn’t do it.” <br><br>
-
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/FullSizeRender.png?raw=true" style= "float: left; padding-right:10px" width="200"> She was still new to California, so she decided to stay home with the kids. “I was fine with it, I enjoyed staying home raising my kids. I didn’t have to work. I actually wanted to work, when they got bigger. But I didn’t have to work. To me, I was in a strange place, in California. So to me, to leave your kids with someone you don’t know would be very difficult for me. I wouldn’t do it.” <br><br><br>
 Besides, “back then, if you were a woman, you stayed home and took care of the kids.” <br><br>
 As she progressed, later in life, she had to face menopause.  <br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/IMG_2963.JPG?raw=true" style= "float: left; padding-right:10px" width="200">
