@@ -25,8 +25,12 @@ In 2010, Google Chrome surpassed Firefox in users and Mozilla began their declin
 The webcomic does a great job fanaticizing the events around the browser revolution, but Firefox would be subordinate or reliant on Google in some way if Merryweather was to make it more "accurate" (it's a fictional webcomic so who cares).
 
 # Gecko & the Quantum Project: Here since the beginning
-Ever since the start, Gecko has been a key piece in the Mozilla project, however, the engine had a lot of issues. So, Mozilla opened the Quantum Project in order to fix Gecko. <br><br>
-!["Firefox Quantum"]()
+Ever since the start, Gecko has been a key piece in the Mozilla project, however, the engine had a lot of issues. So, Mozilla opened the Quantum Project in order to fix Gecko. Servo, a different browser engine made by Mozilla, was to be combined with Gecko and implemented into Firefox. A web engine, as [this source](https://wiki.mozilla.org/Quantum) details further. <br><br>
+!["Firefox Quantum"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/firefoxquantum.png?raw=true)<br><br>
+*The logo for the project.* <br><br>
+["Firefox 57 was released on November 14, 2017, with the name Firefox Quantum. ZDNet dubbed it a "comeback" following years of falling market share against Google Chrome."](https://en.wikipedia.org/wiki/Firefox_version_history#:~:text=Firefox%2057%20was%20released%20on,market%20share%20against%20Google%20Chrome.) However, let's take a look at the Firefox shares for that time. <br><br>
+![Firefox Shares for 2017](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/firefoxshares.png?raw=true)<br><br>
+Yeah, not much happened. They weren't the worst of the browsers, but clearly, Google Chrome was destroying the competition. 
 
 ## Sources (not linked in my article): 
 https://www.mozilla.org/en-US/about/history/
