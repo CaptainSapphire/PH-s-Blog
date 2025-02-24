@@ -21,7 +21,12 @@ In 2010, Google Chrome surpassed Firefox in users and Mozilla began their declin
 ![Browser Wars](https://s.marketwatch.com/public/resources/images/MW-BY010_browse_MG_20140401091007.jpg)<br><br>
 
 ## Down, Down, Down...
-[Mozilla launches the Firefox OS project to revive the company and browser.](https://groups.google.com/forum/?fromgroups=#!searchin/mozilla.dev.platform/booting$20to$20the$20web/mozilla.dev.platform/dmip1GpD5II/CzJSSUMq5HsJ). However, [the OS](https://en.wikipedia.org/wiki/Firefox_OS) was discontinued. The CEO entered himself into controversy over political donations, and 
+[Mozilla launches the Firefox OS project to revive the company and browser.](https://groups.google.com/forum/?fromgroups=#!searchin/mozilla.dev.platform/booting$20to$20the$20web/mozilla.dev.platform/dmip1GpD5II/CzJSSUMq5HsJ). However, [the OS](https://en.wikipedia.org/wiki/Firefox_OS) was discontinued. The CEO entered himself into controversy over political donations, and his open disproval for gay marriage rights. Shortly after, Brendan Eich resigned as CEO. For a short time, Yahoo became the search engine for the Firefox browser, but they ultimately returned to Google. <br><br>
+The webcomic does a great job fanaticizing the events around the browser revolution, but Firefox would be subordinate or reliant on Google in some way if Merryweather was to make it more "accurate" (it's a fictional webcomic so who cares).
+
+# Gecko & the Quantum Project: Here since the beginning
+Ever since the start, Gecko has been a key piece in the Mozilla project, however, the engine had a lot of issues. So, Mozilla opened the Quantum Project in order to fix Gecko. <br><br>
+!["Firefox Quantum"]()
 
 ## Sources (not linked in my article): 
 https://www.mozilla.org/en-US/about/history/
