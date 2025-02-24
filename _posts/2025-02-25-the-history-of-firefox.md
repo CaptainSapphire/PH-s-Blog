@@ -30,10 +30,14 @@ Ever since the start, Gecko has been a key piece in the Mozilla project, however
 *The logo for the project.* <br><br>
 ["Firefox 57 was released on November 14, 2017, with the name Firefox Quantum. ZDNet dubbed it a "comeback" following years of falling market share against Google Chrome."](https://en.wikipedia.org/wiki/Firefox_version_history#:~:text=Firefox%2057%20was%20released%20on,market%20share%20against%20Google%20Chrome.) However, let's take a look at the Firefox shares for that time. <br><br>
 ![Firefox Shares for 2017](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/February%202025/firefoxshares.png?raw=true)<br><br>
+*Firefox is the line that is highlighted.* <br><br>
 Yeah, not much happened. They weren't the worst of the browsers, but clearly, Google Chrome was destroying the competition. 
 
-## Sources (not linked in my article): 
-https://www.mozilla.org/en-US/about/history/
-https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html
-https://www.youtube.com/watch?v=1qUlxXTp-ko
-https://wiki.mozilla.org/Timeline
+# The Leftovers: Where is Firefox now?
+After releasing more services for Firefox unsuccessfully, Mozilla has continued to decline and release updates & bugs fixes. The browser has people hoping for it, but the future looks dim for the once-promising product. Firefox is still around as one of the more secure browsers and isn't one of the many Chromium-based browsers (although they still use Google as their search engine.) That's all for this history lesson! Big thanks to the sources all linked below. Thank you for reading :)
+
+## Sources: The ones not linked throughout the article
+- [Mozilla.org](https://www.mozilla.org/en-US/about/history/)
+- [Archived Netscape Article](https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html)
+- [YouTube video by Distro's Projects](https://www.youtube.com/watch?v=1qUlxXTp-ko)
+- [Wikipedia](https://wiki.mozilla.org/Timeline)
