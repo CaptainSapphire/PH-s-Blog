@@ -13,7 +13,8 @@ A different company [IBPhoenix](https://www.ibphoenix.com/) wasn't happy about t
 In 2008, AOL announced the end of Netscape, so users flooded to Firefox. Mozilla Foundation was a nonprofit, but donations weren't sustainable, so they became the Mozilla Corportation. Growing bigger and bigger, Firefox was still using Google for their search engine. This went on until 2014, despite Mozilla being named the [most trusted Internet company in privacy](https://blog.mozilla.org/theden/2013/02/06/mozilla-is-most-trusted-internet-company-in-privacy/). Distro's Projects finds that they were paid 1,000,000,000$ in those 9 years, so profits were high, although it created distrust between Mozilla and its users. Although Microsoft partnered with Mozilla to make Firefox part of Windows Vista, so it didn't harm the company too much at the time.
 
 ## Google Chrome: The Forever Big Bad
-![Art by Merryweathery](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg2.reactor.cc%2Fpics%2Fpost%2Ffull%2Fmerryweatherey-Google-Chrome-Google-R-Merryweather-4982207.jpeg&f=1&nofb=1&ipt=184e23eb7194a4ad10b9128a860b3bdf890e2c7ff5898792163358d5f8830cfd&ipo=images)<br><br>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg2.reactor.cc%2Fpics%2Fpost%2Ffull%2Fmerryweatherey-Google-Chrome-Google-R-Merryweather-4982207.jpeg&f=1&nofb=1&ipt=184e23eb7194a4ad10b9128a860b3bdf890e2c7ff5898792163358d5f8830cfd&ipo=images" width="400" />
+<br><br>
 *Priya, why is there an anime girl in this article?* <br><br>
 A popular Twitter Artist, Merryweathery, wrote a webcomic called "Internet Explorer." Who's the villain? Google Chrome. <br><br>
 In fact, in this story, Chrome overtakes every other browser, including the side character Firefox. <br><br>
