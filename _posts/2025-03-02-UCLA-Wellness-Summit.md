@@ -3,11 +3,11 @@ This Sunday, I went with a friend to the *UCLA Gen Z Mental Health and Wellness 
 I discovered this event through the weekly Oak Park High School emails, and signed up; I want to be a UCLA student and the activities caught my interest. 
 
 # Before the event
-My friend met me at my house around 8:30AM, and we arrived at about 9:00AM (right when check-in opens.) <br><br>
+My friend met me at my house around 8:30 AM, and we arrived at about 9:00 AM (right when check-in opens.) <br><br>
 We exited the parking structure having no idea where we were or where we needed to go (other than the "Ackerman Union"). However, a volunteer for the event
 immediately approached us and directed us to a staircase nearby. By coincidence, we were right where we needed to be. We make our way through the building, following the sides, and check in at a table of student volunteers. <br><br>
 ![]() <br><br>
-The venue was very nice, with large windows providing the room with light. Despite having opened 10 minutes ago, a good deal of guests waited in the breakfast line. My friend and I waited there as well. It was worth it, the continental breakfast tasted delicious. <br><br>
+The venue was very nice, with large windows providing all of the light. Despite having opened 10 minutes ago, a good deal of guests waited in the breakfast line. My friend and I waited there as well. It was worth it, the continental breakfast tasted delicious. <br><br>
 ![]() <br><br>
 
 # The first half
@@ -17,6 +17,14 @@ The venue was very nice, with large windows providing the room with light. Despi
 # Em Beihold
 
 # Exploring the Campus
+
+### Ackerman Union
+### The Dorms
+### The Fields & Stadiums
+### Royce Hall
+### Fowler's Museum
+### Libraries
+
 
 # Going home
 
