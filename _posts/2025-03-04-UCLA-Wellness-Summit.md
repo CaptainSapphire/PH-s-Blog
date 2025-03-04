@@ -12,7 +12,8 @@ The venue was very nice, with large windows providing all of the light. Despite 
 
 # The first half
 At 10, we sat at a table with a family and the event started. <br><br>
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/ucla_2.jpeg?raw=true" alt="Livestream link" style= "float: left; padding-right:10px" width="300"/> The first session was part of the general session, called "Perception Box" by Elizabeth Koch. "Explore your Perception Box™—a framework developed by Elizabeth Koch, visionary leader and founder of Unlikely Collaborators, to help describe the beliefs, experiences, and biases that shape your perception and interactions."
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/ucla_2.jpeg?raw=true" alt="Livestream link" style= "float: left; padding-right:10px" width="300"/> The first session was part of the general session, called "Perception Box" by Elizabeth Koch. "Explore your Perception Box™—a framework developed by Elizabeth Koch, visionary leader and founder of Unlikely Collaborators, to help describe the beliefs, experiences, and biases that shape your perception and interactions" - UCLA website page <br><br>
+
  
 
 
