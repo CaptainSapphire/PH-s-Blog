@@ -13,9 +13,14 @@ The venue was very nice, with large windows providing all of the light. Despite 
 At 10, we sat at a table with a family and the event started. <br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/ucla_2.jpeg?raw=true" alt="Livestream link" style= "float: left; padding-right:10px" width="300"/> The first session was part of the general session, called "Perception Box" by Elizabeth Koch. "Explore your Perception Box™—a framework developed by Elizabeth Koch, visionary leader and founder of Unlikely Collaborators, to help describe the beliefs, experiences, and biases that shape your perception and interactions" - UCLA website page <br><br>
 Elizabeth Koch uses [the perception box analogy](https://www.tinybluedotfoundation.org/perception-box). Her presentation style reminded me of my English teacher, a friendly, primary school teacher energy. She was a good way to open the morning. <br><br>
-She introduced the idea of the perception box, or the lense in which we view ourselves, others, and the world. Hence, perception. Box, because it is limited to us. Then, she had all of the "perception box adventure" stands around the room unveil their veils, to reveal a bunch of little goodies at each stand. 
- 
-
+She introduced the idea of the perception box, or the lense in which we view ourselves, others, and the world. Hence, perception. Box, because it is limited to us. Then, she had all of the "perception box adventure" stands around the room unveil their veils, to reveal a bunch of little goodies at each stand. She said to "grab five items that stand out to you, or triggered some emotional response." <br><br>
+I grabbed:
+<li>1. A plastic spaceship: It reminded me of my friends, who all enjoy the Microsoft flight simulator.</li>
+<li>2. A plant magnet: My mother loves plants and has a garden, so it reminded me of her.</li>
+<li>3. A lizard toy: I've liked these since I was a kid. We have a lot of lizards around the house. </li>
+<li>4. A flute charm: I play the flute and it's really small but really cute. </li>
+<li>5. A squishy star: I got one similar at a marching band banquet, and I like stars. </li>
+There's not a whole lot of deep meaning behind any of it. 
 <br><br>
 # Lunch
 
