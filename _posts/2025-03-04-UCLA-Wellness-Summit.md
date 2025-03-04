@@ -20,9 +20,9 @@ I grabbed:
 <li>3. A lizard toy: I've liked these since I was a kid. We have a lot of lizards around the house. </li>
 <li>4. A flute charm: I play the flute and it's really small but really cute. </li>
 <li>5. A squishy star: I got one similar at a marching band banquet, and I like stars. </li>
-There's not a whole lot of deep meaning behind any of it, but at least a little. We then shared what we chose with our table. The family was nice, although I didn't know how to talk to them well. 
+There's not a whole lot of deep meaning behind any of it, but at least a little. We then shared what we chose with our table. The family was nice, although I didn't know how to talk to them well. The main takeaway
 <br><br>
-Magician and public speaker,  Harris III, did the next segment "Learning to Start with Wow™- Storytelling and Resilience." On Eventbrite it is described as "Harris III will help awaken your wonder and curiosity to reimagine the story you are meant to live and lead others to do the same. Award-winning illusionist, creative entrepreneur, and best-selling author Harris III will show you how to use your creativity to win in life and create a better future for yourself and our world. Harris is the host of a top 1% podcast in the world, The WOW-Level Life."
+Magician and public speaker,  Harris III, did the next segment "Learning to Start with Wow™- Storytelling and Resilience." On Eventbrite, it is described as "Harris III will help awaken your wonder and curiosity to reimagine the story you are meant to live and lead others to do the same. Award-winning illusionist, creative entrepreneur, and best-selling author Harris III will show you how to use your creativity to win in life and create a better future for yourself and our world. Harris is the host of a top 1% podcast in the world, The WOW-Level Life."
 
 # Lunch
 
