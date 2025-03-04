@@ -8,15 +8,14 @@ My friend met me at my house around 8:30 AM, and we arrived at about 9:00 AM (ri
 We exited the parking structure having no idea where we were or where we needed to go (other than the "Ackerman Union"). However, a volunteer for the event
 immediately approached us and directed us to a staircase nearby. By coincidence, we were right where we needed to be. We make our way through the building, following the sides, and check in at a table of student volunteers. <br><br>
 The venue was very nice, with large windows providing all of the light. Despite having opened 10 minutes ago, a good deal of guests waited in the breakfast line. My friend and I waited there as well. It was worth it, the continental breakfast tasted delicious. <br><br>
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/ucla_1.jpeg?raw=true" alt="Livestream link" width="900"/><br><br>
 
 # The first half
 At 10, we sat at a table with a family and the event started. <br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/ucla_2.jpeg?raw=true" alt="Livestream link" style= "float: left; padding-right:10px" width="300"/> The first session was part of the general session, called "Perception Box" by Elizabeth Koch. "Explore your Perception Box™—a framework developed by Elizabeth Koch, visionary leader and founder of Unlikely Collaborators, to help describe the beliefs, experiences, and biases that shape your perception and interactions" - UCLA website page <br><br>
-
+Elizabeth Koch uses [the perception box analogy](https://www.tinybluedotfoundation.org/perception-box). 
  
 
-
+<br><br>
 # Lunch
 
 # Em Beihold
