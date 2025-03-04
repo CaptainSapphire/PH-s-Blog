@@ -34,7 +34,17 @@ I was incredibly excited about this segment. To be frank, she's the main reason 
 For singer-songwriter, Em Beihold, music opens a conduit to all those emotions we think about constantly but are often too nervous or afraid to say aloud in everyday conversation. With a sharp pen and infectious voice, she takes all the awkwardness, anxiety, stress, hesitancy, and uncertainty of everyday life and turns it into pretty, yet punchy pop music. It’s like she’s making sense of her mental health in real-time, layering diary-style lyrical confessions over sunny piano and bright beat-craft.
 
 ```
+This section of this post will be super biased. I was introduced to her music my sophomore year, with her song ["Too Precious"](https://www.youtube.com/watch?v=kHNCHjmFSck). However, she's most well known for her song "Numb Little Bug," having blown up as an audio on TikTok. <br><br>
+A psychiatrist talked to her about her experience with clinical depression, medication, seeking help, and her sudden rise to fame. 
 
+<li> <strong>Clinical Depression +& Medication:</strong> </li>
+
+<li><strong>Seeking Help:</strong> </li> 
+
+<li> <strong>Sudden Fame:</strong>She stated she found herself looking at what worked for other indie artists in order to keep up. She stopped making authentic music, and things true to herself and her experiences. Similar to Harris III, "If you live for approval then you will die by their rejection," in a way. This took a toll on her mental health, and she stepped away from the scene to rediscover her identity. </li>
+
+<li>Staying off social media and her experience with it </li> 
+<li>Returning to the stage: </li>
 
 # Exploring the Campus
 
