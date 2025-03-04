@@ -1,6 +1,7 @@
 # 2025 UCLA Gen Z Mental Health and Wellness Summit (and my Sunday)
 This Sunday, I went with a friend to the *UCLA Gen Z Mental Health and Wellness Summit.* 
-I discovered this event through the weekly Oak Park High School emails, and signed up; I want to be a UCLA student and the activities caught my interest. 
+I discovered this event through the weekly Oak Park High School emails, and signed up; I want to be a UCLA student and the activities caught my interest. <br><br>
+!["UCLA Wellness Summit"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/unnamed.png?raw=true)
 
 # Before the event
 My friend met me at my house around 8:30 AM, and we arrived at about 9:00 AM (right when check-in opens.) <br><br>
@@ -11,6 +12,10 @@ The venue was very nice, with large windows providing all of the light. Despite 
 ![]() <br><br>
 
 # The first half
+At 10, we sat at a table with a family and the event started. <br><br>
+The first session was part of the general session, called "Perception Box" by Elizabeth Koch. "Explore your Perception Box™—a framework developed by Elizabeth Koch, visionary leader and founder of Unlikely Collaborators, to help describe the beliefs, experiences, and biases that shape your perception and interactions."
+ 
+
 
 # Lunch
 
