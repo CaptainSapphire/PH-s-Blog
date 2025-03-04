@@ -43,8 +43,9 @@ A psychiatrist talked to her about her experience with clinical depression, medi
 
 <li> <strong>Sudden Fame:</strong>She stated she found herself looking at what worked for other indie artists in order to keep up. She stopped making authentic music, and things true to herself and her experiences. Similar to Harris III, "If you live for approval then you will die by their rejection," in a way. This took a toll on her mental health, and she stepped away from the scene to rediscover her identity. </li>
 
-<li>Staying off social media and her experience with it </li> 
-<li>Returning to the stage: </li>
+<li><strong>Staying off social media and her experience with it:</strong> </li> 
+
+<li><strong>Returning to the stage:</strong></li>
 
 # Exploring the Campus
 
