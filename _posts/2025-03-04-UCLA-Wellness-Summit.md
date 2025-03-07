@@ -48,12 +48,16 @@ A psychiatrist talked to her about her experience with clinical depression, medi
 # Exploring the Campus
 
 ### Ackerman Union
+The Ackerman Union is where the event was initially hosted, and where the iconic Bruin bear lives. The architecture was really nice and I don't have too much to say on it as it was our first stop and I was preoccupied mentally with the event however, I will say that it was a very pleasant way to be greeted by the campus and it felt very safe and very green.
 
 ### The Dorms
+we wandered around for a bit initially and ended up at the dorms. The dorms reminded me a little bit of a neighborhood as there are people relaxing out on the front and it was very quiet. It was tall and the structure felt more homely rather than a block homing many students.
 
 ### The Fields & Stadiums
+We, on our way to Royce Hall, stopped right by the fields and the stadium. there was a soccer field, a track field football field, tennis courts and more. It is very clear UCLA values their athletics.
 
 ### Royce Hall
+we ended up at Royce Hall, which was a beautiful structure, probably the most gorgeous one I've seen on campus. The spires at the top and intrigued me
 
 ### Fowler's Museum
 
