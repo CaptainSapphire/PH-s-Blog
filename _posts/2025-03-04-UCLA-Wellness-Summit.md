@@ -57,18 +57,24 @@ we wandered around for a bit initially and ended up at the dorms. The dorms remi
 We, on our way to Royce Hall, stopped right by the fields and the stadium. there was a soccer field, a track field football field, tennis courts and more. It is very clear UCLA values their athletics.
 
 ### Royce Hall
-we ended up at Royce Hall, which was a beautiful structure, probably the most gorgeous one I've seen on campus. The spires at the top and intrigued me
+we ended up at Royce Hall, which was a beautiful structure, probably the most gorgeous one I've seen on campus. The spires at the top and intrigued me. However, it was closed, so we couldn't explore the inside.
 
 ### Fowler's Museum
+Fowler's museum was noticeably quiet and it was a little unnerving. However, exhibits were really interesting. I found the one about the wildfires the most interesting as we reside in California and we are no strangers to wildfires. what scared of the both of us as we walked around where the people who resided in the darkness to watch over the exhibit. You wouldn't notice they were there until they made a shuffle or movement. However, I thoroughly enjoyed visiting this part of UCLA and it's really nice that it was free entry for all.
 
 ### Libraries
-
+we visited a range of libraries. A couple were closed, but a couple were also open. Often times they transitioned into classrooms and most students in there if not every student in there was in their own world, studying for chemistry or engineering or more or something else one or two of the libraries we visited were completely quiet with every person in there wearing headphones very different from libraries. I visited at community colleges, for example. something interesting I noticed was that one of the libraries had an entire floor dedicated to Anderson business masters students. 
 
 # Going home
+The drive home was nice. I typically hear about how much of a nightmare  Los Angeles traffic is, but it went okay for us. I actually ended up falling asleep funnily enough.
 
 # The rest of the day
+The rest of the night we had chicken sandwich sandwiches and we went out and played beach volleyball at our park and just talked and hung out. it was the most enjoyable evening or day of my entire February and I look forward to the opportunity to attend another UCLA event again. :-)
 
 # Takeaways
+there are many takeaways I can draw from the varying different things I saw and did that day. I included the takeaways from each speaker in the section about them to keep this part size. <br><br>
+from walking the campus, I learned that it is a very nice campus most likely the most serene ones I've visited where everyone seems to have a goal in mind from the families that visit to the students that study. <br><br>
+from the event itself, I took that everyone is very committed to volunteering and value mental health and wellness for all more than I have ever seen before. I greatly admire the staff, students, and parents that put on this event, and I commemorate the effort they put in to hosting. <br><br>
 
 Thank you for reading!
 
