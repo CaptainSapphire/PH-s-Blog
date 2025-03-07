@@ -35,8 +35,18 @@ what happened with her? Kind of called to me in a sense. It's true. I don't have
 he told us that later on that girl messaged him on Instagram, thanking him and telling him how her story ends- she never picked up under the razor blade again. <br><br>
 The takeaways are in the text, but I found his story interesting because it really confronted the ugly side of fame and the sad parts of mental health. as a sidenote, his talk and Elizabeth's tied together very nicely, so maybe that was planned or it was the theme of the morning half.
 
-# Lunch
+## Ishrad Manji
+this portion may sound like an afterthought, but I mean nothing behind it. I was exhausted already from the first part of the day and I didn't connect with the presentation of this speech as much as the other two. <br>
+Ishrad is a woman who wanted to release a book criticizing a religion. She went into it, knowing she was going to be attacked and lives like it. She told herself "because I'm queer, because I'm a woman, because I'm young, I'm going to be attacked." <br><br>
+she told us that this put her in defense mode, or fight mode. Every discussion she turned into debate at every debate she turned into practically a fight. For the longest time she was trying to make pushes in this movement, but wasn't really getting anywhere. <br><br>
+One day, she stopped to listen more to the other side and took to looking for discussion. That day, the religious leaders who attended that conference, confronted her and told her "we agree with a lot of of your ideas and what you want for changes in this movement." <br><br>
+she was confused. "After all of this time and all of us efforts I am finally being recognized for what I've been pushing for this is what I've been looking for, what is different?" <br><br>
+The priests and the Popes and the leaders all told her "because we know we won't be boosting your ego." <br><br>
+she then shared with us a story about a flag. But not just any flag. It's the confederate flag. That is a part of the Mississippi state flag. A black woman feels this is a misrepresentation of her and her people who live in the state. A white man whose family fought in the confederacy feels it's important to their culture and their history. The video emphasizes how it ends with the man supporting the woman's decision, even if he doesn't agree with it. <br><br>
+From Ishrad, I drew the importance of understanding and not just learning when it comes to debates, and to look for discussions in debate. 
 
+# Lunch
+it's time for lunch break! It was a buffet lunch and I had half of a chicken, chipotle sandwich, some chips, and some fruits. I was very lucky to be served lunch for free and that it was in the venue so I didn't have to go far or anything like that to get food. 
 
 # Em Beihold
 I was incredibly excited about this segment. To be frank, she's the main reason I signed up for this event in the first place. The UCLA Eventbrite described it as: <br><br>
