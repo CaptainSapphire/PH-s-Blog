@@ -20,10 +20,16 @@ I grabbed:
 <li>3. A lizard toy: I've liked these since I was a kid. We have a lot of lizards around the house. </li>
 <li>4. A flute charm: I play the flute and it's really small but really cute. </li>
 <li>5. A squishy star: I got one similar at a marching band banquet, and I like stars. </li>
-There's not a whole lot of deep meaning behind any of it, but at least a little. We then shared what we chose with our table. The family was nice, although I didn't know how to talk to them well. The main takeaway I got was...
+There's not a whole lot of deep meaning behind any of it, but at least a little. We then shared what we chose with our table. The family was nice, although I didn't know how to talk to them well. The main takeaway I got was the story we we tell ourselves about the world is in our hands and everyone may have a different perception and a different story but that doesn't make them any less valid. She did clarify that just because it is valid that doesn't mean it is true. Nonetheless it was a very eye-opening and inspirational talk by Elizabeth.
 
 <br><br>
-Magician and public speaker,  Harris III, did the next segment "Learning to Start with Wow™- Storytelling and Resilience." On Eventbrite, it is described as "Harris III will help awaken your wonder and curiosity to reimagine the story you are meant to live and lead others to do the same. Award-winning illusionist, creative entrepreneur, and best-selling author Harris III will show you how to use your creativity to win in life and create a better future for yourself and our world. Harris is the host of a top 1% podcast in the world, The WOW-Level Life."
+Magician and public speaker,  Harris III, did the next segment "Learning to Start with Wow™- Storytelling and Resilience." On Eventbrite, it is described as "Harris III will help awaken your wonder and curiosity to reimagine the story you are meant to live and lead others to do the same. Award-winning illusionist, creative entrepreneur, and best-selling author Harris III will show you how to use your creativity to win in life and create a better future for yourself and our world. Harris is the host of a top 1% podcast in the world, The WOW-Level Life." <br><br>
+
+Harrison III certainly surprised me. He began his story from when he received a magicians tool kit at a young age as a gift from his grandmother. He then went around doing magic shows, and eventually he began getting paid for it. In fact, he worked his way up to a point where he was very well known for his magic tricks. he had gotten about $1 million from this expedition by his early 20s. However, a year later, all of it was gone. <br><br>
+he said "I had gotten lost in trying to be what I felt I should be or needed to be. I constantly needed it and craved the approval and validation of that crowd, even when I wasn't on stage. I tried to live the life by driving the right cars, and living the right places, and talking into the right people." <br><br>
+He had lost his sense of self and identity within the fame that had to take time in order to recover that. <br><br>
+One day he was going to do a magic show in some high school and some gymnasium on some day. It didn't feel any special to him except when the principal asked him to tell his story and not just do magic tricks. On how Harris III broke out of that "perception box" or how Harris turned his story around.<br><br>
+
 
 # Lunch
 
