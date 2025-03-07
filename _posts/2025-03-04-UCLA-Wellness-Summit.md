@@ -29,7 +29,11 @@ Harrison III certainly surprised me. He began his story from when he received a 
 he said "I had gotten lost in trying to be what I felt I should be or needed to be. I constantly needed it and craved the approval and validation of that crowd, even when I wasn't on stage. I tried to live the life by driving the right cars, and living the right places, and talking into the right people." <br><br>
 He had lost his sense of self and identity within the fame that had to take time in order to recover that. <br><br>
 One day he was going to do a magic show in some high school and some gymnasium on some day. It didn't feel any special to him except when the principal asked him to tell his story and not just do magic tricks. On how Harris III broke out of that "perception box" or how Harris turned his story around.<br><br>
-
+Harris was not particularly enthusiastic about this idea, but he went on stage and did it anyway. He broke out of a straight jacket and said that straight jacket was what his mind was like. His perception box, limiting him and his abilities.<br><br>
+after the show, he was packing all his stuff up when a girl came up to him with something in her hand. Harris did not know what it was and held his hand out. The girl dropped her razor blade, and sheepishly walked away. she told him that what he said changed her life, and that the razor blade was her straight jacket. he didn't get to catch her name. <br><br>
+what happened with her? Kind of called to me in a sense. It's true. I don't have a razor blade, but I do have incredible limitations. I've put on myself in my own mind. That harm is my mental health. Hearing her and her story even in just the small portion inspired me to want to continue my mental health journey to its fullest. To keep trying to break out of that straight jacket because at the end of the day, we know it's possible. <br><br>
+he told us that later on that girl messaged him on Instagram, thanking him and telling him how her story ends- she never picked up under the razor blade again. <br><br>
+The takeaways are in the text, but I found his story interesting because it really confronted the ugly side of fame and the sad parts of mental health. as a sidenote, his talk and Elizabeth's tied together very nicely, so maybe that was planned or it was the theme of the morning half.
 
 # Lunch
 
