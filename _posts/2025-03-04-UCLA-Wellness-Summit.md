@@ -8,6 +8,8 @@ My friend met me at my house around 8:30 AM, and we arrived at about 9:00 AM (ri
 We exited the parking structure having no idea where we were or where we needed to go (other than the "Ackerman Union"). However, a volunteer for the event
 immediately approached us and directed us to a staircase nearby. By coincidence, we were right where we needed to be. We make our way through the building, following the sides, and check in at a table of student volunteers. <br><br>
 The venue was very nice, with large windows providing all of the light. Despite having opened 10 minutes ago, a good deal of guests waited in the breakfast line. My friend and I waited there as well. It was worth it, the continental breakfast tasted delicious. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_8470.png?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
+
 
 # The first half
 At 10, we sat at a table with a family and the event started. <br><br>
@@ -46,7 +48,9 @@ she then shared with us a story about a flag. But not just any flag. It's the co
 From Ishrad, I drew the importance of understanding and not just learning when it comes to debates, and to look for discussions in debate. 
 
 # Lunch
-it's time for lunch break! It was a buffet lunch and I had half of a chicken, chipotle sandwich, some chips, and some fruits. I was very lucky to be served lunch for free and that it was in the venue so I didn't have to go far or anything like that to get food. 
+it's time for lunch break! It was a buffet lunch and I had half of a chicken, chipotle sandwich, some chips, and some fruits. I was very lucky to be served lunch for free and that it was in the venue so I didn't have to go far or anything like that to get food. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_8475.png?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
+
 
 # Em Beihold
 I was incredibly excited about this segment. To be frank, she's the main reason I signed up for this event in the first place. The UCLA Eventbrite described it as: <br><br>
@@ -68,25 +72,37 @@ A psychiatrist talked to her about her experience with clinical depression, medi
 # Exploring the Campus
 
 ### Ackerman Union
-The Ackerman Union is where the event was initially hosted, and where the iconic Bruin bear lives. The architecture was really nice and I don't have too much to say on it as it was our first stop and I was preoccupied mentally with the event however, I will say that it was a very pleasant way to be greeted by the campus and it felt very safe and very green.
+The Ackerman Union is where the event was initially hosted, and where the iconic Bruin bear lives. The architecture was really nice and I don't have too much to say on it as it was our first stop and I was preoccupied mentally with the event however, I will say that it was a very pleasant way to be greeted by the campus and it felt very safe and very green. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_7256.JPEG?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
 
 ### The Dorms
-we wandered around for a bit initially and ended up at the dorms. The dorms reminded me a little bit of a neighborhood as there are people relaxing out on the front and it was very quiet. It was tall and the structure felt more homely rather than a block homing many students.
+we wandered around for a bit initially and ended up at the dorms. The dorms reminded me a little bit of a neighborhood as there are people relaxing out on the front and it was very quiet. It was tall and the structure felt more homely rather than a block homing many students. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_7257.JPEG?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
+*My friend was a very good photographer :)*
 
 ### The Fields & Stadiums
-We, on our way to Royce Hall, stopped right by the fields and the stadium. there was a soccer field, a track field football field, tennis courts and more. It is very clear UCLA values their athletics.
+We, on our way to Royce Hall, stopped right by the fields and the stadium. there was a soccer field, a track field football field, tennis courts and more. It is very clear UCLA values their athletics.<br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_8480.png?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
+
 
 ### Royce Hall
-we ended up at Royce Hall, which was a beautiful structure, probably the most gorgeous one I've seen on campus. The spires at the top and intrigued me. However, it was closed, so we couldn't explore the inside.
+we ended up at Royce Hall, which was a beautiful structure, probably the most gorgeous one I've seen on campus. The spires at the top and intrigued me. However, it was closed, so we couldn't explore the inside. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_7261.JPEG?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
 
 ### Fowler's Museum
-Fowler's museum was noticeably quiet and it was a little unnerving. However, exhibits were really interesting. I found the one about the wildfires the most interesting as we reside in California and we are no strangers to wildfires. what scared of the both of us as we walked around where the people who resided in the darkness to watch over the exhibit. You wouldn't notice they were there until they made a shuffle or movement. However, I thoroughly enjoyed visiting this part of UCLA and it's really nice that it was free entry for all.
+Fowler's museum was noticeably quiet and it was a little unnerving. However, exhibits were really interesting. I found the one about the wildfires the most interesting as we reside in California and we are no strangers to wildfires. what scared of the both of us as we walked around where the people who resided in the darkness to watch over the exhibit. You wouldn't notice they were there until they made a shuffle or movement. However, I thoroughly enjoyed visiting this part of UCLA and it's really nice that it was free entry for all. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_7263.JPEG?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
+
 
 ### Libraries
-we visited a range of libraries. A couple were closed, but a couple were also open. Often times they transitioned into classrooms and most students in there if not every student in there was in their own world, studying for chemistry or engineering or more or something else one or two of the libraries we visited were completely quiet with every person in there wearing headphones very different from libraries. I visited at community colleges, for example. something interesting I noticed was that one of the libraries had an entire floor dedicated to Anderson business masters students. 
+we visited a range of libraries. A couple were closed, but a couple were also open. Often times they transitioned into classrooms and most students in there if not every student in there was in their own world, studying for chemistry or engineering or more or something else one or two of the libraries we visited were completely quiet with every person in there wearing headphones very different from libraries. I visited at community colleges, for example. something interesting I noticed was that one of the libraries had an entire floor dedicated to Anderson business masters students. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_7266.JPEG?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
+
 
 # Going home
-The drive home was nice. I typically hear about how much of a nightmare  Los Angeles traffic is, but it went okay for us. I actually ended up falling asleep funnily enough.
+The drive home was nice. I typically hear about how much of a nightmare  Los Angeles traffic is, but it went okay for us. I actually ended up falling asleep funnily enough.<br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_8515.png?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> <br><br>
+*this is so blurry, but the sunset was nice.*
 
 # The rest of the day
 The rest of the night we had chicken sandwich sandwiches and we went out and played beach volleyball at our park and just talked and hung out. it was the most enjoyable evening or day of my entire February and I look forward to the opportunity to attend another UCLA event again. :-)
