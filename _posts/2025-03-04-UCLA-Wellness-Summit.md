@@ -89,7 +89,7 @@ We, on our way to Royce Hall, stopped right by the fields and the stadium. there
 
 ### Royce Hall
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_7261.JPEG?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
-We ended up at Royce Hall, which was a beautiful structure, probably the most gorgeous one I've seen on campus. The spires at the top and intrigued me. However, it was closed, so we couldn't explore the inside. <br><br>
+We ended up at Royce Hall, which was a beautiful structure, probably the most gorgeous one I've seen on campus. The spires at the top and intrigued me. However, it was closed, so we couldn't explore the inside. <br><br><br><br><br><br><br><br><br><br>
 
 ### Fowler's Museum
 Fowler's museum was noticeably quiet and it was a little unnerving. However, exhibits were really interesting. I found the one about the wildfires the most interesting as we reside in California and we are no strangers to wildfires. what scared of the both of us as we walked around where the people who resided in the darkness to watch over the exhibit. You wouldn't notice they were there until they made a shuffle or movement. However, I thoroughly enjoyed visiting this part of UCLA and it's really nice that it was free entry for all. <br><br>
