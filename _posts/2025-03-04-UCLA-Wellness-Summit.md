@@ -56,9 +56,9 @@ It's time for lunch break! It was a buffet lunch and I had half of a chicken, ch
 
 # Em Beihold
 I was incredibly excited about this segment. To be frank, she's the main reason I signed up for this event in the first place. The UCLA Eventbrite described it as: <br><br>
-**"**<br><br>
-For singer-songwriter, Em Beihold, music opens a conduit to all those emotions we think about constantly but are often too nervous or afraid to say aloud in everyday conversation. With a sharp pen and infectious voice, she takes all the awkwardness, anxiety, stress, hesitancy, and uncertainty of everyday life and turns it into pretty, yet punchy pop music. It’s like she’s making sense of her mental health in real-time, layering diary-style lyrical confessions over sunny piano and bright beat-craft.
-**"**<br><br>
+**"**<br>
+For singer-songwriter, Em Beihold, music opens a conduit to all those emotions we think about constantly but are often too nervous or afraid to say aloud in everyday conversation. With a sharp pen and infectious voice, she takes all the awkwardness, anxiety, stress, hesitancy, and uncertainty of everyday life and turns it into pretty, yet punchy pop music. It’s like she’s making sense of her mental health in real-time, layering diary-style lyrical confessions over sunny piano and bright beat-craft.<br>
+**"**<br>
 
 This section of this post will be super biased. I was introduced to her music my sophomore year, with her song ["Too Precious"](https://www.youtube.com/watch?v=kHNCHjmFSck). However, she's most well known for her song "Numb Little Bug," having blown up as an audio on TikTok. <br><br>
 A psychiatrist talked to her about her experience with clinical depression, medication, seeking help, and her sudden rise to fame. 
