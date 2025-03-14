@@ -51,7 +51,7 @@ From Ishrad, I drew the importance of understanding and not just learning when i
 
 # Lunch
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/IMG_8475.png?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
-It's time for lunch break! It was a buffet lunch and I had half of a chicken, chipotle sandwich, some chips, and some fruits. I was very lucky to be served lunch for free and that it was in the venue so I didn't have to go far or anything like that to get food. <br><br>
+It's time for lunch break! It was a buffet lunch and I had half of a chicken, chipotle sandwich, some chips, and some fruits. I was very lucky to be served lunch for free and that it was in the venue so I didn't have to go far or anything like that to get food. <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 # Em Beihold
