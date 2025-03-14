@@ -45,7 +45,9 @@ One day, she stopped to listen more to the other side and took to looking for di
 she was confused. "After all of this time and all of us efforts I am finally being recognized for what I've been pushing for this is what I've been looking for, what is different?" <br><br>
 The priests and the Popes and the leaders all told her "because we know we won't be boosting your ego." <br><br>
 she then shared with us a story about a flag. But not just any flag. It's the confederate flag. That is a part of the Mississippi state flag. A black woman feels this is a misrepresentation of her and her people who live in the state. A white man whose family fought in the confederacy feels it's important to their culture and their history. The video emphasizes how it ends with the man supporting the woman's decision, even if he doesn't agree with it. <br><br>
-From Ishrad, I drew the importance of understanding and not just learning when it comes to debates, and to look for discussions in debate. 
+From Ishrad, I drew the importance of understanding and not just learning when it comes to debates, and to look for discussions in debate. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202025/ucla_2.jpeg?raw=true" alt="ackerman union" style= "float: left; padding-right:10px" width="300"/> 
+
 
 # Lunch
 it's time for lunch break! It was a buffet lunch and I had half of a chicken, chipotle sandwich, some chips, and some fruits. I was very lucky to be served lunch for free and that it was in the venue so I didn't have to go far or anything like that to get food. <br><br>
