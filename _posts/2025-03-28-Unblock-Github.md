@@ -7,5 +7,11 @@ It uses Git to provide distributed version control and GitHub itself provides ac
 Headquartered in California, GitHub, Inc. has been a subsidiary of Microsoft since 2018."* <br><br>
 It's also what I use to upload my blog posts and host my website. 
 
+## Why did it get blocked?
+I do not have the exact reason why it got blocked. However, most IDEs are blocked on my school account and/or wifi. <br><br>
+*An integrated development environment is a software application that provides comprehensive facilities for software development. An IDE normally consists of at least a source-code editor, build automation tools, and a debugger.* <br><br>
+They automatically block any .io websites as many games are run on .io. However, some .io's are IDEs as well. Non .io's are 
+
+
 ## Why it should be unblocked
 
