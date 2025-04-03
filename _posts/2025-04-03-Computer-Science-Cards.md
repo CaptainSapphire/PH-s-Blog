@@ -11,4 +11,10 @@ Have you ever been on discord?<br><br>
 If so, you've seen this before. !["discord bandwidth patrol"](https://preview.redd.it/how-do-i-turn-this-off-v0-8eg06gfur7ed1.jpeg?auto=webp&s=fb71eafef9b6d7150c25b42aa7177000128dd949)<br><br>
 Data being transferred at certain speeds is something important to... everything. If a webpage takes too long to load, you close it and that business has lost your business. If the StarBucks wifi you're on is too slow, the data isn't coming to you fast enough, you go to the library instead. Productivity. Efficiency. Speed. If you can't transmit a lot of data in a certain amount of time, what are you doing?
 
-## 
+## Heuristic
+This was entirely new to me at the time of making, but it's a good term to remember. <br><br>
+!["heuristic visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/heuristic.jpg?raw=true)
+
+## Hexadecimal
+I remember on the test having to go from binary to decimal to hex and back. It's a good system to know. <br><br>
+!["hexadecimal visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/hexadecimal.jpg?raw=true)
