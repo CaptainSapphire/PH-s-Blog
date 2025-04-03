@@ -18,3 +18,29 @@ This was entirely new to me at the time of making, but it's a good term to remem
 ## Hexadecimal
 I remember on the test having to go from binary to decimal to hex and back. It's a good system to know. <br><br>
 !["hexadecimal visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/hexadecimal.jpg?raw=true)
+
+## "Internet Words"
+I put all of these into a category, but they're all individual things to learn. 
+!["internet words visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/internetwords.jpg?raw=true)
+
+## Lossy vs. Lossless Compression
+This is really important! Not on the test, it's only one question. But I've used this a lot. When do I need a high quality image versus a bunch of pictrueres that'll have to be compressed so I can fit it all into one blog post?? PNG, JPEG, JPG, GIF??<br><br>
+!["lossy versus lossless compression visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/lossyVlossless.jpg?raw=true)
+
+## Metadata
+!["metadata visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/metadata.jpg?raw=true) <br><br>
+I haven't seen metadata since that class, but it's good to know the prefix of meta, given the company Meta and all, and of course, you need to know what data means.
+
+
+## Pixel
+To be honest, I made this one for fun. Give it a look though!<br><br>
+!["pixel visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/pixel.jpg?raw=true)
+
+## RGB
+I use this a lot as an artist, when picking colors. There is a few systems, like HSL or RGB, but RGB is definitely one of the most popular. <br><br>
+
+!["rgb visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/rgb.jpg?raw=true)
+
+## Final Thoughts
+Although these are low res and super old, it's an interesting memory of a time where I crammed for a exam I prepared all year for. Good luck to those in AP season right now, and thank you for reading :) 
+
