@@ -23,7 +23,10 @@ The addiction Mildred faced and the burden it becomes on her and her relationshi
 
 ### The Outsiders
 ![the outsiders](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/It's%20Never%20Just%20Illness%20Finals_Priya%20Harry%20(4).jpg?raw=true)<br><br>
-Funnily enough, this week our performing arts department 
+Funnily enough, this week our performing arts department put on the outsiders. 
+
+## Takeaways
+This was my first introduction into how important meaning is in media. It is never *just* how it is, everything in a story has its meaning and purpose. Thank you to my english teacher at that time for teaching my how to look at media, and how to analyze it as a consumer. 
 
 ## Works Cited
 ![works cited](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/It's%20Never%20Just%20Illness%20Finals_Priya%20Harry.png?raw=true)
