@@ -22,13 +22,13 @@ There were some very helpful instructors walking around answering all our questi
 **Well Priya, what did you learn?** <br><br>
 I'm glad you asked! A lot. Although I'd like to detail everything, I'll save that for [my YouTube](https://www.youtube.com/@priya-harry) and tutorials I'll make later. <br><br>
 However, once I finished, I made a summary of everything I had learned in R Studio with comments, so I'll insert some pictures of all of that here: <br><br>
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092346.png?raw=true" alt="1" width="100"/>
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092357.png?raw=true" alt="2" width="100"/>
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092409.png?raw=true" alt="3" width="100"/> <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092346.png?raw=true" alt="1" width="300"/>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092357.png?raw=true" alt="2" width="300"/>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092409.png?raw=true" alt="3" width="300"/> <br><br>
 *note: this was made in a RStudio Script, but the screenshots are from microsoft notepad :)*
 
 ## Lunch
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9341.jpg?raw=true" alt="free food" width="100"/>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9341.jpg?raw=true" alt="free food" width="100"/><br><Br>
 *free food!* <br><br>
 Lunch was free and provided. Wylan and I sat and ate together, and then we went to say hi to their brother. At their table was a couple, so I talked to them for a short while. Both of them used to go to art school, interestingly enough. Now, they are in much different careers, with one working in business and one working in data science. They both shared their individual experiences with such a career transition, and as well as what exactly they currently do. Check them out on Linkedin, [Lu (Lydia) Timlin-Broussard](https://www.linkedin.com/in/lydiambroussard/) and [Christopher Timlin-Broussard](https://www.linkedin.com/in/ctbrou/), they were both such a delight to meet. :) <br><br>
 We talked with Andor shortly, before reconvening to the lecture hall to prepare for the competition.
