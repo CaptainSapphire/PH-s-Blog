@@ -52,7 +52,9 @@ After that, we went back to the lecture hall to listen to the advice of the pane
 <li> Matthew Zivot - Chief Data Officer & Director of Institutional Research at CSUCI </li>
 <li> Michael Ludkovski - Prof. Dept. of Stats * Applied Probability (PSTAT) Co-Director, Center for Fnancial Mathmatics & Actuarial Research, Lead for the Sourthern California Consortium for Data Science (CA Learning Lab Data Science Grand Challenge Pathways Track) </li>
 <br><br>
-** **
+Let's go over the highlights from the questions! <br><br>
+
+**Tell us about the jobs in your field in the data science.**
 
 ** **
 
@@ -60,7 +62,7 @@ After that, we went back to the lecture hall to listen to the advice of the pane
 
 
 ## Awards
-
+At the very end was the awards ceremony, where
 
 ![awards](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Resized_image000000.jpeg?raw=true)<br><br>
 *it was such an honor to attend and compete with this wonderful team :))*
