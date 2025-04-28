@@ -15,7 +15,7 @@ After that, I went inside the lecture hall and sat behind someone, and overheard
 Once we ran down what Data Science is, the schedule, and other items on the list, we went to the Computer Labs. 
 
 ## RStudio Lesson
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9339.jpg?raw=true" alt="computer lab" style= "float: left; padding-right:10px" width="300"/> At the computer labs, we followed a tutorial on how to program with RStudio (app) and ggplot (library) using a data set about cars and their mpg (miles per gallon) as well as their other stats. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9339.jpg?raw=true" alt="computer lab" style= "float: left; padding-right:10px" width="300"/> At the computer labs, we followed a [tutorial](https://www.inqs.info/ci_datathon_25/tutorial.html) on how to program with RStudio (app) and ggplot (library) using a data set about cars and their mpg (miles per gallon) as well as their other stats. <br><br>
 ![RStudio introduction](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9340.jpg?raw=true) <br><br>
 There were some very helpful instructors walking around answering all our questions. At one point, they kept one instructor close to my station because I often asked for more detail, or about a potential error in the directions, or for clarification, haha. <br><br>
 **Well Priya, what did you learn?** <br><br>
@@ -23,22 +23,47 @@ I'm glad you asked! A lot. Although I'd like to detail everything, I'll save tha
 However, once I finished, I made a summary of everything I had learned in R Studio with comments, so I'll insert some pictures of all of that here: <br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092346.png?raw=true" alt="1" width="100"/>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092357.png?raw=true" alt="2" width="100"/>
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092409.png?raw=true" alt="3" width="100"/>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Screenshot%202025-04-28%20092409.png?raw=true" alt="3" width="100"/> <br><br>
+*note: this was made in a RStudio Script, but the screenshots are from microsoft notepad :)*
 
 ## Lunch
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9341.jpg?raw=true" alt="free food" width="100"/>
 *free food!* <br><br>
 Lunch was free and provided. Wylan and I sat and ate together, and then we went to say hi to their brother. At their table was a couple, so I talked to them for a short while. Both of them used to go to art school, interestingly enough. Now, they are in much different careers, with one working in business and one working in data science. They both shared their individual experiences with such a career transition, and as well as what exactly they currently do. Check them out on Linkedin, [Lu (Lydia) Timlin-Broussard](https://www.linkedin.com/in/lydiambroussard/) and [Christopher Timlin-Broussard](https://www.linkedin.com/in/ctbrou/), they were both such a delight to meet. :) <br><br>
 We talked with Andor shortly, before reconvening to the lecture hall to prepare for the competition.
-## Competition
-https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9343.jpg?raw=true
 
+## Competition
+There was two levels; beginning and advanced. I was competiting at the beginning level since this was my first time doing most of this. We were to form teams, which ended up being 4-5 people each. <br><br>
+The [competiton](https://www.inqs.info/ci_datathon_25/competition.html) required us to analyze data about the Channel Island Foxes, either their weight or reproductive status, create data visualizations, and then present about our findings. We had an hour to make the presentation, and 5 minutes to present. <br><br>
+My team consisted of Wylan, Andor, and a girl named Tracy Li I pulled over to join us as well. (Unfortunately none of them have a linkedin for me to link). <br><br>
+Tracy is an incoming freshman at UCI as a data science major, and currently a high school senior. <br><br>
+Wylan left to deal with a migrane for a short while, and Andor was having trouble loading the code in, so for the first half hour, Tracy and I made data visualizations with R Studio and made the presentation. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9343.jpg?raw=true" alt="CSUCI architechture" width="500"/> <br><br>
+The second half, Wylan was back and the three of us were making corrections to any of the visualizations as needed. For one, we altered the weight-vaccinations slide to be faceted by gender, since female foxes tend to be smaller. I left for the restroom after we submitted and when I returned, we had one last thing we wanted to do. <br><br>
+On our third or fourth slide, the y-axis (body condition) was organized alphabetically rather than by quantity (the x-axis was by weight) so we had to factor/level the y-axis by weight right as we submitted at the end of the hour. <br><br>
+Then we presented! You can see a link to it [here](). Our team was the Virtual Vulpines, deemed by Wylan because Vulpines is a word for fox, and virtual since this is a technology-based event. :)
 
 ## Panelists
+After that, we went back to the lecture hall to listen to the advice of the panelists! <br><br>
+**The panelists:**
+<li> Nausheen Ahmed - Executive Director, Supply Chain Operational Excellence for Cedars-Sinai Health System</li>
+<li> Gregory Devogel - Chief Technical Officer at the Naval Seas Surface Warfare Center, Port Hueneme Division</li>
+<li> Matt Dawson - Staff Data Scientist at Google </li>
+<li> Matthew Zivot - Chief Data Officer & Director of Institutional Research at CSUCI </li>
+<li> Michael Ludkovski - Prof. Dept. of Stats * Applied Probability (PSTAT) Co-Director, Center for Fnancial Mathmatics & Actuarial Research, Lead for the Sourthern California Consortium for Data Science (CA Learning Lab Data Science Grand Challenge Pathways Track) </li>
+<br><br>
+** **
+
+** **
+
+** **
 
 
 ## Awards
-https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Resized_image000000.jpeg?raw=true
+
+
+![awards](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Resized_image000000.jpeg?raw=true)<br><br>
+*it was such an honor to attend and compete with this wonderful team :))*
 
 ## Networking
 
