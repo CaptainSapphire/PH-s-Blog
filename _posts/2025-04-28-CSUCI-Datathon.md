@@ -6,18 +6,17 @@ This Saturday, I attended <a href="https://www.csuci.edu/news/releases/2025-firs
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9331.jpg?raw=true" alt="CSUCI architechture" width="500"/> <br><br>
 *the morning was so cold, but the campus is so pretty!* <br><Br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9330.jpg?raw=true" alt="CSUCI Morning" style= "float: left; padding-right:10px" width="300"/> Once I was on campus, I followed the signs they put around and arrived at Del Norte hall. I checked in and they handed me a tote bag of resources and swag. Then, I talked with the woman working behind the table. Her name was [Jasmine Wright](https://www.linkedin.com/in/jasmine-wright-0025271b4/), a senior at CSUCI majoring in Applied Mathmatics. She shared she was lookng into taking a gap year, and then getting her PhD. From there, she intended on working with marine biologists to study and research with them, in the field/as a data scientist.
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9333.jpg?raw=true" alt="Del Norte Hall" width="300"/>
-*a picture of Del Norte hall*
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9333.jpg?raw=true" alt="Del Norte Hall" style= "float: left; padding-right:10px" width="300"/>
 After that, I went inside the lecture hall and sat behind someone, and overheard them say they were going to Moorpark College. I jumped in since, I too, am going to Moorpark College in the fall as a freshman. I met Wylan Brown, an incoming chemistry major, as well as their brother, Andor Brown. <br><br>
 
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9335.jpg?raw=true" alt="introductions" style= "float: left; padding-right:10px" width="300"/> After talking to Wylan about books and whatnot for a bit, the introductions presentation began, led by [Alona Kryshchenko](https://ciapps.csuci.edu/directory/Details?uid=alona.kryshchenko) and Isaac Noe Quintanilla-Salinas, Data Science and Mathmatics professors at CSUCI.
-Once we ran down what Data Science is, the schedule, and other items on the list, we went to the Computer Labs. <br><br>
+Once we ran down what Data Science is, the schedule, and other items on the list, we went to the Computer Labs. <br><br><br><br>
 
 ## RStudio Lesson
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9339.jpg?raw=true" alt="computer lab" style= "float: left; padding-right:10px" width="300"/> At the computer labs, we followed a [tutorial](https://www.inqs.info/ci_datathon_25/tutorial.html) on how to program with RStudio (app) and ggplot (library) using a data set about cars and their mpg (miles per gallon) as well as their other stats. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9339.jpg?raw=true" alt="computer lab" style= "float: left; padding-right:10px" width="300"/> At the computer labs, we followed a [tutorial](https://www.inqs.info/ci_datathon_25/tutorial.html) on how to program with RStudio (app) and ggplot (library) using a data set about cars and their mpg (miles per gallon) as well as their other stats. <br><br><br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9340.jpg?raw=true" alt="RStudio Introduction" style= "float: left; padding-right:10px" width="300"/>
 <br><br>
-There were some very helpful instructors walking around answering all our questions. At one point, they kept one instructor close to my station because I often asked for more detail, or about a potential error in the directions, or for clarification, haha. <br><br>
+There were some very helpful instructors walking around answering all our questions. At one point, they kept one instructor close to my station because I often asked for more detail, or about a potential error in the directions, or for clarification, haha. <br><br><br>
 **Well Priya, what did you learn?** <br><br>
 I'm glad you asked! A lot. Although I'd like to detail everything, I'll save that for [my YouTube](https://www.youtube.com/@priya-harry) and tutorials I'll make later. <br><br>
 However, once I finished, I made a summary of everything I had learned in R Studio with comments, so I'll insert some pictures of all of that here: <br><br>
