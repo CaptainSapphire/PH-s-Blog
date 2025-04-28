@@ -55,11 +55,22 @@ After that, we went back to the lecture hall to listen to the advice of the pane
 Let's go over the highlights from the questions! <br><br>
 
 **Tell us about the jobs in your field in the data science.**
+<li> Ahmed: She has analysts report to her, but they are constantly doing something different every day, and there's a wide range of tools they use. "You can have problems in the clinical sites, which will require a lot of data cleanup and interpretation. We can have large moding and logistics problems, which will be caring theory and other mathematical processes. Then we have forecasting which uses AI neural net and other forecasting techniques." She furthered shared the data extraction, model development and financial aspects of data analysts jobs as well. </li>
+<li> Zivot: he shared how he "gets bored doing the same thing every day" and that day-to-day life for data science is not consistent or the same. "We try to help the universiy how well it's functioning." He says this line of working is asking the right questions as well as having people skills. He shared a lot of the work is producing data visualizations that answers the questions they see the university is trying to answer. </li>
+<li> Dawson: "I might be spending a lot of money on Google ads, how can we tell them that it's worth it?" He also states the work varys day-to-day. </li>
+
+**Takaways**: Data scientists have different work each day, a lot of the job is convicing the business what is and isn't profitable
+
+** What have you learned in your job and in life? **
+<li> Devogel: "A lot of people as a superficial wuestions, and we call it the five Whys... So you have to go a few times asking why and you'll find out the question they're asking isn't what they really want... Almost every rule has a way to waive it or a way to get around it (legally)." Zivot and Ahmed agreed with the "people never ask the question" lesson. Zivot added it is important to have people that give you honest feedback. </li>
+<li> Dawson: "There is no finish line in data science, there's always more to learn" (paraphrased). </li>
+<li> </li>
 
 ** **
+<li></li>
+<li></li>
 
 ** **
-
 
 ## Awards
 At the very end was the awards ceremony, where our team in the Beginners division got the "Best Interpretation" Award.
