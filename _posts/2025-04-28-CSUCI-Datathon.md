@@ -8,10 +8,11 @@ This Saturday, I attended <a href="https://www.csuci.edu/news/releases/2025-firs
 After that, I went inside the lecture hall and sat behind someone, and overheard them say they were going to Moorpark College. I jumped in since, I too, am going to Moorpark College in the fall as a freshman. I met Wylan Brown, an incoming chemistry major, as well as their brother, Andor Brown. <br><br>
 
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9335.jpg?raw=true" alt="introductions" style= "float: left; padding-right:10px" width="300"/> After talking to Wylan about books and whatnot for a bit, the introductions presentation began, led by [Alona Kryshchenko](https://ciapps.csuci.edu/directory/Details?uid=alona.kryshchenko) and Isaac Noe Quintanilla-Salinas, Data Science and Mathmatics professors at CSUCI.
-Once we ran down what Data Science is, the schedule, and other items on the list, we went to the Computer Labs. <br><br><br><br>
+Once we ran down what Data Science is, the schedule, and other items on the list, we went to the Computer Labs. <br><br><br><br><br><br>
 
 ## RStudio Lesson
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9339.jpg?raw=true" alt="computer lab" style= "float: left; padding-right:10px" width="300"/> At the computer labs, we followed a [tutorial](https://www.inqs.info/ci_datathon_25/tutorial.html) on how to program with RStudio (app) and ggplot (library) using a data set about cars and their mpg (miles per gallon) as well as their other stats. <br><br><br><br>
+<br><br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9340.jpg?raw=true" alt="RStudio Introduction" style= "float: left; padding-right:10px" width="300"/>
 <br><br>
 There were some very helpful instructors walking around answering all our questions. At one point, they kept one instructor close to my station because I often asked for more detail, or about a potential error in the directions, or for clarification, haha. <br><br><br>
@@ -24,7 +25,7 @@ However, once I finished, I made a summary of everything I had learned in R Stud
 *note: this was made in a RStudio Script, but the screenshots are from microsoft notepad :)*
 
 ## Lunch
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9341.jpg?raw=true" alt="free food" width="100"/><br><Br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/IMG_9341.jpg?raw=true" alt="free food" style= "float: left; padding-right:10px" width="300"/><br><Br>
 *free food!* <br><br>
 Lunch was free and provided. Wylan and I sat and ate together, and then we went to say hi to their brother. At their table was a couple, so I talked to them for a short while. Both of them used to go to art school, interestingly enough. Now, they are in much different careers, with one working in business and one working in data science. They both shared their individual experiences with such a career transition, and as well as what exactly they currently do. Check them out on Linkedin, [Lu (Lydia) Timlin-Broussard](https://www.linkedin.com/in/lydiambroussard/) and [Christopher Timlin-Broussard](https://www.linkedin.com/in/ctbrou/), they were both such a delight to meet. :) <br><br>
 We talked with Andor shortly, before reconvening to the lecture hall to prepare for the competition.
