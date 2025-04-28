@@ -62,12 +62,15 @@ Let's go over the highlights from the questions! <br><br>
 
 
 ## Awards
-At the very end was the awards ceremony, where
-
+At the very end was the awards ceremony, where our team in the Beginners division got the "Best Interpretation" Award.
 ![awards](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/April%202025/Resized_image000000.jpeg?raw=true)<br><br>
 *it was such an honor to attend and compete with this wonderful team :))*
 
 ## Networking
-
+I talked to Matt Dawson after for a short while about his journey, as well as his advice.
+Similar to me, he lives in TO, went to Moorpark College, and transferred to CSUCI (I intend on transferring elsewhere, but similar path). Along the way, he built projects, in his field, but about things he enjoyed.
+"One was so dumb, but I wanted to make a recipe for *one singular* cookie. So I made algorithms that pulled from recipes on the net and had to find ways to get 1/8th of a cookie!"<br><br>
+His main advice throughout the whole panel as well as directly was to just try things, since he had gone from a music major to a couple other majors to a math major with a PhD before he got where he is. He explored, made projects, and now he works at Google! 
 
 ## Final Thoughts/Takeaways
+There was so much to learn and people to meet at this wonderful event. I networked with all sorts of people, high-schoolers, college students, and people working in the field today. I learned all about R-Studio and R programming, and I am so grateful to have gotten to experience this. That's all, thank you for reading :)
