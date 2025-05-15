@@ -78,7 +78,7 @@ At the very end was the awards ceremony, where our team in the Beginners divisio
 ## Networking
 I talked to Matt Dawson after for a short while about his journey, as well as his advice.
 Similar to me, he lives in TO, went to Moorpark College, and transferred to CSUCI (I intend on transferring elsewhere, but similar path). Along the way, he built projects, in his field, but about things he enjoyed.
-"One was so dumb, but I wanted to make a recipe for *one singular* cookie. So I made algorithms that pulled from recipes on the net and had to find ways to get 1/8th of a cookie!"<br><br>
+"One was so dumb, but I wanted to make a recipe for *one singular* cookie. So I made algorithms that pulled from recipes on the net and had to find ways to get 1/8th of a egg!"<br><br>
 His main advice throughout the whole panel as well as directly was to just try things, since he had gone from a music major to a couple other majors to a math major with a PhD before he got where he is. He explored, made projects, and now he works at Google! 
 
 ## Final Thoughts/Takeaways
