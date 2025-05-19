@@ -54,13 +54,13 @@ Occasionally, he gave me a prompt, had AI write about it/explain it, and then ha
 
 - abuse report paper
 
-### Making his Website
+11. **Making his Website** <br><br>
 Surprise! I already wrote a blog post on this. [Go read it here.](https://captainsapphire.github.io/PH-s-Blog/blog/2024/08/14/Second-TA-assignment.html)
 
-### Helping Students with Code
+12. **Helping Students with Code** <br><br>
 - peter
 - paul/josanna/abhiyan
 
-### Archiving the Classes on a macbook
+13. **Archiving the Classes on a macbook** <br><br>
 
 ## Takeaways
