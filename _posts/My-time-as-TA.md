@@ -20,25 +20,37 @@ He asked me to write a python recursion loop (which is something the students ne
 2. **Giraffe Academy Code Snippets** <br><br>
 He had me take the code snippets from a giraffe academy course and make an answer keep for the students. I re-color coded it and emailed back to him an 18 page doc. As interesting as it is, I'd reccomend just going though the course on your own time. :)
 
-3. **CyberPatriot**
+3. **CyberPatriot** <br><br>
 At one point he wanted to make a team or club to participate in the U.S. cyberpatriot activites. <br><br>
 !["CyberPatriot"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20114751.png?raw=true)<br><br>
 Although the event itself never came to fruition, it was good to research and learn about. 
 
-4. **Interactive Spoofing Lesson**
+4. **Interactive Spoofing Lesson** <br><br>
 Mr. Sanchez wanted to provide an interactive spoofing lesson to hs students. <br><br>
 !["Spoofing Lesson"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20115201.png?raw=true)
 
-5. **Atari Games**
+5. **Atari Games** <br><br>
 One day, when I asked if he needed help, Mr. Sanchez asked me for unblocked games. I was a little confused first, but maybe he wanted to block those from the students. When I asked for clarification, he said he
 wanted the students to build an atari game, but discovered many of them hadn't ever played nor heard of an atari game. And so, I found some on replit for his students to try and learn from. <br><br>
 !["Atari Games"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20115416.png?raw=true)
 
-6. **IoT Weaknesses**
+6. **IoT Weaknesses** <br><br>
 Mr. Sanchez wanted to teach the students about the weaknesses of Internet of Things (IoT) devices in a short and simple manner. I did some research and sent him some resources. <br><br>
 !["IoT Weaknesses"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20115731.png?raw=true)
 
-7. ****
+7. **TryHackMe** <br><br>
+Mr. Sanchez wanted to contact TryHackMe and wanted a list of different contact methods. <br><br>
+!["TryHackMe"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20120201.png?raw=true)
+
+8. **CLARK Website** <br><br>
+He sent he a website link and asked me to go through and rate each link. Although some may be brutal and informal, it got the point across. <br><br>
+!["CLARK Website"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20120510.png?raw=true)
+
+9. **Usage of ChatGPT (General)** <br><br>
+Generally, he'll give me directions for his assignment and have me input them into ChatGPT, so he knows what it'll look like if a student cheats.<br><br>
+Occasionally, he gave me a prompt, had AI write about it/explain it, and then had me summarize it in a shorter format for him. Ex: ""What is important about the California State Plan for Career Technical Education and how does this impact me as a teacher," "Marzano’s Nine Essential Instructional Strategies, Blooms Taxonomy, Career Technical Student Organizations (CTSOs), Why are these 3 topics important to teachers and how can they help teachers become more effective at teaching?"
+
+10. **Abuse Report Website** <br><br>
 
 - abuse report paper
 
