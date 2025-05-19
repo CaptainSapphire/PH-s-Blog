@@ -21,11 +21,26 @@ He asked me to write a python recursion loop (which is something the students ne
 He had me take the code snippets from a giraffe academy course and make an answer keep for the students. I re-color coded it and emailed back to him an 18 page doc. As interesting as it is, I'd reccomend just going though the course on your own time. :)
 
 3. **CyberPatriot**
-At one point he wanted to make a team or club to participate in the U.S. cyberpatriot activites. 
+At one point he wanted to make a team or club to participate in the U.S. cyberpatriot activites. <br><br>
+!["CyberPatriot"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20114751.png?raw=true)<br><br>
+Although the event itself never came to fruition, it was good to research and learn about. 
 
-- Python code loop
+4. **Interactive Spoofing Lesson**
+Mr. Sanchez wanted to provide an interactive spoofing lesson to hs students. <br><br>
+!["Spoofing Lesson"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20115201.png?raw=true)
+
+5. **Atari Games**
+One day, when I asked if he needed help, Mr. Sanchez asked me for unblocked games. I was a little confused first, but maybe he wanted to block those from the students. When I asked for clarification, he said he
+wanted the students to build an atari game, but discovered many of them hadn't ever played nor heard of an atari game. And so, I found some on replit for his students to try and learn from. <br><br>
+!["Atari Games"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20115416.png?raw=true)
+
+6. **IoT Weaknesses**
+Mr. Sanchez wanted to teach the students about the weaknesses of Internet of Things (IoT) devices in a short and simple manner. I did some research and sent him some resources. <br><br>
+!["IoT Weaknesses"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20115731.png?raw=true)
+
+7. ****
+
 - abuse report paper
-- chatgpt the
 
 ### Making his Website
 Surprise! I already wrote a blog post on this. [Go read it here.](https://captainsapphire.github.io/PH-s-Blog/blog/2024/08/14/Second-TA-assignment.html)
