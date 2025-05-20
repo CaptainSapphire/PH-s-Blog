@@ -51,16 +51,15 @@ Generally, he'll give me directions for his assignment and have me input them in
 Occasionally, he gave me a prompt, had AI write about it/explain it, and then had me summarize it in a shorter format for him. Ex: ""What is important about the California State Plan for Career Technical Education and how does this impact me as a teacher," "Marzano’s Nine Essential Instructional Strategies, Blooms Taxonomy, Career Technical Student Organizations (CTSOs), Why are these 3 topics important to teachers and how can they help teachers become more effective at teaching?"
 
 10. **Abuse Report Website** <br><br>
-
-- abuse report paper
+For his cybersecurity class, he had me research how to anonymously submit an abuse report form, and print copies for students. 
 
 11. **Making his Website** <br><br>
 Surprise! I already wrote a blog post on this. [Go read it here.](https://captainsapphire.github.io/PH-s-Blog/blog/2024/08/14/Second-TA-assignment.html)
 
 12. **Helping Students with Code** <br><br>
-- peter
-- paul/josanna/abhiyan
+Throughout the year, I would also look over and aid students in making their apps. I would have them summarize the function of the code I'm looking at, and then try to re-work with them a different approach to the code since oftentimes it wasn't the most efficient nor optimized. Of course, there were simple syntax issues, but usually they figured that out before they needed my hands on it. 
 
 13. **Archiving the Classes on a macbook** <br><br>
+
 
 ## Takeaways
