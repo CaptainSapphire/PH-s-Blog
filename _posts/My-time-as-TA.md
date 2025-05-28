@@ -60,6 +60,7 @@ Surprise! I already wrote a blog post on this. [Go read it here.](https://captai
 Throughout the year, I would also look over and aid students in making their apps. I would have them summarize the function of the code I'm looking at, and then try to re-work with them a different approach to the code since oftentimes it wasn't the most efficient nor optimized. Of course, there were simple syntax issues, but usually they figured that out before they needed my hands on it. 
 
 13. **Archiving the Classes on a macbook** <br><br>
+I had to archive all of the old classwork into folders onto a hard drive. I used text edit for the directions, and just downloaded the files. I went in chronological order so when he uses it again next year, he'll know the original order the course was in. I practiced using different shortcuts than that on a Dell Laptop or school Chromebook. 
 
-
-## Takeaways
+## Final Thoughts
+It was such a pleasure to work this role, and I am grateful for the experience working with and helping people with this everchanging field of computer science. 
