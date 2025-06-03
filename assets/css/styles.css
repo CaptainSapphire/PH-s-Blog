@@ -76,3 +76,24 @@ footer {
   bottom: 0;
   width: 100%;
 }
+.post-previews {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.post-preview {
+  width: 300px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+.post-thumbnail {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
