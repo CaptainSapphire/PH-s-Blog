@@ -1,3 +1,10 @@
+---
+layout: post
+title: "My Time as TA"
+date: 2025-05-28
+featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/May%202025/Screenshot%202025-05-19%20114751.png?raw=true
+---
+
 # My Experience Working as a CS TA
 Hey everyone, it's been a while. I took a short break for finals, but I am back to blog posting now. :) <br><br>
 I worked as [Mr. Sanchez's](https://sites.google.com/opusd.us/mr-sanchez/home) TA for his [Computer Science Principles](https://apstudents.collegeboard.org/courses/ap-computer-science-principles) class. 
