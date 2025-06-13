@@ -20,13 +20,17 @@ A **DBMS** is a system/tool used to work with the data in a dataset/database. Yo
 
 ## Relational/non-relational Databases
 These are two kinds of databases best differentiated by their structure. A relational database will typically look like a table of values, while a non-relational database can be a range of things, from an object in javascript to a graph. <Br><Br>
-!["Example Table"](https://vt-vtwa-assets.varsitytutors.com/vt-vtwa/uploads/problem_question_image/image/22885/TABLE8.PNG) <br><Br>
+<img src="https://vt-vtwa-assets.varsitytutors.com/vt-vtwa/uploads/problem_question_image/image/22885/TABLE8.PNG" alt="Example Table" width="500"/> <br><br>
+<br><Br>
 This is a relational database, as each value has a corresponding value, and it is laid out in a table format. <br><br>
-!["Node Tree"](https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp)<br><br>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp" alt="Node Tree" width="500"/> 
+<br><br>
 This is a node tree; and a non-relational database. It has values relating to each other, but is not in a typical format.
 
 ## Structured Query Language
-SQL is a programming language used to decode all of this, and work with the data. If I wanted to add a contact to my list, I would be "creating" data for my database, and if I was doing that with code, I would likely be using SQL. ((note that you can work with data in other languages too like Javascript, R, and python, but SQL has certain specializations and was made for working with data)
+SQL is a programming language used to decode all of this, and work with the data. If I wanted to add a contact to my list, I would be "creating" data for my database, and if I was doing that with code, I would likely be using SQL. ((note that you can work with data in other languages too like Javascript, R, and python, but SQL has certain specializations and was made for working with data)<br><br>
+<img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" alt="SQL Logo" width="700"/> 
+<br><br>
 
 ## Database Queries
 The last topic I'll be covering for now; searching up stuff in a database. <br><br>
