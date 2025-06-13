@@ -21,3 +21,5 @@ This is a node tree; and a non-relational database. It has values relating to ea
 SQL is a programming language used to decode all of this, and work with the data. If I wanted to add a contact to my list, I would be "creating" data for my database, and if I was doing that with code, I would likely be using SQL. ((note that you can work with data in other languages too like Javascript, R, and python, but SQL has certain specializations and was made for working with data)
 
 ## Database Queries
+The last topic I'll be covering for now; searching up stuff in a database. <br><br>
+The definition of a query is a "a question, especially one addressed to an official or organization." So, put the two together, and you're asking a database a question, or in our case, asking it for a specific bit of data. 
