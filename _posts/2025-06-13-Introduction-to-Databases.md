@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Introduction to Databases"
+date: 2025-06-13
+featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/June%202025/Screenshot%202025-06-13%20162216.png?raw=true
+---
 # Introduction to Databases
 I recently started learning SQL with [this FreeCodeCamp course](https://www.youtube.com/watch?v=HXV3zeQKqGY) and I figured I would update my readers(all of you!) on what I've learned so far. <br><br>
 !["Database visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/June%202025/Screenshot%202025-06-13%20162216.png?raw=true)
