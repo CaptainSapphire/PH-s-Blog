@@ -29,7 +29,8 @@ This is a node tree; and a non-relational database. It has values relating to ea
 
 ## Structured Query Language
 SQL is a programming language used to decode all of this, and work with the data. If I wanted to add a contact to my list, I would be "creating" data for my database, and if I was doing that with code, I would likely be using SQL. ((note that you can work with data in other languages too like Javascript, R, and python, but SQL has certain specializations and was made for working with data)<br><br>
-<img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" alt="SQL Logo" width="700"/> 
+<img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" alt="SQL Logo" width="200"/> <br><br>
+*The SQL Logo.*
 <br><br>
 
 ## Database Queries
