@@ -1,5 +1,6 @@
 # Introduction to Databases
-I recently started learning SQL with [this FreeCodeCamp course](https://www.youtube.com/watch?v=HXV3zeQKqGY) and I figured I would update my readers(all of you!) on what I've learned so far. 
+I recently started learning SQL with [this FreeCodeCamp course](https://www.youtube.com/watch?v=HXV3zeQKqGY) and I figured I would update my readers(all of you!) on what I've learned so far. <br><br>
+!["Database visual"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/June%202025/Screenshot%202025-06-13%20162216.png?raw=true)
 
 ## Databases
 **Databases** are collections of related data. For example, your phone's contact list: it has a name, and a number/email connected to it. I made a short video [here](https://www.youtube.com/watch?v=cum_i-C1K-4) defining it. <br><Br>
@@ -23,3 +24,6 @@ SQL is a programming language used to decode all of this, and work with the data
 ## Database Queries
 The last topic I'll be covering for now; searching up stuff in a database. <br><br>
 The definition of a query is a "a question, especially one addressed to an official or organization." So, put the two together, and you're asking a database a question, or in our case, asking it for a specific bit of data. 
+
+## Final Thoughts
+Thank you for reading this short update and review, I'll see you in my next post. Thank you for reading!
