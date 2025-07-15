@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Career Pathways in Technology + Early Career Mentorship with Girls Who Code and JP Morgan"
+date: 2025-07-15
+featured-img: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Girls_Who_Code_Logo.svg/1200px-Girls_Who_Code_Logo.svg.png
+---
 # Career Pathways in Technology + Early Career Mentorship with Girls Who Code and JP Morgan
 
 ## Context
