@@ -2,7 +2,8 @@
 
 ## Context
 Girls Who Code is a company who uplifts girls in STEM, and right now, I am in their Pathways Program. Every week, they host events with the company's partners. 
-After the event with Black Rock at 6am, they had a second event on Tuesday, July 15th, 2025 called "Career Pathways in Technology + Early Career Mentorship with Girls Who Code and JP Morgan."
+After the event with Black Rock at 6am, they had a second event on Tuesday, July 15th, 2025 called "Career Pathways in Technology + Early Career Mentorship with Girls Who Code and JP Morgan." <br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Girls_Who_Code_Logo.svg/1200px-Girls_Who_Code_Logo.svg.png" alt="Girls Who Code Logo" width="300"/> 
 
 ## Notes
 **Transferrable Skills**: A skill that can be used in a variety of roles, regardless of title or company
@@ -12,7 +13,11 @@ After the event with Black Rock at 6am, they had a second event on Tuesday, July
 - Problem Solving
 - Business Acumen
 - Perserverance & motivation
-
+<br><br>
+https://community.themomproject.com/hubfs/Transferrable%20Skills_Hero.png
+<br><br>
+*Image provided by "The Mom Project"*
+<br><br>
 **Misc Notes**
 - Almost all industries require technologists.
 - What is a [scrum](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)?
