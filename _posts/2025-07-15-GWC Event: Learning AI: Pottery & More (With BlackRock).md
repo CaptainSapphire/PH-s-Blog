@@ -6,7 +6,7 @@ featured-img: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Girls_Wh
 ---
 # GWC Event: Learning AI: Pottery & More (With BlackRock)
 ## Context
-[Girls Who Code](https://girlswhocode.com/) is a company who uplifts girls in STEM, and right now, I am in their Pathways Program. Every week, they host events with the company's partners. Tuesday, Julu 15th's was "Learning AI: Pottery & More (With BlackRock)." [Black Rock](https://www.blackrock.com/us/individual) is a bank where they help manage money for larger companies (not a bank for individuals). <br><br>
+[Girls Who Code](https://girlswhocode.com/) is a company who uplifts girls in STEM, and right now, I am in their Pathways Program. Every week, they host events with the company's partners. Tuesday, July 15th's was "Learning AI: Pottery & More (With BlackRock)." [Black Rock](https://www.blackrock.com/us/individual) is a bank where they help manage money for larger companies (not a bank for individuals). <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Girls_Who_Code_Logo.svg/1200px-Girls_Who_Code_Logo.svg.png" alt="Girls Who Code Logo" width="300"/> 
 
 ## Notes
