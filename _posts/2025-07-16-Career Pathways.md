@@ -1,7 +1,8 @@
 # Career Pathways in Technology + Early Career Mentorship with Girls Who Code and JP Morgan
 
 ## Context
-
+Girls Who Code is a company who uplifts girls in STEM, and right now, I am in their Pathways Program. Every week, they host events with the company's partners. 
+After the event with Black Rock at 6am, they had a second event on Tuesday, July 15th, 2025 called "Career Pathways in Technology + Early Career Mentorship with Girls Who Code and JP Morgan."
 
 ## Notes
 **Transferrable Skills**: A skill that can be used in a variety of roles, regardless of title or company
