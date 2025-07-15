@@ -28,7 +28,9 @@ The first segment (all above) was run by Kumba Janga, and about the benefits and
 <br><br>
 
 **Q and A**
-- 
+- Major reccomendation is to enter a program and then later apply to that company
+- "Think less of getting a job, but more solving problems, so you can essentially hire yourself. Learn to like what you are doing, and how to solve problems. Learn to solve problem, and money will come to you."
+- Attend workshops and seminars --> network --> internship ---> job
 
 ## Final Thoughts
 The major theme I saw within the inspiration stories the panelists shared and from the "Career Pathways" Portion of the zoom was **Learn to code and tech, it is a vital skill and tool that will bring you into varying industries.**
