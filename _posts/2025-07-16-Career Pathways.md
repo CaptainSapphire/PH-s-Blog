@@ -14,7 +14,7 @@ After the event with Black Rock at 6am, they had a second event on Tuesday, July
 - Business Acumen
 - Perserverance & motivation
 <br><br>
-https://community.themomproject.com/hubfs/Transferrable%20Skills_Hero.png
+<img src="https://community.themomproject.com/hubfs/Transferrable%20Skills_Hero.png" alt="Girls Who Code Logo" width="300"/> 
 <br><br>
 *Image provided by "The Mom Project"*
 <br><br>
