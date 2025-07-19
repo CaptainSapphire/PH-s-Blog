@@ -14,7 +14,7 @@ First we got an intro to some comp. sci. basics:
 <br><br>
 
 We then went into breakout rooms. <br><br>
-!["First Screenshot"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-17%20093140.png?raw=true)
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-17%20093140.png?raw=true" alt="First Screenshot" width="300"/> 
 <br><br>
 The escape room itself was themed around the Oval Office. 
 - first puzzle was based on the fibonacci sequence
@@ -22,8 +22,8 @@ The escape room itself was themed around the Oval Office.
 - third puzzle was if conditionals
 <br><br>
 
-We finished the puzzle pretty fast as a team.
-!["Second Screenshot"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-17%20093513.png?raw=true) 
+We finished the puzzle pretty fast as a team. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-17%20093513.png?raw=true" alt="Second Screenshot" width="300"/> 
 <br><br>
 After that, the GWC students asked the DTCC volunteers some questions. 
 - "Favorite part of your job?": Working from home, working on projects, solving puzzles
@@ -37,6 +37,7 @@ Thank you to these volunteers from my breakout room:
 - Akiko Green - (from GWC, not DTCC) But incredibly supportive
 -  [John Wu](https://www.linkedin.com/in/wujohnc/) & [David Camara](https://www.linkedin.com/in/dcamara/) - Ran the puzzle and kept up positive energy through the event
 Thank you [Elisa Rexinger](https://www.linkedin.com/in/elisarexinger/) for running the main room and checking in on all the breakout rooms, and being very helpful with education and career based advice!
+<br><br>
 
  ## Final Thoughts
  This was another wonderful opportunity I was incredibly fortunate to be able to attend. Thank you Girls Who Code!
