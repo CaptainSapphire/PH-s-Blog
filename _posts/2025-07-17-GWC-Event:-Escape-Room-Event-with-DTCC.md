@@ -48,7 +48,5 @@ Thank you to these volunteers from my breakout room:
 -  [John Wu](https://www.linkedin.com/in/wujohnc/) & [David Camara](https://www.linkedin.com/in/dcamara/) - Ran the puzzle and kept up positive energy through the event
 <br><br>
 Thank you [Elisa Rexinger](https://www.linkedin.com/in/elisarexinger/) for running the main room and checking in on all the breakout rooms, and being very helpful with education and career based advice!
-<br><br><br>
-
- ## Final Thoughts
- This was another wonderful opportunity I was incredibly fortunate to be able to attend. Thank you Girls Who Code!
+<br><br>
+ **This was another wonderful opportunity I was incredibly fortunate to be able to attend. Thank you Girls Who Code!**
