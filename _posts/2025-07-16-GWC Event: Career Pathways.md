@@ -36,13 +36,15 @@ The first segment (all above) was run by Kumba Janga, and about the benefits and
 - Ashley Henderson: Graduated with a degree in Chemistry, intending to go into Dentistry. Then wanted to go into law enforcement. After sustaining a knee injury, she was discharged as a police officer. After attending a JPMorgan event/program, she was given an interview. She has been a software engineer at JPMorgan since 2022.
 - Dr B Roselle: Lead technological manager, leads complex projects or programs. She has been at JP Morgan for 8 years.
 - Sital Agarwal: Scrum Master at JP Morgan. Undergrad in Banking and Finance, and even though she immigrated from India and was not legally able to work, "I didn't let that stop me." She states that "if you have free time, now is the time to code... Self-learn, go to the library... you have many resources at your disposal."
-- Parul Mainwal: Computer Science Major from India, and moved to the US in 2014, joining JP Morgan in 2015. She works now as a Data Domain Architect. "Really loving what I'm doing here, and I would encourage you all to try your hand in data... you can make a lot of impact in this field."
+- Parul yMainwal: Computer Science Major from India, and moved to the US in 2014, joining JP Morgan in 2015. She works now as a Data Domain Architect. "Really loving what I'm doing here, and I would encourage you all to try your hand in data... you can make a lot of impact in this field."
 <br><br>
 
 **Q and A**
 - Major reccomendation is to enter a program and then later apply to that company
 - "Think less of getting a job, but more solving problems, so you can essentially hire yourself. Learn to like what you are doing, and how to solve problems. Learn to solve problem, and money will come to you."
 - Attend workshops and seminars --> network --> internship ---> job
+<br><br>
+
 
 ## Final Thoughts
 The major theme I saw within the inspiration stories the panelists shared and from the "Career Pathways" Portion of the zoom was **Learn to code and tech, it is a vital skill and tool that will bring you into varying industries.**
