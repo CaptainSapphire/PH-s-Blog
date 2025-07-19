@@ -40,11 +40,14 @@ The first segment (all above) was run by Kumba Janga, and about the benefits and
 <br><br>
 
 **Q and A**
+<br><Br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-15%20094839.png?raw=true" alt="JP Morgan Internship Question" width="500"/> <br><br>
 - Major reccomendation is to enter a program and then later apply to that company
 - "Think less of getting a job, but more solving problems, so you can essentially hire yourself. Learn to like what you are doing, and how to solve problems. Learn to solve problem, and money will come to you."
 - Attend workshops and seminars --> network --> internship ---> job
 <br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-15%20094052.png?raw=true" alt="Data Science Language Question" width="300"/> <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-15%20094603.png?raw=true" alt="JP Morgan Internship Question" width="300"/> <br><br>
 
 
 ## Final Thoughts
