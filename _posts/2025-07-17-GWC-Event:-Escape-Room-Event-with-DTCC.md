@@ -1,7 +1,17 @@
+---
+layout: post
+title: "Girls Who Code: DTCC Escape Room Event"
+date: 2025-07-15
+featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-17%20093140.png?raw=true
+---
+
 # Girls Who Code: DTCC Escape Room Event 
 
 ## Context
 Girls Who Code is a company who uplifts girls in STEM, and right now, I am in their Pathways Program. Every week, they host online events with the company's partners. This week, I attended their event with Depository Trust & Clearing Corporation (DTCC) to do a computer science themed escape room!
+<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Girls_Who_Code_Logo.svg/1200px-Girls_Who_Code_Logo.svg.png" alt="Girls Who Code Logo" width="300"/> 
+
 
 ## How it works
 We are all in a zoom call, and split into breakout rooms. From there, the students will tell the volunteers where to click on the screen. The students are to solve computer science based problems in order to complete the escape room. 
@@ -36,8 +46,9 @@ Thank you to these volunteers from my breakout room:
 - [Stephanie Clopeck](https://www.linkedin.com/in/stephanie-clopeck-96894076/) & Lecia Cook - Had a lot of good advice on career paths, and internships!
 - Akiko Green - (from GWC, not DTCC) But incredibly supportive
 -  [John Wu](https://www.linkedin.com/in/wujohnc/) & [David Camara](https://www.linkedin.com/in/dcamara/) - Ran the puzzle and kept up positive energy through the event
-Thank you [Elisa Rexinger](https://www.linkedin.com/in/elisarexinger/) for running the main room and checking in on all the breakout rooms, and being very helpful with education and career based advice!
 <br><br>
+Thank you [Elisa Rexinger](https://www.linkedin.com/in/elisarexinger/) for running the main room and checking in on all the breakout rooms, and being very helpful with education and career based advice!
+<br><br><br>
 
  ## Final Thoughts
  This was another wonderful opportunity I was incredibly fortunate to be able to attend. Thank you Girls Who Code!
