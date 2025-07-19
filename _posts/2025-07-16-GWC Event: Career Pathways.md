@@ -27,6 +27,7 @@ After the event with Black Rock at 6am, they had a second event on Tuesday, July
 **Misc Notes**
 - Almost all industries require technologists.
 - What is a [scrum](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)?
+<br><br>
 The first segment (all above) was run by Kumba Janga, and about the benefits and background in working in tech. <br><br>
 
 **Panelists**
