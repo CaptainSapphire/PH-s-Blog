@@ -44,3 +44,4 @@ After that practice activity, we split into breakout rooms to make our own song.
 -   Majdoleen Mohammedaman (GWC)
 
 ## Final Thoughts
+"Think for yourself...Do your research...AI doesn't always get it right"
