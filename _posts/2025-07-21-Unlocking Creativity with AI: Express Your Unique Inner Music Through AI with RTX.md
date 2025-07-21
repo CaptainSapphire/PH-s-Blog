@@ -26,7 +26,10 @@ Girls Who Code is a company who uplifts girls in STEM, and right now, I am in th
 
 prompt engineering: art of asking AI the right way. Needs to be clear, specific, and structured. 
 - Had to write a story, then lyrics, both using copilot
-
+<br><br>
+After that practice activity, we split into breakout rooms to make our own song.
+- Generate a song cover via copilot
+- Make the actual song with [Suno](https://suno.com/home)
 
 ## Thank you to the RTX Volunteerss..
 -  Vicki Jasper (RTX): Enterprise infrastructre  
@@ -36,7 +39,8 @@ prompt engineering: art of asking AI the right way. Needs to be clear, specific,
 -  Joe Schueder (RTX): AI, Digital technlogy
 -  Ashley Goetz (GWC): Productive planner & military cybersecurity expert
 -  Owen Baern (RTX): RTX corporate, manage microsoft tenantss
--   Kayla Monroe (RTX):
+-   Kayla Monroe (RTX)
+-   Vivian Huynh-Romine (RTX)
 -   Majdoleen Mohammedaman (GWC)
 
 ## Final Thoughts
