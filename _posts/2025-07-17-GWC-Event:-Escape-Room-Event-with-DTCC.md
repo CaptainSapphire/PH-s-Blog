@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Girls Who Code: DTCC Escape Room Event"
-date: 2025-07-15
+date: 2025-07-17
 featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-17%20093140.png?raw=true
 ---
 
