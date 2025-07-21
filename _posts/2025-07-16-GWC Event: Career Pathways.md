@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Career Pathways in Technology + Early Career Mentorship with Girls Who Code and JP Morgan"
-date: 2025-07-15
+date: 2025-07-16
 featured-img: https://community.themomproject.com/hubfs/Transferrable%20Skills_Hero.png
 ---
 # Career Pathways in Technology + Early Career Mentorship with Girls Who Code and JP Morgan
