@@ -14,7 +14,29 @@ Girls Who Code is a company who uplifts girls in STEM, and right now, I am in th
 *RTX Logo*
 
 ## Notes
+**RTX** is a global technology company, "we solve the tough global challenges."
+- 80 billon dollars in sales
+- 7.5B dollars in research
+- first to develop the NASA space suit
+- developed most if not all the technology Armstrong used when landing on the moon
+- RTX as a community "loves learning and investing in learning"
+<br><br>
+**The basics of AI**
+- 70,000 companies (as of April 2025) are developing AI models
+
+prompt engineering: art of asking AI the right way. Needs to be clear, specific, and structured. 
+- Had to write a story, then lyrics, both using copilot
+
 
 ## Thank you to the RTX Volunteerss..
+-  Vicki Jasper (RTX): Enterprise infrastructre  
+-  Natalie Chen (GWC)
+-  Cathy - Engineer
+-  Julia Rieger (GWC)
+-  Joe Schueder (RTX): AI, Digital technlogy
+-  Ashley Goetz (GWC): Productive planner & military cybersecurity expert
+-  Owen Baern (RTX): RTX corporate, manage microsoft tenantss
+-   Kayla Monroe (RTX):
+-   Majdoleen Mohammedaman (GWC)
 
 ## Final Thoughts
