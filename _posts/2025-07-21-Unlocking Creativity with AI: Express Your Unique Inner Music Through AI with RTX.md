@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Unlocking Creativity with AI: Express Your Unique Inner Music Through AI with RTX"
+date: 2025-07-21
+featured-img: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTX_Raytheon_Technologies_logo.svg/1200px-RTX_Raytheon_Technologies_logo.svg.png
+---
 # Unlocking Creativity with AI: Express Your Unique Inner Music Through AI with RTX
 
 ## Context
