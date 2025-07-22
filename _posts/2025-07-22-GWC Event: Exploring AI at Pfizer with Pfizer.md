@@ -8,7 +8,7 @@ featured-img: https://upload.wikimedia.org/wikipedia/commons/8/8b/Pfizer_%282021
 
 ## Context
 Girls Who Code is a company who uplifts girls in STEM, and right now, I am in their Pathways Program. Every week, they host events with the company's partners. <br><br>
-!["Pfizer Logo"](https://upload.wikimedia.org/wikipedia/commons/8/8b/Pfizer_%282021%29.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Pfizer_%282021%29.png" alt="Pfizer Logo" width="300"/> 
 <br><br>
 *Pfizer Logo*
 
