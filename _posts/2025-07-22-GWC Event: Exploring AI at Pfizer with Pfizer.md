@@ -12,6 +12,16 @@ Girls Who Code is a company who uplifts girls in STEM, and right now, I am in th
 <br><br>
 *Pfizer Logo*
 
+**Featured Panelists**
+- Wendy Lawhead
+- Priscilla Ramos
+
 ## Notes
+
+Adter that, we had the kahoot. It was a fun icebreaker, but here's some interesting facts I learned!: 
+- AI discovered the antibiotic Hacililin
+- AI deepfakes historical figures to provide visual to teach history
+
+
 
 ## Final Thoughts
