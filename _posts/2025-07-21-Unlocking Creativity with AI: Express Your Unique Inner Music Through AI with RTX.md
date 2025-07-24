@@ -9,7 +9,7 @@ featured-img: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTX_Rayt
 ## Context
 Girls Who Code is a company who uplifts girls in STEM, and right now, I am in their Pathways Program. Every week, they host events with the company's partners. Monday, July 21st, the event is called "Unlocking Creativity with AI: Express Your Unique Inner Music Through AI with RTX." RTX is a multinational conglomerate mostly managing technologies. Their main products are aircraft engines, avionics, mission systems, and integrated defense systems, but they also work in software.
 <br><br>
-!["RTX Logo"](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTX_Raytheon_Technologies_logo.svg/1200px-RTX_Raytheon_Technologies_logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTX_Raytheon_Technologies_logo.svg/1200px-RTX_Raytheon_Technologies_logo.svg.png" width="300"/> 
 <br><br>
 *RTX Logo*
 
@@ -21,9 +21,9 @@ Girls Who Code is a company who uplifts girls in STEM, and right now, I am in th
 - developed most if not all the technology Armstrong used when landing on the moon
 - RTX as a community "loves learning and investing in learning"
 <br><br>
-![RTX Stats](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20090735.png?raw=true)
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20090735.png?raw=true" width="300"/> 
 <br><br>
-![RTX Social Impact](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20090810.png?raw=true)
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20090810.png?raw=true" width="300"/> 
 <br><br>
 
 **The basics of AI**
