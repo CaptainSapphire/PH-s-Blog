@@ -41,16 +41,16 @@ After that practice activity, we split into breakout rooms to make our own song.
 ![The Activity RTX](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20092325.png?raw=true)
 
 
-## Thank you to the RTX & GWC Volunteers (that I could get the names of)..
--  Vicki Jasper (RTX)
+## Thank you to the RTX & GWC Volunteers (that I could get the names of)...
+-  [Vicki Jasper (RTX)](https://www.linkedin.com/in/vickijjasper/)
 -  Natalie Chen (GWC)
--  Julia Rieger (GWC)
--  Joe Schueder (RTX)
--  Ashley Goetz (GWC)
+-  [Julia Rieger (GWC)](https://www.linkedin.com/in/julia-rieger/)
+-  [Joe Schueder (RTX)](https://www.linkedin.com/in/joseph-schueder-a6b8158/)
+-  [Ashley Goetz (GWC)](https://www.linkedin.com/in/ashley-goetz-tewes/)
 -  Owen Baern (RTX)
--   Kayla Monroe (RTX)
--   Vivian Huynh-Romine (RTX)
--   Majdoleen Mohammedaman (GWC)
+-  [Kayla Monroe (RTX)](https://www.linkedin.com/in/kayla-monroe24/)
+-  [Vivian Huynh-Romine (RTX)](https://www.linkedin.com/in/vivian-huynh-romine-9857a817/)
+-  [Majdoleen Mohammedaman (GWC)](https://www.linkedin.com/in/majd-mohamm/)
 
 ## Final Thoughts
-"Think for yourself...Do your research...AI doesn't always get it right."
+To quote one of the RTX panelists, "Think for yourself...Do your research...AI doesn't always get it right." While it is an incredible resource, it is nothing more than a tool. 
