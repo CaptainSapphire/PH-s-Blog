@@ -35,10 +35,11 @@ prompt engineering: art of asking AI the right way. Needs to be clear, specific,
 After that practice activity, we split into breakout rooms to make our own song.
 - Generate a song cover via copilot
 - Make the actual song with [Suno](https://suno.com/home)
-![Prompt Engineering RTX](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20091315.png?raw=true)
+
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20091315.png?raw=true" width="300"/> 
 <br><br>
 **The activity itself I would reccomend you try as well!!** <br><br>
-![The Activity RTX](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20092325.png?raw=true)
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20092325.png?raw=true" width="300"/> 
 
 
 ## Thank you to the RTX & GWC Volunteers (that I could get the names of)...
