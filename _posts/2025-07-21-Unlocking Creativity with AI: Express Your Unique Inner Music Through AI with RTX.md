@@ -21,6 +21,11 @@ Girls Who Code is a company who uplifts girls in STEM, and right now, I am in th
 - developed most if not all the technology Armstrong used when landing on the moon
 - RTX as a community "loves learning and investing in learning"
 <br><br>
+![RTX Stats](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20090735.png?raw=true)
+<br><br>
+![RTX Social Impact](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20090810.png?raw=true)
+<br><br>
+
 **The basics of AI**
 - 70,000 companies (as of April 2025) are developing AI models
 
@@ -30,6 +35,11 @@ prompt engineering: art of asking AI the right way. Needs to be clear, specific,
 After that practice activity, we split into breakout rooms to make our own song.
 - Generate a song cover via copilot
 - Make the actual song with [Suno](https://suno.com/home)
+![Prompt Engineering RTX](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20091315.png?raw=true)
+<br><br>
+**The activity itself I would reccomend you try as well!!** <br><br>
+![The Activity RTX](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202025/Screenshot%202025-07-21%20092325.png?raw=true)
+
 
 ## Thank you to the RTX & GWC Volunteers (that I could get the names of)..
 -  Vicki Jasper (RTX)
