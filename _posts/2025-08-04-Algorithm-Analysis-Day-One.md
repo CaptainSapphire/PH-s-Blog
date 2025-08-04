@@ -14,3 +14,9 @@ Hello everyone! In Quincy Larson's weekly resources, he shared a particular [Fre
 - Important in real world applications: Google produces many results in short time
 - How to measure the efficiency of code --> how do we measure speed --> can we use actual time? (are the algorithms being tested on the same system)> --> How about the steps to run?
 - T(n): The # of primitive operations executed, where n is the size of the input
+<br><br>
+The best and worst case scenario:
+- The **best** case scenario is the minimum number of steps, because it takes less resources and time to run
+- The **worst** case scenario is the maximum number of steps, because it takes the most amount of resources and time to run
+- The average, is as it sounds, the average between the two
+<br><br>
