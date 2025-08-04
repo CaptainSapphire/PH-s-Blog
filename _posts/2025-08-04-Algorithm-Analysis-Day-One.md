@@ -13,4 +13,4 @@ Hello everyone! In Quincy Larson's weekly resources, he shared a particular [Fre
 - The amount of time for an algorithm to run
 - Important in real world applications: Google produces many results in short time
 - How to measure the efficiency of code --> how do we measure speed --> can we use actual time? (are the algorithms being tested on the same system)> --> How about the steps to run?
-- 
+- T(n): The # of primitive operations executed, where n is the size of the input
