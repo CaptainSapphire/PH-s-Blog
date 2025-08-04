@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Day one of "Algorithm Analysis" with FreeCodeCamp"
+date: 2025-08-04
+featured-img: 
+---
 # Day one of "Algorithm Analysis" with FreeCodeCamp
 
 ## Context
