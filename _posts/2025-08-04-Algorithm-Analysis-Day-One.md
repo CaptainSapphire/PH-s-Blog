@@ -7,6 +7,7 @@ Hello everyone! In Quincy Larson's weekly resources, he shared a particular [Fre
 ## What I've learned
 **Algorithm**:
 - A well defined, finite procedure that takes input and produces an output, an effective method for solving problems
+- Random Access Machine (RAM) model can be used to see the efficiency of a model (if it takes more resources and time it is not efficient)
 
 **Time Complexity**:
 - The amount of time for an algorithm to run
