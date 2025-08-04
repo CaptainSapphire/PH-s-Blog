@@ -20,3 +20,5 @@ The best and worst case scenario:
 - The **worst** case scenario is the maximum number of steps, because it takes the most amount of resources and time to run
 - The average, is as it sounds, the average between the two
 <br><br>
+**Insertion Sorting**
+  - 
