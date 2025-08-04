@@ -1,10 +1,3 @@
----
-layout: post
-title: "Day one of "Algorithm Analysis" with FreeCodeCamp"
-date: 2025-08-04
-featured-img: https://github.com/user-attachments/assets/cb1f006a-eab0-4a24-b9d4-b7b9a6dabdb2
----
-
 # Day one of "Algorithm Analysis" with FreeCodeCamp
 
 ## Context
