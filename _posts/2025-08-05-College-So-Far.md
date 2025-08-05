@@ -5,14 +5,14 @@ date: 2025-08-05
 featured-img: https://upload.wikimedia.org/wikipedia/en/0/02/Moorpark_College.png
 ---
 # Educational Update: College So Far
-Today is Tuesday, August 5th, 2025. Tommorrow, I have orientation (keep an eye out for that blog post 😊). I want to document my experience and thoughts on college so far, as well as my expectations. 
+Today is Tuesday, August 5th, 2025. Tommorrow, I have orientation (keep an eye out for that blog post 😊). I want to document my experience and thoughts on college so far, as well as my expectations. <br><br>
+<img src="https://upload.wikimedia.org/wikipedia/en/0/02/Moorpark_College.png" width="600" alt="Moorpark Logo"/> 
+
 
 ## Dual Enrollment
 I did a little bit of dual enrollment while I was in high school- 3 classes. "Design and Society," "Introduction to Business," and "Introduction to Communications/Public Speaking." All of them were done online. <br><br>
 I enjoyed each of them, and while they provided their challenges, generally, they were easy to do well in, for me. <br><br>
-!["Grades"]()
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/Screenshot%202025-08-05%20112131.png?raw=true" width="300"/> 
-
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/Screenshot%202025-08-05%20112131.png?raw=true" width="600" alt="Grades"/> 
 <br><br>
 *My dual enrollment grades.* <br><br>
 Read the textbook/watch the lecture, do the assignment. There is not much more to it, especially when all the resources are accessible online. I have to say that the experiences and what I learn are a little less memorable than in person, but it is still an effective method of teaching, so I am not complaining. 
