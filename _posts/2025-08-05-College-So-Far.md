@@ -4,7 +4,10 @@ Today is Tuesday, August 5th, 2025. Tommorrow, I have orientation (keep an eye o
 ## Dual Enrollment
 I did a little bit of dual enrollment while I was in high school- 3 classes. "Design and Society," "Introduction to Business," and "Introduction to Communications/Public Speaking." All of them were done online. <br><br>
 I enjoyed each of them, and while they provided their challenges, generally, they were easy to do well in, for me. <br><br>
-!["Grades"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/Screenshot%202025-08-05%20112131.png?raw=true)<br><br>
+!["Grades"]()
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/Screenshot%202025-08-05%20112131.png?raw=true" width="300"/> 
+
+<br><br>
 *My dual enrollment grades.* <br><br>
 Read the textbook/watch the lecture, do the assignment. There is not much more to it, especially when all the resources are accessible online. I have to say that the experiences and what I learn are a little less memorable than in person, but it is still an effective method of teaching, so I am not complaining. 
 
@@ -13,7 +16,7 @@ While this summer is technically considered "dual enrollment," I think of it as 
 
 ## Expectations
 While certain classes were much easier while others were immensely harder, I can reasonably deduce that it will be a challenge. I have four classes, with only one being honors. The two honors classes I took over the summer were quite a challenge, so I figured I would take only one in order to balance my workload with the fact that this is a new phase of my life. <br><br>
-!["Expectations, credit to Ragan Communications"](https://www.ragan.com/wp-content/uploads/2021/06/managing-expectations.jpg)
+<img src="https://www.ragan.com/wp-content/uploads/2021/06/managing-expectations.jpg" width="300" alt="Expectations, credit to Ragan Communications"/> 
 
 ## Final Thoughts
 I have the [New Student Welcome](https://www.moorparkcollege.edu/departments/student-services/outreach-office/new-student-welcome) tommorrow, so I will share how that goes. I cannot wait for the semster and greater college experience to start next Monday. Thank you for reading!
