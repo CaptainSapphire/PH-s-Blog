@@ -1,6 +1,12 @@
+---
+layout: post
+title: "New Student Welcome at Moorpark College"
+date: 2025-08-07
+featured-img: https://www.moorparkcollege.edu/sites/moorparkcollege/files/media/images/2025-05/NSW%2025%20Logo_1.png
+---
 # New Student Welcome at Moorpark College
-I will be a first-year student at Moorpark College, starting class on Monday. Yesterday was the [New Student Welcome](https://www.moorparkcollege.edu/departments/student-services/outreach-office/new-student-welcome), or what is essentially orientation. 
-
+I will be a first-year student at Moorpark College, starting class on Monday. Yesterday was the [New Student Welcome](https://www.moorparkcollege.edu/departments/student-services/outreach-office/new-student-welcome), or what is essentially orientation. <br><br>
+!["New Student Welcome"](https://www.moorparkcollege.edu/sites/moorparkcollege/files/media/images/2025-05/NSW%2025%20Logo_1.png)
 ## The Morning
 After dropping my brother off at school, I arrived at Moorpark College at 8:30am. Check in began at 9am, so I got my math textbook from the library in that extra time. Keeping an eye on the school email is something vital for success it seems, as I was one of the few who, because I kept an eye on what textbooks would be annouced, did not have to pay for my calculus textbook. <br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/IMG_1730.png?raw=true" width="600" alt="Latinx Club image"/>  <br><br>
