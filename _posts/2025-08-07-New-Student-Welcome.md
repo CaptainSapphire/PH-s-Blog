@@ -13,9 +13,18 @@ Additionally, the ASMC (class/student council/student body) president gave a wel
 
 ## AOI Session
 The AOI(Area of Interest) Sessions were sessions that ran from 10:45am-12:00pm based on what major we have annouced. While I am a studying Data Science Major, at Moorpark College, I am technically a "Computer Science Major," So I was sent to the "Business, Information, and Technology" Session. <br><br>
+The presentation itself I do not have much to document on. There was an interesting game we played about global business, where suppliers take time to get the product from port to port, which we remodeled with pencils being passed down the lecture hall, from person to person. Right now, they only have a certification in Data Science, but are working on making it a major. I hope I will be in attendance when the major is created, but for now, I will get an *Associates in Science For Transfer* in computer science. 
 
+## Lunch
+After the session, we had lunch. I had a turkey club sandwich from Urban Cafe, provided for free by Moorpark College. While the lunch room filled quickly, the fianance major I met during the session and I were able to get some seats and enjoy the food. 
 
 ## Clubs & Open Houses
+After lunch, from 12:00pm-2:00pm, we were free to roam the clubs that set up their table and canopy tent. There were a few that caught my eye as I walked around. <br><br>
+- Mock Trial: While I do not plan to join, the people running it were very nice. 
+- Latinx Club
+- Philosophy Club: The president was enthusiastic, and while she seemed a little lost on how to pitch it, she spoke with a love for the club and the most enthusiasm of everyone I encountered.
+- Music?: I recognized the girl running it, as she was the IMC president two years before I was. She promoted the classes to me, and her pitch made me consider it, doing music again. I don't need any art credits though, so unfortunately I doubt I will take any.
+There were many more, and I stopped at every tent that had a smile sitting across this table. 
 
 ## Running Errands
 
