@@ -8,9 +8,12 @@ I went to check in and encountered a couple familiar faces from high school. Som
 When I entered the gymnasium, I sat with another girl and talked with her for an hour; from 9am to 10am, until the event started. She was a film major, interestingly enough. I have met many art majors already, I am not sure why I am so drawn to creators. **I suppose the people who make things tend to be much more interesting than those who don't.** <br><br>
 The president of Moorpark College came and hyped everyone up, and provided an introduction and warm welcome to Moorpark College. While I had not seen him before, I can understand with what little time that I did why he is president. There is something about how he provided his speech that emits confidence and a type of love for education and this college. <br><br>
 !["picture of the president"](https://moorparkreporter.com/wp-content/uploads/2021/04/BHM-Talk_10.jpg) <br><br>
-*picture of the president, Dr. Julius Sokeno* <br><br>
+*A picture of the president, Dr. Julius Sokeno* <br><br>
+Additionally, the ASMC (class/student council/student body) president gave a welcome, which was a nice way to start the morning. After that, we were split up and sent to our AOI Sessions.
 
 ## AOI Session
+The AOI(Area of Interest) Sessions were sessions that ran from 10:45am-12:00pm based on what major we have annouced. While I am a studying Data Science Major, at Moorpark College, I am technically a "Computer Science Major," So I was sent to the "Business, Information, and Technology" Session. <br><br>
+
 
 ## Clubs & Open Houses
 
