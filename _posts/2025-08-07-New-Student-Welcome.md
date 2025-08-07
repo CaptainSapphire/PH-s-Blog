@@ -1,5 +1,5 @@
 # New Student Welcome at Moorpark College
-I will be a first-year student at Moorpark College, starting class on Monday. Yesterday was the New Student Welcome, or what is essentially orientation. 
+I will be a first-year student at Moorpark College, starting class on Monday. Yesterday was the [New Student Welcome](https://www.moorparkcollege.edu/departments/student-services/outreach-office/new-student-welcome), or what is essentially orientation. 
 
 ## The Morning
 After dropping my brother off at school, I arrived at Moorpark College at 8:30am. Check in began at 9am, so I got my math textbook from the library in that extra time. Keeping an eye on the school email is something vital for success it seems, as I was one of the few who, because I kept an eye on what textbooks would be annouced, did not have to pay for my calculus textbook. <br><br>
@@ -24,8 +24,10 @@ After lunch, from 12:00pm-2:00pm, we were free to roam the clubs that set up the
 - Latinx Club
 - Philosophy Club: The president was enthusiastic, and while she seemed a little lost on how to pitch it, she spoke with a love for the club and the most enthusiasm of everyone I encountered.
 - Music?: I recognized the girl running it, as she was the IMC president two years before I was. She promoted the classes to me, and her pitch made me consider it, doing music again. I don't need any art credits though, so unfortunately I doubt I will take any.
-There were many more, and I stopped at every tent that had a smile sitting across this table. 
+There were many more, and I stopped at every tent that had a smile sitting across this table. While there were supposedly open houses, when I walked around, I did not see any of the ones listed on the directory. 
 
 ## Running Errands
+I went to the financial office and sorted my financial aid, the bookstore for my bio labbook, and raider central for some food. It was a productive day on top of the fun I had meeting people and things and learning at orientation. 
 
 ## Final Thoughts
+Thank you to everyone who contributed to this event; anyone can see how much energy and effort was put into it. 
