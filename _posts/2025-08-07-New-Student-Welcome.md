@@ -24,7 +24,10 @@ After lunch, from 12:00pm-2:00pm, we were free to roam the clubs that set up the
 - Latinx Club
 - Philosophy Club: The president was enthusiastic, and while she seemed a little lost on how to pitch it, she spoke with a love for the club and the most enthusiasm of everyone I encountered.
 - Music?: I recognized the girl running it, as she was the IMC president two years before I was. She promoted the classes to me, and her pitch made me consider it, doing music again. I don't need any art credits though, so unfortunately I doubt I will take any.
-There were many more, and I stopped at every tent that had a smile sitting across this table. While there were supposedly open houses, when I walked around, I did not see any of the ones listed on the directory. 
+There were many more, and I stopped at every tent that had a smile sitting across this table. While there were supposedly open houses, when I walked around, I did not see any of the ones listed on the directory. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/IMG_1711.png?raw=true" width="300" alt="Latinx Club image"/> 
+
+
 
 ## Running Errands
 I went to the financial office and sorted my financial aid, the bookstore for my bio labbook, and raider central for some food. It was a productive day on top of the fun I had meeting people and things and learning at orientation. 
