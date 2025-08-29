@@ -11,6 +11,8 @@ Whenever I would approach a table, my first question (besides "How are you?") is
 3. "We do! It is actually new this year, and highly selective!" Those three always seem to come in combination, but it makes sense. This field is growing rapidly, so it does not come as a shock that it is highly selective. <br>
 
 I found that interesting, so I figured I'd include it. Here are some of the college interactions I recall or have the brochures for. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/IMG_2029.png?raw=true" width="600" alt="Transfer Tables 1"/>  <br><br>
+
 
 **The Colleges:**
 - UCLA!
