@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Transfer Day at Moorpark College"
+date: 2025-08-29
+featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/IMG_2030.png?raw=true
+---
 # Transfer Day at Moorpark College
 
 ## In case you're new...
