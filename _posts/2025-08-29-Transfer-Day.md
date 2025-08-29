@@ -22,6 +22,8 @@ I found that interesting, so I figured I'd include it. Here are some of the coll
 - UC Davis
 - University of San Francisco, Cal Lutheran University, DePaul University, CSULB, Loyola Marymount University, UCSB, UC Merced
 <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/IMG_2030.png?raw=true" width="600" alt="Transfer Tables"/>  <br><br>
+
 
 Ones I'm not considering but still pleasant to talk with and learn about:
 - South New Hampshire University, CSU San Marcos, CSUCI, Whittier College, Chapman University, University of Phoenix, Sonoma State University, Pepperdine University, WGU, Grand Canyon University, Northern Arizona University, Iowa State University, Woodbury University
@@ -31,7 +33,9 @@ There was a throughline of the schools reccomending I partake in Phi Theta Kappa
 <br><br>
 
 **The experience:** <br><br>
-Beyond the friendly college outreach people, the music major students were putting on a performance (my favorite was ther rendition of "Creep") in the background and they had a desert place do catering, so I got to try a peach handpie. 
+Beyond the friendly college outreach people, the music major students were putting on a performance (my favorite was ther rendition of "Creep") in the background and they had a desert place do catering, so I got to try a peach handpie. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/August%202025/IMG_2028.png?raw=true" width="600" alt="Music Folks idk"/>  <br><br>
+
 
 ## Final Thoughts
 I really enjoyed attending this event and learning so much about some of my transfer options, and I cannot wait to apply for transfer during next fall, 2026. Thank you for reading, and be sure to follow for more :)
