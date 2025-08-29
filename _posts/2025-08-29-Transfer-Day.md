@@ -31,5 +31,7 @@ There was a throughline of the schools reccomending I partake in Phi Theta Kappa
 <br><br>
 
 **The experience:** <br><br>
-I am incredibly fortunate to 
+Beyond the friendly college outreach people, the music major students were putting on a performance (my favorite was ther rendition of "Creep") in the background and they had a desert place do catering, so I got to try a peach handpie. 
+
 ## Final Thoughts
+I really enjoyed attending this event and learning so much about some of my transfer options, and I cannot wait to apply for transfer during next fall, 2026. Thank you for reading, and be sure to follow for more :)
