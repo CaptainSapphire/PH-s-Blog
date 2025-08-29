@@ -2,7 +2,7 @@
 
 ## In case you're new...
 I am a student at Moorpark College majoring in data science, aiming to transfer to a UC in 2 years, more specifically, UCLA. On Thursda, August 28, 2025, Moorpark College hosted their [transfer fair](https://www.instagram.com/moorparkcollege/p/DND4AwAKvZx/). A large amount of colleges visited, setting up their stands at their respective tables and providing insight to anyone who stops by. [(Here's the information website linked in the instagram post.)](https://www.moorparkcollege.edu/departments/student-services/university-transfer-center) <br><br>
-![The Poster](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moorparkcollege.edu%2Fevents%2Ftransfer-fair&psig=AOvVaw3JpPDtz0ZS5YZDzlHMwbqA&ust=1756587454343000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIisw7_0sI8DFQAAAAAdAAAAABAE)
+![The Poster](https://www.moorparkcollege.edu/sites/moorparkcollege/files/styles/390x230/public/media/featured_image/2025-07/transfer_fair_social_25.jpg?h=b8d43044&itok=PbtfwqfW)
 
 ## The Transfer Fair
 Whenever I would approach a table, my first question (besides "How are you?") is "Do you have data science?" I got 3 types of answers. 
