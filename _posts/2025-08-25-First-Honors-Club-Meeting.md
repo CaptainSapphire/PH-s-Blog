@@ -7,7 +7,7 @@ featured-img: https://www.moorparkcollege.edu/sites/moorparkcollege/files/media/
 # First Honors Club Meeting
 ## Context
 Hello everyone! If you're new, welcome to my blog! I am a moorpark college student majoring in data science, who is aiming to transfer. The honors program helps with the transfer process, and I am a member. By extension, I joined the honors club, which provides advisement and resources for honors students. On August 25th, 2025, I attended the first honors club meeting via zoom. <br><br>
-<img src="https://www.moorparkcollege.edu/sites/moorparkcollege/files/media/images/2022-01/honors_seal_blue_0.png" width="600" alt="Honors Program Logo"/>  <br><br>
+<img src="https://www.moorparkcollege.edu/sites/moorparkcollege/files/media/images/2022-01/honors_seal_blue_0.png" width="400" alt="Honors Program Logo"/>  <br><br>
 
 
 ## Meeting Notes
