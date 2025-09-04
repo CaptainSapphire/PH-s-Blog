@@ -4,7 +4,7 @@ title: "1.6 APPC Review"
 date: 2024-09-05 12:00:00 -0000
 categories: blog
 ---
-# APPC Quick Review
+# 1.6 APPC Quick Review
 I have a APPC test, so I decided to do a quick review of 1.6.
 ## 1.6: Polynomial functions and end behavior
 ### Polynomial functions
