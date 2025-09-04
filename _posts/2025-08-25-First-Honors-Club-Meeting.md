@@ -1,3 +1,9 @@
+---
+layout: post
+title: "First Honors Club Meeting"
+date: 2025-08-25
+featured-img: https://www.moorparkcollege.edu/sites/moorparkcollege/files/media/header_image/2021-08/MC2UCLA_simple_cropped.png
+---
 # First Honors Club Meeting
 ## Context
 Hello everyone! If you're new, welcome to my blog! I am a moorpark college student majoring in data science, who is aiming to transfer. The honors program helps with the transfer process, and I am a member. By extension, I joined the honors club, which provides advisement and resources for honors students. On August 25th, 2025, I attended the first honors club meeting via zoom. <br><br>
