@@ -1,10 +1,11 @@
 # (STEM Specific) Personal Insight Questions + Crafting a Competitive Application Workshop
 
 ## Context
-
+I am a Moorpark College student majoring in data science, aiming to transfer to a UC, so, I am currently a participant is UC Berkley's Community College Transfer Services (CCTS) webinar series, which is all about preparing for the application and your future. 
 ![CCTS Logo](https://cep.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/logo_ccts2020.png?itok=tgA-tZN-&timestamp=1631654577)
+
 ## Meeting Notes
-*not all slides or notes are transcribed here.
+*not all slides or notes are transcribed here. This is just what I personally noted down for the future. 
 
 Part one: UC Transfer PIQs
 - 4 total PIQS, 1 is required and choose 3 out of 7 additional questions
@@ -62,13 +63,16 @@ Significant Challege Prompt:
 - Identify and describe the challenge
 - steps you took to overcome it: share in chronological order how you approached and overcame the challenge
 - affected academic achievement: 2-3 ways te challenge impacted your ability to thrive academically
+- how do you showcase resilience and perservance when faced w/ obstacles?
+- It's not a sob story, you're providing context to your abilities, progress, and your story
+- Showing off strengths and overcoming these challenges
 
 
 Thank you to the team:
-- Melanie Ly
-- Anoki Patel
+- [Melanie Ly](https://www.linkedin.com/in/melanie-l-7a1337178/)
+- [Anoki Patel](https://www.linkedin.com/in/anokhi-pats/)
 - Maika Jimenez
-- Tiffany Reardon
+- [Tiffany Reardon](https://www.linkedin.com/in/tiffany-reardon/)
 
 
 ## Final Thoughts
