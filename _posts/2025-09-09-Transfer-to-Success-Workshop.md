@@ -78,6 +78,17 @@ School/Community Service Prompt:
 - was there a problem that you wanted to fix in your community? How did you approach it? >> identify the problem and the steps you took to solve it, focus on your individual contribution, what were you responsible for?
 - How did your actions benefit others or the wider community? >> what was the result, impact (how many people attended/volunteered)
 
+Strong candidate for admission prompt:
+- internship
+- save this for last, most open ended
+- unique experences, traits/characteristcs
+- check if your topic lands in any of the other topics first
+
+PIQ resources:
+- additional comment section is not for PIQs, just personal/academic context
+- avoid using metaphors
+- most majors do not require a letter of recommendation or portfolio
+
 Thank you to the CCTS team:
 - [Melanie Ly](https://www.linkedin.com/in/melanie-l-7a1337178/)
 - [Anoki Patel](https://www.linkedin.com/in/anokhi-pats/)
