@@ -1,3 +1,9 @@
+---
+layout: post
+title: "(STEM Specific) Personal Insight Questions + Crafting a Competitive Application Workshop"
+date: 2025-09-09
+featured-img: https://cep.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/logo_ccts2020.png?itok=tgA-tZN-&timestamp=1631654577
+---
 # (STEM Specific) Personal Insight Questions + Crafting a Competitive Application Workshop
 
 ## Context
