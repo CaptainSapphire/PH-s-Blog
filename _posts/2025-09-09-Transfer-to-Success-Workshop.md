@@ -73,8 +73,12 @@ Significant Challege Prompt:
 - It's not a sob story, you're providing context to your abilities, progress, and your story
 - Showing off strengths and overcoming these challenges
 
+School/Community Service Prompt:
+- Define the commmunity you are part of and emphasize your role in that community
+- was there a problem that you wanted to fix in your community? How did you approach it? >> identify the problem and the steps you took to solve it, focus on your individual contribution, what were you responsible for?
+- How did your actions benefit others or the wider community? >> what was the result, impact (how many people attended/volunteered)
 
-Thank you to the team:
+Thank you to the CCTS team:
 - [Melanie Ly](https://www.linkedin.com/in/melanie-l-7a1337178/)
 - [Anoki Patel](https://www.linkedin.com/in/anokhi-pats/)
 - Maika Jimenez
@@ -82,3 +86,4 @@ Thank you to the team:
 
 
 ## Final Thoughts
+This was so full of information, and I am incredibly grateful for all of the hard work the team has invested into this webinar series. I cannot wait for more, and thank you for reading!
