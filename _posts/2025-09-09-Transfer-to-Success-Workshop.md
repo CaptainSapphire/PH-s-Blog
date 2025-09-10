@@ -89,10 +89,12 @@ PIQ resources:
 - avoid using metaphors
 - most majors do not require a letter of recommendation or portfolio
 
+They covered plagerism a solid amount toward the end of the meeting, but at the end of the day, just don't do it. Don't falsify your application, use AI, etc etc etc. I'm not noting the details down when it is simple not to do it!
+
 Thank you to the CCTS team:
 - [Melanie Ly](https://www.linkedin.com/in/melanie-l-7a1337178/)
 - [Anoki Patel](https://www.linkedin.com/in/anokhi-pats/)
-- Maika Jimenez
+- [Maika Jimenez](https://www.linkedin.com/in/maika-jimenez-909465186/)
 - [Tiffany Reardon](https://www.linkedin.com/in/tiffany-reardon/)
 
 
