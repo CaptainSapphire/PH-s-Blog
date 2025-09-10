@@ -95,7 +95,7 @@ They covered plagerism a solid amount toward the end of the meeting, but at the 
 
 Thank you to the CCTS team:
 - [Melanie Ly](https://www.linkedin.com/in/melanie-l-7a1337178/)
-- [Anoki Patel](https://www.linkedin.com/in/anokhi-pats/)
+- [Anokhi Patel](https://www.linkedin.com/in/anokhi-pats/)
 - [Maika Jimenez](https://www.linkedin.com/in/maika-jimenez-909465186/)
 - [Tiffany Reardon](https://www.linkedin.com/in/tiffany-reardon/)
 
