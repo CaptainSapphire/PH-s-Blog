@@ -84,10 +84,12 @@ Strong candidate for admission prompt:
 - unique experences, traits/characteristcs
 - check if your topic lands in any of the other topics first
 
-PIQ resources:
+PIQ resources/QnA:
 - additional comment section is not for PIQs, just personal/academic context
 - avoid using metaphors
 - most majors do not require a letter of recommendation or portfolio
+![Pages to Bookmark](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-09%20170105.png?raw=true)
+<br><br>
 
 They covered plagerism a solid amount toward the end of the meeting, but at the end of the day, just don't do it. Don't falsify your application, use AI, etc etc etc. I'm not noting the details down when it is simple not to do it!
 
@@ -99,4 +101,5 @@ Thank you to the CCTS team:
 
 
 ## Final Thoughts
-This was so full of information, and I am incredibly grateful for all of the hard work the team has invested into this webinar series. I cannot wait for more, and thank you for reading!
+This was so full of information, and I am incredibly grateful for all of the hard work the team has invested into this webinar series. I cannot wait for more, and thank you for reading! <br><br>
+![banner from form](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-09%20170302.png?raw=true)
