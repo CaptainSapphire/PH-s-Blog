@@ -40,7 +40,7 @@ df %>%
 Although this graph is a little confusing because of how the devices are titled, we watch Netflix on our TV the most (that's the main conclusion meant to be drawn).
 
 ## Making the Presentation
-
+Putting the presentation together was relatively simple, it was just done in powerpoint. 
 
 ## The Video + Repo
 From there, I leaned the back of my computer against a wall and proped my phone on top of the laptop monitor. I recorded my screen in powerpoint, and edited it all in capcut. It's all free, and I would reccomend recording the final results of your projects. <br><br>
@@ -50,4 +50,4 @@ The repository is accessible [here]()
 I would definitely label my x-axis with the time units so my final analysis is more coherent of each graph. 
 
 ## Final Thoughts
-
+This post was meant for a couple months ago, but I found the old draft and figured I'd finish it. 
