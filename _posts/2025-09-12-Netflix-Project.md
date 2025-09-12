@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Netflix Data Science Project"
+date: 2025-09-12
+featured-img: https://i.ytimg.com/an_webp/GTf-p7YnqGU/mqdefault_6s.webp?du=3000&sqp=CJC-kcYG&rs=AOn4CLCKlC3RLhrClb7MdJcIBB2_BvL5Yw
+---
 # Data Science Project: Netflix
 
 ## The start of the story
