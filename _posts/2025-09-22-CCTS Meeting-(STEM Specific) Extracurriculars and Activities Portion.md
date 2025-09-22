@@ -71,5 +71,7 @@ Thank you to the CCTS team:
 
 
 ## Final Thoughts
+Summary: This webinar focused on effectively completing the Activities & Awards and Additional Comments sections of the UC application, with emphasis on STEM majors. The presenter, Maika Jimenez (CCTS transfer advisor), noted that while examples were STEM-focused, the strategies apply to all majors. Students attending at least five CCTS webinars and completing the UC TAP planner can receive a participation certificate. <br><Br>
+
 They provided so many examples as to the correct way to convey what you earned (be specific, dos and don'ts), and I am incredibly grateful for all of the hard work the team has invested into this webinar series. I cannot wait for more, and thank you for reading! <br><br>
 ![banner from form](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-09%20170302.png?raw=true)
