@@ -71,5 +71,5 @@ Thank you to the CCTS team:
 
 
 ## Final Thoughts
-This was so full of information, and I am incredibly grateful for all of the hard work the team has invested into this webinar series. I cannot wait for more, and thank you for reading! <br><br>
+They provided so many examples as to the correct way to convey what you earned (be specific, dos and don'ts), and I am incredibly grateful for all of the hard work the team has invested into this webinar series. I cannot wait for more, and thank you for reading! <br><br>
 ![banner from form](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-09%20170302.png?raw=true)
