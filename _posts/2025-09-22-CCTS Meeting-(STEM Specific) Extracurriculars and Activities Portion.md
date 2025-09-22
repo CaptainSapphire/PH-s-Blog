@@ -1,3 +1,9 @@
+---
+layout: post
+title: "CCTS Meeting: (STEM Specific) Extracurriculars and Activities Portion"
+date: 2025-09-09
+featured-img: https://cep.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/logo_ccts2020.png?itok=tgA-tZN-&timestamp=1631654577
+---
 # CCTS Meeting: (STEM Specific) Extracurriculars and Activities Portion
 I am a Moorpark College student majoring in data science, aiming to transfer to a UC, so, I am currently a participant is UC Berkley's Community College Transfer Services (CCTS) webinar series, which is all about preparing for the application and your future. This webinar (on 9/18/2025) was focused on the "Extracurriculars and Activities" part of the UC application, specific to STEM. 
 <img src="https://cep.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/logo_ccts2020.png?itok=tgA-tZN-&timestamp=1631654577" width="600" alt="CCTS Logo"/>  <br><br>
