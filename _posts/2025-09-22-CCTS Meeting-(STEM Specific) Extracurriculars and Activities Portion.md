@@ -8,6 +8,9 @@ Additional Comments and activites and awards, stem edition/
 Activities and awards section of the uc application
 Main purpose of this section: **Space for clarity and detail on circumstances** <br><br>
 example uses of this portion: academic gaps, reduced course load, withdrawal, academic renrewal, health stations, family responsibilitys, work responsibilites
+<br><br>
+![Overview image](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-18%20161510.png?raw=true)
+<br><br>
 
 Topic examples:
 - break/gap years
