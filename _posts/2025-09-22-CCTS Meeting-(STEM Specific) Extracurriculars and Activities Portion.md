@@ -40,28 +40,60 @@ Don'ts:
 - use acronyms, leave desc blank, list same activity multiple time
 - speak about work of others, list future roles, list activites from high school (unless activity continued through community college or first year of community college)
 
-Education Preparation Program:
-- Programs you benefitted from
-- ex: CCTS, MESA
-- Strong/weak examples
+### Educational Preparation Programs
+Programs students benefited from (not volunteered for), such as MESA, EOPS, Honors, TRIO, CCTS, and transfer prep programs.
+**Strong Entry Example:**
+- **Name:** Mathematics, Engineering, Science, and Achievement (MESA) Program
+- **Description:** Selected for a STEM support program focused on academic excellence and transfer readiness; attended weekly skill-building workshops; engaged in collaborative study groups; participated in industry panels; served as peer mentor to new students during second year.
 
-Awards/Honors examples:
-- CA academic awards
-- scholarship
-- Dean's list
-- Phi Theta Kappa cert?
-- CCTS certificate
 
-Work Experience:
-- anything you were paid for
-- can be major related or not major related
-- highlights leadership, significant responbilities, transferable skills, and connection to major
+### Honors & Awards
+Accomplishments receiving recognition, including Dean's List, scholarships, certificates, academic awards, Phi Theta Kappa, and leadership certificates.
+**Strong Entry Example:**
+- **Name:** Allied Health Pathways Scholarship
+- **Description:** Selected for merit-based scholarship awarded to pre-health students with strong academic performance and commitment to healthcare equity. One of 10 recipients from pool of over 100 applicants. Funds supported coursework in anatomy and volunteer work at local clinic.
 
-Volunteer Experiences:
-- food bank, food distribution, community service, church/religious institution, charity/auctions, tree planting, college event setup, red cross, wildlife conservation, legal clinics, unpaid tutoring, research shadowing
+### Work Experience
+Paid positions including part-time jobs, internships, work-study, tutoring (paid), and on-campus jobs.
+**Strong Entry Example:**
+- **Name:** Crew Member, McDonald's
+- **Description:** Work 20-25 hours weekly while attending college full-time. Developed strong multi-tasking, communication, and leadership skills by training new employees, resolving customer issues, and managing high-volume shifts. Balancing work and academics taught discipline and resilience.
 
-Extracurricular Activities:
-- Clubs, student gov, sports
+
+### Volunteer Experience
+
+Unpaid service like hospital volunteering, food banks, animal shelters, beach cleanups, unpaid tutoring, and community service.
+
+**Strong Entry Example:**
+- **Name:** Volunteer, Berkeley City College Food Bank
+- **Description:** Volunteer weekly to store, package, and distribute food to low-income families and unhoused individuals. Trained new volunteers and helped streamline distribution during high-demand seasons. Strengthened commitment to service and awareness of food insecurity in underserved communities.
+
+### Extracurricular Activities
+Commitments outside academics including clubs, student government, sports, personal projects, and professional organizations.
+
+**Strong Entry Example:**
+- **Name:** Student-Athlete, Men's Soccer Team
+- **Description:** Competed as student-athlete on college soccer team while managing full academic course load. Attended daily practices, competed in statewide tournaments, and served as team co-captain in second year. Built strong discipline, time management, and leadership skills.
+
+### Writing Effective Entries
+1. Include official names and titles of programs
+2. Be specific and detailed when describing responsibilities
+3. Include relevant numbers and data (metrics) when possible
+4. Share impact and skills learned
+5. For personal projects, highlight transferable skills gained
+
+### Action Items
+- [ ]  Complete the CCTS intake form if not already submitted (required for participation certificate)
+- [ ]  Consider attending the College Information Day on Saturday, October 25th (9am-4pm)
+- [ ]  Track your own webinar attendance (need at least 5 for certificate)
+### Additional Guidance
+
+- Family responsibilities and work commitments are valuable experiences worth highlighting
+- Small businesses, side hustles, and "under-the-table" jobs should be included as work experience
+- Personal research projects can be listed under extracurricular activities
+- High school activities are generally only recommended if within the past three years
+- The order of listing activities doesn't significantly impact evaluation
+
 
 Thank you to the CCTS team:
 - [Melanie Ly](https://www.linkedin.com/in/melanie-l-7a1337178/)
