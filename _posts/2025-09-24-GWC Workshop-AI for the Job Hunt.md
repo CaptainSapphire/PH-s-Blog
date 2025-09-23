@@ -50,7 +50,11 @@ A type of storytelling that is clear and succicent for interviewing.
 Next Step:
 - Ask ChatGPT to write the prompt for asking ChatGPT about the star technique...:
 "now help me write a prompt to build a custom GPT or chatbot that takes stories that I tell about my work experience and reformats them to fit into the POP-IT framework"
-
+- In pro mode go to "GPTs" on the left side tab
+- Create + (in top write menu)
+- Google Gemini Gems are similar to ChatGPTs GPTs (according to the host)
+- [Here's the GPT Crystal made](https://chatgpt.com/g/g-68d32e7be1488191820004dfb0b6d6ac-star-technique-interview-helper)
+- 
 
 
 ## Thank you to...
