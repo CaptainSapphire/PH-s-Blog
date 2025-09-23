@@ -34,6 +34,9 @@ We played a game on the zoom: "AI for the Job Hunt"
 How can you prepare with AI?
 - Choose a problem you want to solve with AI: I want to make my resume look better, I want to remove typos in my resume, I want to update my resume so it matches key themes based on this job description (choice C is the best) -->
 - Go to ChatGPT and provide the job description and your resume and input the prompt above
+- Review the ChatGPT output
+
+
 
 ## Thank you to...
 - Bethany Crystal (Build First) - Facilitator, Founder and CEO of Build First, a learning lab that teaches people and teams how to build with AI. 
