@@ -54,6 +54,7 @@ Next Step:
 - Create + (in top write menu)
 - Google Gemini Gems are similar to ChatGPTs GPTs (according to the host)
 - [Here's the GPT Crystal made](https://chatgpt.com/g/g-68d32e7be1488191820004dfb0b6d6ac-star-technique-interview-helper)
+- "If you can't find something in the menus, asking ChatGPT where it is"
 - 
 
 
@@ -65,4 +66,8 @@ Next Step:
 - Erin Page (she/her) - GWC
  
 
+## Some Criticism on this event...
+While it may feel like it is overstated, there is a need in each AI event to at least mention the potential dangers and issues with using AI. AI, beyond its environmental impacts, is a tool that can be easily misused, and I do wish I saw a bit more caution in using it to replace certain aspects of problem solving. With that said, I do not disagree that is it a very helpful tool in preparation for formal work environments like career and interview preparation, and resume making.
+
 ## Final thoughts
+I thoroughly enjoyed learning from this wonderful innovator, and thank you for hosting this meeting.
