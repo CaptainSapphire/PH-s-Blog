@@ -36,6 +36,9 @@ How can you prepare with AI?
 - Go to ChatGPT and provide the job description and your resume and input the prompt above
 - Review the ChatGPT output
 
+Level 2: Make a STAR Technique GPT
+- *Pro account needed
+- How can I use AI to practice telling stories about my work in my interview?
 
 
 ## Thank you to...
