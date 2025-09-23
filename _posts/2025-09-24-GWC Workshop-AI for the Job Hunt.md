@@ -39,6 +39,18 @@ How can you prepare with AI?
 Level 2: Make a STAR Technique GPT
 - *Pro account needed
 - How can I use AI to practice telling stories about my work in my interview?
+- A framework good for interviewing: STAR Technique
+**STAR Technique is:** <br><br>
+A type of storytelling that is clear and succicent for interviewing. 
+- Situation - describe the context or background
+- Task - explain your role and what you needed to achieve
+- Action - Detail the specific steps you took to address the task or challege
+- Result - Share the outcome of your actions, ideally with measurable impact
+<br><br>
+Next Step:
+- Ask ChatGPT to write the prompt for asking ChatGPT about the star technique...:
+"now help me write a prompt to build a custom GPT or chatbot that takes stories that I tell about my work experience and reformats them to fit into the POP-IT framework"
+
 
 
 ## Thank you to...
