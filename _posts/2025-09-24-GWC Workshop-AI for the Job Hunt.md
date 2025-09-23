@@ -21,8 +21,19 @@ This workshop has the opportunity for hands-on practice. If you want to build al
 
 
 ## Meeting notes
+Crystal used AI to build mini apps to prep for:
+- research the role
+- tailor her resume
+- make an interview rubric
+- build a storytelling + interview bot
 
+We played a game on the zoom: "AI for the Job Hunt" 
+- Inventory: Resume, linkedin profile, job description, chatgpt account
+- side quests: build a resume, make a STAR technique GPT, Make a mock interview bot
 
+How can you prepare with AI?
+- Choose a problem you want to solve with AI: I want to make my resume look better, I want to remove typos in my resume, I want to update my resume so it matches key themes based on this job description (choice C is the best) -->
+- Go to ChatGPT and provide the job description and your resume and input the prompt above
 
 ## Thank you to...
 - Bethany Crystal (Build First) - Facilitator, Founder and CEO of Build First, a learning lab that teaches people and teams how to build with AI. 
