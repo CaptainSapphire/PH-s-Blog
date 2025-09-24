@@ -55,8 +55,16 @@ Next Step:
 - Google Gemini Gems are similar to ChatGPTs GPTs (according to the host)
 - [Here's the GPT Crystal made](https://chatgpt.com/g/g-68d32e7be1488191820004dfb0b6d6ac-star-technique-interview-helper)
 - "If you can't find something in the menus, asking ChatGPT where it is"
-- 
+- Test the functionality of the GPT 
 
+Level 3: Make a Mock Interview Bot
+- Same problem statement
+- Make an interview rubric
+- Get "core competencies" from ChatGPT
+- Built an interview rubric scoring sheet w/ AI
+- Keep in mind technical versus behavioral interview
+- What kind of inputs will I need in order to build a chatbot for an interview --> we need mock questions
+- Go to ChatGPT --> upload interview rubric and job desc, come up with a question guide, 30 minute interview
 
 ## Thank you to...
 - Bethany Crystal (Build First) - Facilitator, Founder and CEO of Build First, a learning lab that teaches people and teams how to build with AI. 
