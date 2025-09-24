@@ -65,6 +65,7 @@ Level 3: Make a Mock Interview Bot
 - Keep in mind technical versus behavioral interview
 - What kind of inputs will I need in order to build a chatbot for an interview --> we need mock questions
 - Go to ChatGPT --> upload interview rubric and job desc, come up with a question guide, 30 minute interview
+- [Crystal's mock interview bot](https://chatgpt.com/g/g-68d335307a58819192b2b9b75fce07e9-bethany-s-mock-interview-bot-stripe-partnerships)
 
 ## Thank you to...
 - Bethany Crystal (Build First) - Facilitator, Founder and CEO of Build First, a learning lab that teaches people and teams how to build with AI. 
