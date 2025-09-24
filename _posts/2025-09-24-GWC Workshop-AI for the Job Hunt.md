@@ -65,7 +65,11 @@ Level 3: Make a Mock Interview Bot
 - Keep in mind technical versus behavioral interview
 - What kind of inputs will I need in order to build a chatbot for an interview --> we need mock questions
 - Go to ChatGPT --> upload interview rubric and job desc, come up with a question guide, 30 minute interview
+- “Based on this interview rubric and job description, come up with a question guide for a 30-minute interview for this role"
 - [Crystal's mock interview bot](https://chatgpt.com/g/g-68d335307a58819192b2b9b75fce07e9-bethany-s-mock-interview-bot-stripe-partnerships)
+
+
+*there was a few slides I did not screenshot but will be shared later in the week that I will tack onto this post.* <br><br>
 
 ## Thank you to...
 - Bethany Crystal (Build First) - Facilitator, Founder and CEO of Build First, a learning lab that teaches people and teams how to build with AI. 
@@ -73,7 +77,7 @@ Level 3: Make a Mock Interview Bot
 - Jackie Blizzard-Caron (she/her) - GWC
 - Pam Lee (she/her) - GWC
 - Erin Page (she/her) - GWC
- 
+They did amazing with the discussion management, despite there being 91 participants overall!
 
 ## Some Criticism on this event...
 While it may feel like it is overstated, there is a need in each AI event to at least mention the potential dangers and issues with using AI. AI, beyond its environmental impacts, is a tool that can be easily misused, and I do wish I saw a bit more caution in using it to replace certain aspects of problem solving. With that said, I do not disagree that is it a very helpful tool in preparation for formal work environments like career and interview preparation, and resume making.
