@@ -102,6 +102,7 @@ Level 3: Make a Mock Interview Bot
 - Jackie Blizzard-Caron (she/her) - GWC
 - Pam Lee (she/her) - GWC
 - Erin Page (she/her) - GWC
+<br><br>
 They did amazing with the discussion management, despite there being 91 participants overall!
 
 ## Some Criticism on this event...
