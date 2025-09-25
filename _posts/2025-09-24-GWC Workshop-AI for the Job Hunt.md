@@ -1,5 +1,5 @@
 # GWC Workshop #1: AI for the Job Hunt
-cont4ext
+I'm a data science college student, and in HS I participated in a few [Girls Who Code](https://girlswhocode.com/) programs. Recently they hosted a workshop, all about AI for the job hunt (details below):
 
 
 ## Event Information
@@ -35,6 +35,9 @@ How can you prepare with AI?
 - Choose a problem you want to solve with AI: I want to make my resume look better, I want to remove typos in my resume, I want to update my resume so it matches key themes based on this job description (choice C is the best) -->
 - Go to ChatGPT and provide the job description and your resume and input the prompt above
 - Review the ChatGPT output
+<br><br>
+![picture idk](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-23%20161845.png?raw=true)
+<br><br>
 
 Level 2: Make a STAR Technique GPT
 - *Pro account needed
@@ -56,6 +59,9 @@ Next Step:
 - [Here's the GPT Crystal made](https://chatgpt.com/g/g-68d32e7be1488191820004dfb0b6d6ac-star-technique-interview-helper)
 - "If you can't find something in the menus, asking ChatGPT where it is"
 - Test the functionality of the GPT 
+<br><br>
+![custom gpt image](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-23%20164454.png?raw=true)
+<br><br>
 
 Level 3: Make a Mock Interview Bot
 - Same problem statement
@@ -67,6 +73,19 @@ Level 3: Make a Mock Interview Bot
 - Go to ChatGPT --> upload interview rubric and job desc, come up with a question guide, 30 minute interview
 - “Based on this interview rubric and job description, come up with a question guide for a 30-minute interview for this role"
 - [Crystal's mock interview bot](https://chatgpt.com/g/g-68d335307a58819192b2b9b75fce07e9-bethany-s-mock-interview-bot-stripe-partnerships)
+
+<br><br>
+![interview image](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-23%20171005.png?raw=true)
+<br><br>
+
+<br><br>
+![critical problem solving image](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-23%20171258.png?raw=true)
+<br><br>
+
+
+<br><br>
+![critical problem solving image](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-23%20171721.png?raw=true)
+<br><br>
 
 
 *there was a few slides I did not screenshot but will be shared later in the week that I will tack onto this post.* <br><br>
@@ -81,6 +100,10 @@ They did amazing with the discussion management, despite there being 91 particip
 
 ## Some Criticism on this event...
 While it may feel like it is overstated, there is a need in each AI event to at least mention the potential dangers and issues with using AI. AI, beyond its environmental impacts, is a tool that can be easily misused, and I do wish I saw a bit more caution in using it to replace certain aspects of problem solving. With that said, I do not disagree that is it a very helpful tool in preparation for formal work environments like career and interview preparation, and resume making.
+<br><br>
+![from the qna](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-23%20163256.png?raw=true)
+<br><br>
+
 
 ## Final thoughts
 I thoroughly enjoyed learning from this wonderful innovator, and thank you for hosting this meeting.
