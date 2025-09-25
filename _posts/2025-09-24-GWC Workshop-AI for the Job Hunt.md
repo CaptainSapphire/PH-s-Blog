@@ -97,11 +97,11 @@ Level 3: Make a Mock Interview Bot
 *there was a few slides I did not screenshot but will be shared later in the week that I will tack onto this post.* <br><br>
 
 ## Thank you to...
-- Bethany Crystal (Build First) - Facilitator, Founder and CEO of Build First, a learning lab that teaches people and teams how to build with AI. 
-- Julio Chávez (they/them) - GWC
-- Jackie Blizzard-Caron (she/her) - GWC
-- Pam Lee (she/her) - GWC
-- Erin Page (she/her) - GWC
+- [Bethany Crystal](https://www.linkedin.com/in/bethanymarz/) (Build First) - Facilitator, Founder and CEO of Build First, a learning lab that teaches people and teams how to build with AI. 
+- [Julio Chávez](https://www.linkedin.com/in/julixchavez/) (they/them) - GWC
+- [Jackie Blizzard-Caron](https://www.linkedin.com/in/jackieblizzard/) (she/her) - GWC
+- [Pam Lee](https://www.linkedin.com/in/pamelalee03/) (she/her) - GWC
+- [Erin Page](https://www.linkedin.com/in/erinpage-nj/) (she/her) - GWC
 <br><br>
 They did amazing with the discussion management, despite there being 91 participants overall!
 
