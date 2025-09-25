@@ -2,7 +2,7 @@
 layout: post
 title: "Netflix Data Science Project"
 date: 2025-09-12
-featured-img: https://i.ytimg.com/an_webp/GTf-p7YnqGU/mqdefault_6s.webp?du=3000&sqp=CJC-kcYG&rs=AOn4CLCKlC3RLhrClb7MdJcIBB2_BvL5Yw
+featured-img: https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940
 ---
 # Data Science Project: Netflix
 
