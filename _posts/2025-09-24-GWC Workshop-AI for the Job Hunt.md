@@ -1,3 +1,9 @@
+---
+layout: post
+title: "GWC Workshop #1: AI for the Job Hunt"
+date: 2025-09-25
+featured-img: https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1588335912
+---
 # GWC Workshop #1: AI for the Job Hunt
 I'm a data science college student, and in HS I participated in a few [Girls Who Code](https://girlswhocode.com/) programs. Recently they hosted a workshop, all about AI for the job hunt (details below):
 
