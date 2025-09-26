@@ -1,3 +1,10 @@
+---
+layout: post
+title: "IBM's Learn About a Career in AI (GWC)"
+date: 2025-09-25
+featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-25%20215151.png?raw=true
+---
+
 # IBM's Learn About a Career in AI (GWC)
 [IBM SkillBuild](https://skillsbuild.org/) is a learning platform, which is teaming with [Girls Who Code](https://girlswhocode.com/) to provide Girls Who Code students like myself preparation to enter the workforce! One of the activities is called "Learn about a career in AI." Here's what I learned:
 
