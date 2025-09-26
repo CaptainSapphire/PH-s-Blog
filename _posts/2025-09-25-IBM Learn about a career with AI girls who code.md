@@ -1,7 +1,7 @@
 # IBM's Learn About a Career in AI (GWC)
-context
+[IBM SkillBuild](https://skillsbuild.org/) is a learning platform, which is teaming with [Girls Who Code](https://girlswhocode.com/) to provide Girls Who Code students like myself preparation to enter the workforce! One of the activities is called "Learn about a career in AI." Here's what I learned:
 
-## The content of the blog
+## What I learned
 According to Igor Perisic, a Chief Data Officer at LinkedIn in [2018](https://www.weforum.org/agenda/2018/09/artificial-intelligence-shaking-up-job-market/), "By 2025, work done by machines will jump from 29% to more than 50%." While this may *sound* scary, it is actually an opportunity to get a job making AI applications! <br><br>
 According to the course (the source provided has been taken down) "In 2019, there were 7,000 AI job openings in the United States alone." <br><br>
 Because of this growing field and generally good opportunity, IBM encourages to build the skills to enter, by 
