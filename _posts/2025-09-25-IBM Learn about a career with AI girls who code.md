@@ -27,3 +27,5 @@ And, finally: "chart your course to a great career!"
 • Invest in an associate or bachelor degree.
 
 ## Final Thoughts
+Thank you to Girls Who Code for providing this IBM preparatory course!! <br><br>
+![rocket from presentation](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-25%20215151.png?raw=true)
