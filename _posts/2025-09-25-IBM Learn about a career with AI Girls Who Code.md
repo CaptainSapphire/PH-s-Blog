@@ -17,7 +17,7 @@ Because of this growing field and generally good opportunity, IBM encourages to 
 - Learn GitHub and Kaggle<br>
 - Share code examples<br>
 - Read AI blogs"<br>
-<br><br>
+<br>
 
 2. Polish your skills to prepare for the future.<br><br>
 • Applied math <br>
