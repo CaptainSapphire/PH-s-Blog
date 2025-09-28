@@ -13,25 +13,25 @@ According to Igor Perisic, a Chief Data Officer at LinkedIn in [2018](https://ww
 According to the course (the source provided has been taken down) "In 2019, there were 7,000 AI job openings in the United States alone." <br><br>
 Because of this growing field and generally good opportunity, IBM encourages to build the skills to enter, by 
 "Enter AI competitions like battlebots, kaggles, or hackathons
-• Create a chatbot
-• Learn GitHub and Kaggle
-• Share code examples
-• Read AI blogs"
+• Create a chatbot <br><br>
+• Learn GitHub and Kaggle<br><br>
+• Share code examples<br><br>
+• Read AI blogs"<br><br>
 <br><br>
 
 2. Polish your skills to prepare for the future.
-• Applied math
-• Problem solving
-• Data analysis
-• Algorithm structure
-• Probability and statistics
-• Programming languages such as Python,
-• C++, R, or Java
+• Applied math<br><br>
+• Problem solving<br><br>
+• Data analysis<br><br>
+• Algorithm structure<br><br>
+• Probability and statistics<br><br>
+• Programming languages such as Python, C++, R, or Java
+<br><br><br><br>
 
-And, finally: "chart your course to a great career!"
-• Dig into online training opportunities.
-• Seek out an internship.
-• Invest in an associate or bachelor degree.
+And, finally: "chart your course to a great career!"<br><br>
+• Dig into online training opportunities.<br><br>
+• Seek out an internship.<br><br>
+• Invest in an associate or bachelor degree.<br><br>
 
 ## Final Thoughts
 Thank you to Girls Who Code for providing this IBM preparatory course!! <br><br>
