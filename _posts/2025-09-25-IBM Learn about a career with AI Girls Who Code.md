@@ -12,19 +12,19 @@ featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/Sept
 According to Igor Perisic, a Chief Data Officer at LinkedIn in [2018](https://www.weforum.org/agenda/2018/09/artificial-intelligence-shaking-up-job-market/), "By 2025, work done by machines will jump from 29% to more than 50%." While this may *sound* scary, it is actually an opportunity to get a job making AI applications! <br><br>
 According to the course (the source provided has been taken down) "In 2019, there were 7,000 AI job openings in the United States alone." <br><br>
 Because of this growing field and generally good opportunity, IBM encourages to build the skills to enter, by 
-- entering AI competitions like battlebots, kaggles, or hackathons <br><br>
-- Create a chatbot <br><br>
-- Learn GitHub and Kaggle<br><br>
-- Share code examples<br><br>
-- Read AI blogs"<br><br>
+- entering AI competitions like battlebots, kaggles, or hackathons <br>
+- Create a chatbot <br>
+- Learn GitHub and Kaggle<br>
+- Share code examples<br>
+- Read AI blogs"<br>
 <br><br>
 
 2. Polish your skills to prepare for the future.<br><br>
-• Applied math <br><br>
-• Problem solving <br><br>
-• Data analysis <br><br>
-• Algorithm structure <br><br>
-• Probability and statistics <br><br>
+• Applied math <br>
+• Problem solving <br>
+• Data analysis <br>
+• Algorithm structure <br>
+• Probability and statistics <br>
 • Programming languages such as Python, C++, R, or Java
 <br><br>
 
