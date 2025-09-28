@@ -19,7 +19,7 @@ Because of this growing field and generally good opportunity, IBM encourages to 
 - Read AI blogs"<br>
 <br>
 
-2. Polish your skills to prepare for the future.<br><br>
+As well as polishing on these skills: <br><br>
 • Applied math <br>
 • Problem solving <br>
 • Data analysis <br>
