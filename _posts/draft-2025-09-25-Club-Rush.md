@@ -13,7 +13,16 @@ Some key points of this club:
 - Funding: I am officially listed as the treasurer of the club, but all officers work in all areas of this club. For funding though, I think that raising money by selling some of the creations is a good idea, although it is very difficult to make money as an artist with commissions for what I've seen. Moorpark College does also provide a certain amount for funding, and we can collect money from members if we wanted to provide materials rather than having members bring them in. 
 
 **Enthusiastic Programmers Club** <br><br>
-Also know as the Computer Science Club, this club 
+Also know as the Computer Science Club, this club offers a wide range of learning opportunities to their members, such as this: (quotes are from the brochure) <br><br> 
+- Automation Workshops: "At CompSci Club, we introduce tools like Selenium (no prior experience required) and guide you through creating practical website automation projects while developing your programming knowledge"
+- Microcontroller Workshops: " Want to bring your ideas to life with real hardware? At CompSci Club, members will be provided with free microcontrollers and fun, hands-on lessons to explore the world of electronics. Learn how to code, wire, and create your own interactive systems!"
+- Monthly Member Project:Got an awesome idea or project you want to show off? Or maybe you just want to learn from others? At CompSci Club, we kick off the first week of every month with our Show & Share meetings—an open space where members can present their creations, share tips, and inspire each other. It’s the perfect chance to learn, connect, and get your ideas noticed!"
+- Networking and Team Competitions:  CompSci Club is the place to connect with driven, like-minded people who share your passion for technology. It’s not just about coding—it’s about building friendships, finding teammates, and growing together on your computer science journey. Plus, we host fun 
+competitions that challenge your skills, spark collaboration, and push your knowledge to the next level!"
+- Presentations: 
+- Coding Competitions + Field Trips: "attend trips and competitions for free—fully funded by the club. Whether you’re a beginner or already experienced, these events are a fun way to level up your programming skills, meet new people, and have an unforgettable time"
+- Free Food!!!
+
 
 **Latinx Club**
 This club does an event about once a month, usually aiming to create community amongst the large Latinx population of moorpark college. There is a degree of cultural appreciation, and I am doing it to meet people. While it may not add much to my UC application, I'll be exposed to a very large group of people, an opportunity to meet and talk with other people from this college. 
