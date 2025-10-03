@@ -28,6 +28,15 @@ competitions that challenge your skills, spark collaboration, and push your know
 This club does an event about once a month, usually aiming to create community amongst the large Latinx population of moorpark college. There is a degree of cultural appreciation, and I am doing it to meet people. While it may not add much to my UC application, I'll be exposed to a very large group of people, an opportunity to meet and talk with other people from this college. 
 
 **Circle K International**
-
+The Moorpark College Circle K International (CKI) club is a collegiate student-led, service-oriented organization dedicated to promoting service, leadership, and fellowship.<br>
+Service: The main goal is to serve the campus and local community through various projects. Examples of their past activities include graffiti trail clean-ups, beach cleanups, senior citizen dinners, and other community service events.<br>
+Leadership: Members have opportunities to develop leadership skills by taking on club roles, planning, and organizing events. <br>
+Fellowship: The club focuses on building a social community, providing a welcoming environment, and offering social activities alongside volunteering to foster relationships among members. <br>
+In short, the Moorpark College Circle K International club is a way for students to perform meaningful community service, gain leadership experience, and make new friends.
 
 **Rotary Club**
+A few folks were offering volunteer hours, and I signed up, I honestly don't have much else to say. Can't wait to help out in the community! 
+
+
+## Concluding Statements
+I can't wait for club activities and to meet so many new people this year! Be sure to follow me on Linkedin for more of this blog :)
