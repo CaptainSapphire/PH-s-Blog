@@ -1,7 +1,9 @@
 # GWC Workshop #2: Powering Your Project with IBM SkillsBuild
-context
+Hey! I'm a data science major, a freshman in college, and someone 
 "Kickoff the annual GWC Challenge and learn more about IBM's SkillsBuild to build and enhance your project."
-On Oct 7, 2025 03:00 PM Pacific Time, I attended their second workshop! As a part of their Upskill series, they host workshops for Girls Who Code members to gain the technical skills necessary to reach their goals in STEM.  
+On Oct 7, 2025 03:00 PM Pacific Time, I attended their second workshop! As a part of their Upskill series, they host workshops for Girls Who Code members to gain the technical skills necessary to reach their goals in STEM.  <br><br>
+![Upskills Series](https://media.licdn.com/dms/image/sync/v2/D5627AQGqeuBL2kbHAQ/articleshare-shrink_480/B56Zk0REVcI8As-/0/1757518514168?e=2147483647&v=beta&t=o4tJxrq__D6X30ODbqF8dC6xwlRglYt9GSCCAYSxiUk)
+
 # Meeting Notes
 **[GWC Challenge](https://girlswhocode.com/programs/gwc-challenges)**
 - Annual compeittion where students create innovative projects around a specific theme
@@ -46,9 +48,20 @@ We were put in breakout rooms for two minutes to talk to other members of GWC an
 - Room 1: QnA about challenge w/ Joe
 - Room 2: QnA about SkillsBuild/IBM Jefersson 
 
-First I went to the SkillsBuild QnA:
-- 
+I went to the SkillsBuild QnA:
+- All content, certificates, certification exams are free
+- "What are some tips you recommend for this challenge in combining AI + cybersecurity" --> Block your calendar, concentrate, complete learning plan, PLAN YOUR PROJECT!
+<br><br>
+After that we reconvenced in the main room to discuss and regroup for questions, with the host asking everyone what we're excited about and whatnot. Hopefully I can attend the next event, and if I do keep an eye for my blog post :)
 
 Representatives:
 - Jeffersson Romero, Implentation Manager at SkillsBuild
 - Emile Zounon, Learning Experience Designer at IBM/SkillsBuild
+- [GWC] Julio Chavez (they/them) (Host)
+- [GWC] pam lee (she/hers) (Co-host)
+- [GWC] Liza Stark she/her (Co-host)
+- [GWC] Joe Ochterski (he/they) (Co-host)
+- [GWC] Allie Ogino (she/her) (Co-host)
+<br><br> *If I missed anyone please DM me!*
+
+## Final Thoughts
