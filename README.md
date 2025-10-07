@@ -1,2 +1,2 @@
 # PH-s-Blog
-A blog for my data science journey.
+Welcome! This is my blog, to log my educational/academic journey as a data science major. 
