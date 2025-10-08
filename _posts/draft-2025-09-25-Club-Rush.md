@@ -11,6 +11,8 @@ Some key points of this club:
 - discord movie nights!: This reminds me of Girls Who Code a little bit, since they did something similar during my time at SPP/SIP. I have a few movies ready for whenever we decide to host one. Generally, I think movies promoting positive or uplifting themes or are just inspirational would be good given the nature of our club, perhaps Studio Ghibli films, since Ghilbi is also such a heavy influence on the art community as a whole.
 - community service hours: Back at OPHS, we had this NHS where we would make art for charity. I had the contact of the previous NHS president and was able to get the information behind that and bring the idea to my team. My fellow officers seemed elated by the idea and welcomed it into the club plan with open arms.
 - Funding: I am officially listed as the treasurer of the club, but all officers work in all areas of this club. For funding though, I think that raising money by selling some of the creations is a good idea, although it is very difficult to make money as an artist with commissions for what I've seen. Moorpark College does also provide a certain amount for funding, and we can collect money from members if we wanted to provide materials rather than having members bring them in. 
+<br><br>
+![prez and vice](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_2321.png?raw=true)
 
 **Enthusiastic Programmers Club** <br><br>
 Also know as the Computer Science Club, this club offers a wide range of learning opportunities to their members, such as this: (quotes are from the brochure) <br><br> 
@@ -25,7 +27,9 @@ competitions that challenge your skills, spark collaboration, and push your know
 
 
 **Latinx Club**
-This club does an event about once a month, usually aiming to create community amongst the large Latinx population of moorpark college. There is a degree of cultural appreciation, and I am doing it to meet people. While it may not add much to my UC application, I'll be exposed to a very large group of people, an opportunity to meet and talk with other people from this college. 
+This club does an event about once a month, usually aiming to create community amongst the large Latinx population of moorpark college. There is a degree of cultural appreciation, and I am doing it to meet people. While it may not add much to my UC application, I'll be exposed to a very large group of people, an opportunity to meet and talk with other people from this college.
+<br><br>
+![latinx schedule](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_2326.png?raw=true)
 
 **Circle K International**
 The Moorpark College Circle K International (CKI) club is a collegiate student-led, service-oriented organization dedicated to promoting service, leadership, and fellowship.<br>
@@ -33,6 +37,8 @@ Service: The main goal is to serve the campus and local community through variou
 Leadership: Members have opportunities to develop leadership skills by taking on club roles, planning, and organizing events. <br>
 Fellowship: The club focuses on building a social community, providing a welcoming environment, and offering social activities alongside volunteering to foster relationships among members. <br>
 In short, the Moorpark College Circle K International club is a way for students to perform meaningful community service, gain leadership experience, and make new friends.
+<br><br>
+![CKI](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_2327.png?raw=true)
 
 **Rotary Club**
 A few folks were offering volunteer hours, and I signed up, I honestly don't have much else to say. Can't wait to help out in the community! 
