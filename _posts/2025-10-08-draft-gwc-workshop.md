@@ -13,14 +13,14 @@ On Oct 7, 2025 03:00 PM Pacific Time, I attended their second workshop! As a par
 - Designing a game or app, video, animation, etc
 - [Participant Guide](https://docs.google.com/presentation/d/1IXX0msbDPPTIWV7TqqQ5CqAJmyB7nngAfEewGANgFVw/copy)
 
-**IBM SkillsBuild**
+**IBM SkillsBuild** <br><Br>
 Nice thing to note: They took a poll on the experience of the attendees of the workshop on their level of experience with SkillsBuild, to tailor our experience! <br><br>
 - Great source of free resources!!
 - Tools for all ages, career stage, and skill level
 - Human skills are necessary to curate the AI as a tool
 - "78% of IT roles require AI skills" (according to presentation)
 
-**SkillsBuild + GWC Challenge**
+**SkillsBuild + GWC Challenge** <br><br>
 - GWC has prepared a special learning plan on SkillsBuild with resources to help develop your project for the challenge!
 - To be eligible for the prize, submit one challenge in the learning plan per person/participant
 <br><Br>
@@ -30,21 +30,21 @@ Nice thing to note: They took a poll on the experience of the attendees of the w
 3. "I need support building my project": skill up to build a project that goes beyond your own expectations! 
 
 <br><br>
-![IBM SkillsBuild Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcityandguildsfoundation.org%2Four-partners%2Fibm-skillsbuild%2F&psig=AOvVaw27fSbdRNFjdUSlsmUfAZga&ust=1759961631545000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCLiQ0pCOk5ADFQAAAAAdAAAAABAK)
+![IBM SkillsBuild Image](https://i.ytimg.com/vi/KW4xTXWVk_s/maxresdefault.jpg)
 
-**Breakout Rooms**
+**Breakout Rooms** <br><br>
 We were put in breakout rooms for two minutes to talk to other members of GWC and to brainstorm some ideas! Here's who I met: 
 - [Samantha O' Connell](https://www.linkedin.com/in/samantha-oconnell): Has a background in ISM with some beginner experience in computer science and cybersecurity. My focus is in HCI, IS, and UTAUT.
 - Victora Chang: Originally a computer science major but now a informatics major because she enjoys working with UX design/frontend.
 
-**Setting up the Resources**
+**Setting up the Resources** <br><br>
 - They showed how to signup with IBM SkillsBuild, reccomending singing up with Google and filling out the information it asks for.
 - Make sure the organization says Girls Who Code
 - Enroll into learning plan
 - mark activity as complete when activity is completed
 - Showed how to navigate settings
 
-**Coworking Time**
+**Coworking Time** <br><br>
 - Room 1: QnA about challenge w/ Joe
 - Room 2: QnA about SkillsBuild/IBM Jefersson 
 
@@ -58,7 +58,7 @@ Representatives:
 - Jeffersson Romero, Implentation Manager at SkillsBuild
 - Emile Zounon, Learning Experience Designer at IBM/SkillsBuild
 - [GWC] Julio Chavez (they/them) (Host)
-- [GWC] pam lee (she/hers) (Co-host)
+- [GWC] Pam Lee (she/hers) (Co-host)
 - [GWC] Liza Stark she/her (Co-host)
 - [GWC] Joe Ochterski (he/they) (Co-host)
 - [GWC] Allie Ogino (she/her) (Co-host)
