@@ -33,7 +33,7 @@ Nice thing to note: They took a poll on the experience of the attendees of the w
 2. "I have an idea and want to grow my backgroud knowledge": deeper dive into Cybersecurity + AI specifics
 3. "I need support building my project": skill up to build a project that goes beyond your own expectations! 
 <br>
-![IBM SkillsBuild Image](https://i.ytimg.com/vi/KW4xTXWVk_s/maxresdefault.jpg)
+<img src="https://i.ytimg.com/vi/KW4xTXWVk_s/maxresdefault.jpg" width="400" alt="IBM SkillsBuild Logo"/> 
 
 **Breakout Rooms** <br><br>
 We were put in breakout rooms for two minutes to talk to other members of GWC and to brainstorm some ideas! Here's who I met: 
