@@ -54,14 +54,16 @@ I went to the SkillsBuild QnA:
 <br><br>
 After that we reconvenced in the main room to discuss and regroup for questions, with the host asking everyone what we're excited about and whatnot. Hopefully I can attend the next event, and if I do keep an eye for my blog post :)
 
-Representatives:
-- Jeffersson Romero, Implentation Manager at SkillsBuild
-- Emile Zounon, Learning Experience Designer at IBM/SkillsBuild
-- [GWC] Julio Chavez (they/them) (Host)
-- [GWC] Pam Lee (she/hers) (Co-host)
-- [GWC] Liza Stark she/her (Co-host)
-- [GWC] Joe Ochterski (he/they) (Co-host)
-- [GWC] Allie Ogino (she/her) (Co-host)
-<br><br> *If I missed anyone please DM me!*
+
+**Representatives/ Leading Attendees/Presenters:**
+- [Jeffersson Romero, Implentation Manager at IBM/SkillsBuild](https://www.linkedin.com/in/jeferssonromeroduran/)
+- [Emile Zounon, Learning Experience Designer at IBM/SkillsBuild](https://www.linkedin.com/in/emile-giovannie-zounon/)
+- [Julio Chavez, GWC](https://www.linkedin.com/in/julixchavez/)
+- [Pam Lee, GWC](https://www.linkedin.com/in/pamelalee03/)
+- [Liza Stark, GWC](https://www.linkedin.com/in/liza-stark/)
+- [Joe Ochterski, GWC](https://www.linkedin.com/in/joseph-w-ochterski/)
+- [Allie Ogino, GWC](https://www.linkedin.com/in/allie-ogino-b7240b5b/)
+<br><br> *If I missed anyone please DM me. Order is as it was listed on the Zoom meeting.*
 
 ## Final Thoughts
+This was such a wonderful opportunity, thank you for all the effort from Girls Who Code staff and the IBM representatives. :)
