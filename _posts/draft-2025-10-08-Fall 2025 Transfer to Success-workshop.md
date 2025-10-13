@@ -57,3 +57,5 @@ Thank you to the CCTS team:
 
 
 ## Final Thoughts
+These webinars are incredibly educational and I cannot wait for the next one. 
+![banner from form](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/September%202025/Screenshot%202025-09-09%20170302.png?raw=true)
