@@ -31,8 +31,7 @@ Satifies most of the UC lower division GE requirements. IGETC was the old name f
 
 4. Campus specific education <br>
 Uncommon and generally just unique majors/specific cases ex: Liberal arts
-
-<br><br>
+<br>
 **Assist.org**
 - Rules for each major, check by campus
 - has all major prep classes listed here
