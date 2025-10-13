@@ -4,7 +4,7 @@ As a Moopark College Data Science student and a future UC transfer, clubs are a 
 ## The clubs I joined
 They have a range of different clubs available to join, about 40 or 50 stalls! <insert map later> 
 <br><br>
-**Art and Mental Health Club**
+**Art and Mental Health Club** <br><Br>
 After I checked out the club options, I met up with my fellow officers at their stall! Anny (president) and Michelle (vice) put in a lot of time into promoting this stall and setting it up. <br><br>
 Flashback to a couple weeks ago, I spotted a poster taped up, asking for club officers for the art and mental health club, a new club on campus centered around created a safe space and community for everyone. One of my major themes on my application is going to be community, so I called the number listed and became the last necessary officer for this club to be created! We got the documents in and had pretty lengthy dicsussions in the group chat about the future of this club. At the moment we lack an advisor, but I am sure we will find one soon so we may begin hosting meetings. <br><br>
 Some key points of this club:
@@ -26,12 +26,12 @@ competitions that challenge your skills, spark collaboration, and push your know
 - Free Food!!!
 
 
-**Latinx Club**
+**Latinx Club** <br><br>
 This club does an event about once a month, usually aiming to create community amongst the large Latinx population of moorpark college. There is a degree of cultural appreciation, and I am doing it to meet people. While it may not add much to my UC application, I'll be exposed to a very large group of people, an opportunity to meet and talk with other people from this college.
 <br><br>
 ![latinx schedule](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_2326.png?raw=true)
 
-**Circle K International**
+**Circle K International** <br><br>
 The Moorpark College Circle K International (CKI) club is a collegiate student-led, service-oriented organization dedicated to promoting service, leadership, and fellowship.<br>
 Service: The main goal is to serve the campus and local community through various projects. Examples of their past activities include graffiti trail clean-ups, beach cleanups, senior citizen dinners, and other community service events.<br>
 Leadership: Members have opportunities to develop leadership skills by taking on club roles, planning, and organizing events. <br>
@@ -40,7 +40,7 @@ In short, the Moorpark College Circle K International club is a way for students
 <br><br>
 ![CKI](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_2327.png?raw=true)
 
-**Rotary Club**
+**Rotary Club** <br><br>
 A few folks were offering volunteer hours, and I signed up, I honestly don't have much else to say. Can't wait to help out in the community! 
 
 
