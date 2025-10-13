@@ -47,11 +47,11 @@ Uncommon and generally just unique majors/specific cases ex: Liberal arts
 - No course articulated = do some research. In the required section = you have to take it at another college, otherwise it's alright
 
 
-
 Thank you to the CCTS team:
-- Melanie Ly
-- Anokhi Patel
-- Maika Jimenez
-- Tiffany Reardon
+- [Melanie Ly](https://www.linkedin.com/in/melanie-l-7a1337178/)
+- [Anokhi Patel](https://www.linkedin.com/in/anokhi-pats/)
+- [Maika Jimenez](https://www.linkedin.com/in/maika-jimenez-909465186/)
+- [Tiffany Reardon](https://www.linkedin.com/in/tiffany-reardon/)
+
 
 ## Final Thoughts
