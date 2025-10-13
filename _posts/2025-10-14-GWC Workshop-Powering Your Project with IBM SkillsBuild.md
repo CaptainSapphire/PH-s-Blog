@@ -1,3 +1,9 @@
+---
+layout: post
+title: "GWC Workshop #2: Powering Your Project with IBM SkillsBuild"
+date: 2025-10-13
+featured-img: https://media.licdn.com/dms/image/sync/v2/D5627AQGqeuBL2kbHAQ/articleshare-shrink_480/B56Zk0REVcI8As-/0/1757518514168?e=2147483647&v=beta&t=o4tJxrq__D6X30ODbqF8dC6xwlRglYt9GSCCAYSxiUk
+---
 # GWC Workshop #2: Powering Your Project with IBM SkillsBuild
 Hey! I'm a data science major, a freshman in college, and a member of [Girls Who Code](https://girlswhocode.com/).  As a part of their Upskill series, they host workshops for Girls Who Code members to gain the technical skills necessary to reach their goals in STEM. On Oct 7, 2025 03:00 PM Pacific Time, I attended their second workshop! It centered around their collaboration with IBM, and this season's GWC Challenge. <br><br>
 ![Upskills Series](https://media.licdn.com/dms/image/sync/v2/D5627AQGqeuBL2kbHAQ/articleshare-shrink_480/B56Zk0REVcI8As-/0/1757518514168?e=2147483647&v=beta&t=o4tJxrq__D6X30ODbqF8dC6xwlRglYt9GSCCAYSxiUk)
