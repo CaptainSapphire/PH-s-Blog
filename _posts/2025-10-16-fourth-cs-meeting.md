@@ -1,6 +1,6 @@
 # CS Meeting: Windows
 
-# CMD Line Workshop
+## CMD Line Workshop
 **Basic Commands (Directory Navigation)** <br>
 - ">" means the end of a path, for example C:\>cd users\foldername
 - defaulted to home directory
