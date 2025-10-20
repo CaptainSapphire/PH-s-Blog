@@ -30,8 +30,10 @@ third meeting TBDDDDDDDDDDDDDDD
 
 
 ## Plant Palooza
-The star of the show and main volunteer event I've attended thus far, the plant palooza! "Native Plantpalooza & Eco Fest is a free, family-friendly outdoor event where the Conejo Valley community learns about native plants, water-wise gardening and more sustainable living. It provides inspiration for attendees to protect our environment and be good stewards of our open space. The event includes a variety of eco-themed exhibitors, including native plant vendors, beekeepers, wildlife rehab specialists and herpetologists. Experts speak on topics including native wildlife, drought-resistant gardening and supporting monarchs through growing milkweed" ([Conejo Open Space Foundation](https://cosf.org/about-native-plantpalooza-eco-fest/)). <br><br>
-![one of the tents](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_3818.JPG?raw=true)<br><br>
+The star of the show and main volunteer event I've attended thus far, the plant palooza! "Native Plantpalooza & Eco Fest is a free, family-friendly outdoor event where the Conejo Valley community learns about native plants, water-wise gardening and more sustainable living. It provides inspiration for attendees to protect our environment and be good stewards of our open space. The event includes a variety of eco-themed exhibitors, including native plant vendors, beekeepers, wildlife rehab specialists and herpetologists. Experts speak on topics including native wildlife, drought-resistant gardening and supporting monarchs through growing milkweed" ([Conejo Open Space Foundation](https://cosf.org/about-native-plantpalooza-eco-fest/)). 
+<br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_3818.JPG?raw=true" width="400" alt="One of the tents"/> 
+<br><br>
 
 I worked from about 9am-2pm, helping wherever I could. I helped set up the tents, signs, tables, and then I was assigned to sit and work at the Athens Trash Company table, since the worker running it was alone. I was able to help pitch their resources to a range of peoples, and direct questions about Athens back to the professional. She was incredibly kind to work with and kept a positive attitude despite the heat of the event. <br><Br>
 ![At the Athens Tent](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_5251.jpg?raw=true) <br>
