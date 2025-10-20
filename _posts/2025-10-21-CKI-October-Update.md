@@ -35,8 +35,10 @@ The star of the show and main volunteer event I've attended thus far, the plant 
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_3818.JPG?raw=true" width="400" alt="One of the tents"/> 
 <br><br>
 
-I worked from about 9am-2pm, helping wherever I could. I helped set up the tents, signs, tables, and then I was assigned to sit and work at the Athens Trash Company table, since the worker running it was alone. I was able to help pitch their resources to a range of peoples, and direct questions about Athens back to the professional. She was incredibly kind to work with and kept a positive attitude despite the heat of the event. <br><Br>
-![At the Athens Tent](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_5251.jpg?raw=true) <br>
+I worked from about 9am-2pm, helping wherever I could. I helped set up the tents, signs, tables, and then I was assigned to sit and work at the Athens Trash Company table, since the worker running it was alone. I was able to help pitch their resources to a range of peoples, and direct questions about Athens back to the professional. She was incredibly kind to work with and kept a positive attitude despite the heat of the event. 
+<br><Br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/October%202025/IMG_5251.jpg?raw=true" width="400" alt="At the Athens Tent"/> 
+<br>
 *Sitting at the Athens tent while professionals answer specific questions.* <br><Br>
 
 On my break, I walked around and talked to all of tents, getting to know their goals and causes. It ranged from places that do volunteer work to places that cell honey; all things plant-adjacent, of course. <br><br>
