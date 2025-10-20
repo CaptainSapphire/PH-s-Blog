@@ -1,5 +1,13 @@
-# Circle K International So Far
+---
+layout: post
+title: "Circle K International: October Update"
+date: 2025-10-20
+featured-img: https://static.wikia.nocookie.net/cki/images/4/41/CKI.gif/revision/latest/scale-to-width-down/300?cb=20121029041615
+---
+# Circle K International: October Update
 I am a data science student at Moorpark College, but also a member of their CKI club. Here's the events we've had so far, my experience, and what I've learned. 
+<br><br>
+![CKI Logo](https://static.wikia.nocookie.net/cki/images/4/41/CKI.gif/revision/latest/scale-to-width-down/300?cb=20121029041615)
 
 ## Three Meetings
 9/22/2025, they hosted their first meeting in the large lecture hall in the EATM building. It was an a typical meeting, given it was the first meeting post club rush and thus a large amount of members showed up. The board went over who they are, what they do, upcoming events, and they hosted an icebreaker. <br><br>
