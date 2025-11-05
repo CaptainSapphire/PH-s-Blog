@@ -25,6 +25,8 @@ Result: Data Copies, limted interoperability, data exposure risks, vendor sprawl
 3. Build generative AI experiences on top of your data	Azure AI Foundry	Enhance the breadth and depth of data-driven experiences by creating an AI solution.
 
 This framework clearly positions Microsoft Fabric (Steps 1 & 2) as the essential preparation layer for leveraging advanced AI tools like Azure AI Foundry (Step 3).
+![slide for the above](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20141445.png?raw=true)
+
 
 **Microsoft Fabric and Azure AI Foundry Integration**
 This slide outlines a three-step process for connecting your data to AI development tools:
@@ -34,6 +36,7 @@ Step 2: Leveraging Data for Intelligent Apps - Data Pros and Developers leverage
 <br>
 Step 3: Building Generative AI Agents - AI Pros and Developers leverage the Fabric data agent integration in the Azure AI Foundry Agent Service. This allows them to build enterprise AI agents that can uncover actionable insights from structured data and semantic models stored in OneLake.
 <br>
+![](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20140652.png?raw=true)
 
 **A Deeper Look into OneLake Catalog**
 The OneLake Catalog is designed to provide comprehensive data discovery, governance, and insights within Microsoft Fabric.
@@ -47,10 +50,11 @@ The OneLake Catalog is designed to provide comprehensive data discovery, governa
 The screen currently shows a running application, with the speaker stating, "Here is a brief demo of the Purview Unified Catalog app."
 The demonstration highlights the use of Microsoft Copilot within Microsoft Purview, likely focusing on how AI enhances data governance and eDiscovery.
 
-**The interface shows three main capabilities powered by Copilot:**
+**Three main capabilities powered by Copilot:**
 1. Work faster and smarter with Copilot in Microsoft Purview: The description says to "Discover, analyze, and understand data faster with the power of AI."
 2. Alert summaries in Data Loss Prevention: This helps to "Organize, prioritize, and speed up your alert handling process."
 3. Document summaries in eDiscovery: This is intended to "Improve the efficiency and accuracy of your document review process."
+![](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20142005.png?raw=true)
 
 ## Summary
 **Core Pillar:** Microsoft Fabric and OneLake
