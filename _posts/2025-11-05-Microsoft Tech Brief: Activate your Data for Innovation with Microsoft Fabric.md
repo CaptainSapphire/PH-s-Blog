@@ -13,9 +13,9 @@ I am a Data Science student at Moorpark College, and I have a lot to learn about
 AI is accelerating business transformation, with the majority of investors seeing a positive ROI. <br><br>
 
 Problem: Disconnected AI systems
-Result: Data Copies, limted interoperability, data exposure risks, vendor sprawl, infrastructure inefficiencies(more layers are added, harder to work with, and visibility issues) 
+Result: Data Copies, limted interoperability, data exposure risks, vendor sprawl, infrastructure inefficiencies(more layers are added, harder to work with, and visibility issues) <br>
 
-**Microsoft Fabric: The data platform for the era of AI**
+**Microsoft Fabric: The data platform for the era of AI** <br><br>
 "Office 365 for Data" 
 - Data Factory
 - Analytics
@@ -26,9 +26,9 @@ Result: Data Copies, limted interoperability, data exposure risks, vendor sprawl
 - Copilot AI, OneLake, Security & Governance
 <br>
 
-![4 Outcomes Slide](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20133541.png?raw=true)
+![4 Outcomes Slide](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20133541.png?raw=true) <br>
 
-**Fuel your journey to AI innovation by getting your data AI ready.**
+**Fuel your journey to AI innovation by getting your data AI ready.** <br><br>
 1. Establish a central repository for all data	OneLake	Integrate disparate data sources into a unified data platform and data lake.
 2. Prepare data for AI innovation	Microsoft Fabric data experiences	Improve the quality of your data, to ensure it is complete, accurate, and governed.
 3. Build generative AI experiences on top of your data	Azure AI Foundry	Enhance the breadth and depth of data-driven experiences by creating an AI solution.
@@ -37,7 +37,7 @@ This framework clearly positions Microsoft Fabric (Steps 1 & 2) as the essential
 ![slide for the above](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20141445.png?raw=true)
 
 
-**Microsoft Fabric and Azure AI Foundry Integration**
+**Microsoft Fabric and Azure AI Foundry Integration** <br><br>
 This slide outlines a three-step process for connecting your data to AI development tools:
 Step 1: Data Access and Processing - Data Pros use and process data across the AI lifecycle. OneLake acts as the connective tissue, providing a single source for all data.
 <br>
@@ -47,7 +47,7 @@ Step 3: Building Generative AI Agents - AI Pros and Developers leverage the Fabr
 <br>
 ![](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20140652.png?raw=true)
 
-**A Deeper Look into OneLake Catalog**
+**A Deeper Look into OneLake Catalog** <br.<br>
 The OneLake Catalog is designed to provide comprehensive data discovery, governance, and insights within Microsoft Fabric.
 - Complete catalog for data discovery, governance & insights in Fabric: This is the central hub for managing your data estate.
 - Unified view of org data estate: It allows users to easily discover and collaborate on data assets, including data, models, insights, and AI components.
@@ -55,11 +55,11 @@ The OneLake Catalog is designed to provide comprehensive data discovery, governa
 - Effectively govern data at scale: Governance is achieved by gaining insights on data, recommended actions, and available tooling.
 - Integrated directly into Microsoft Purview, Microsoft Copilot Studio, and Azure Portal: This confirms its deep integration with Microsoft's existing compliance, AI, and cloud management tools.
 
-**Demo Notes: Copilot in Microsoft Purview**
+**Demo Notes: Copilot in Microsoft Purview** <br><br>
 The screen currently shows a running application, with the speaker stating, "Here is a brief demo of the Purview Unified Catalog app."
 The demonstration highlights the use of Microsoft Copilot within Microsoft Purview, likely focusing on how AI enhances data governance and eDiscovery.
 
-**Three main capabilities powered by Copilot:**
+**Three main capabilities powered by Copilot:** <br><br>
 1. Work faster and smarter with Copilot in Microsoft Purview: The description says to "Discover, analyze, and understand data faster with the power of AI."
 2. Alert summaries in Data Loss Prevention: This helps to "Organize, prioritize, and speed up your alert handling process."
 3. Document summaries in eDiscovery: This is intended to "Improve the efficiency and accuracy of your document review process."
