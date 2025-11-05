@@ -6,7 +6,7 @@ featured-img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsof
 ---
 
 # Microsoft Tech Brief: Activate your Data for Innovation with Microsoft Fabric
-
+I am a Data Science student at Moorpark College, and I have a lot to learn about the data science industry. So, I attended the "Microsoft Tech Brief: Activate your Data for Innovation with Microsoft Fabric" Webinar to learn about how these tools run/what they do, the pros/cons of them, and all about them. 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/2560px-Microsoft_logo_%282012%29.svg.png" width="400" alt="Microsoft Logo"/> 
 
 ## Notes
