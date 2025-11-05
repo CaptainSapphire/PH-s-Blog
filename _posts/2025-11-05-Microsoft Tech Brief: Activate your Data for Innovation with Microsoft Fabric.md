@@ -7,6 +7,8 @@ featured-img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsof
 
 # Microsoft Tech Brief: Activate your Data for Innovation with Microsoft Fabric
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/2560px-Microsoft_logo_%282012%29.svg.png" width="400" alt="Microsoft Logo"/> 
+
 ## Notes
 AI is accelerating business transformation, with the majority of investors seeing a positive ROI. <br><br>
 
