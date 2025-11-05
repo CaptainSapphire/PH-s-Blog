@@ -37,7 +37,7 @@ BMW's experience
 - Github/Github actions is used to manage data
 - Azure Carbonator Services for cloud work
 - Hoping to implement Copilot into the user experience
-![BMW Screenshot](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20133505.png?raw=true)
+![BMW Screenshot](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20133505.png?raw=true) <br>
 
 Other Partner Examples:
 - Toyota, automotive
@@ -49,8 +49,9 @@ Azure Accelerate
 - for cloud transformation
 - set of resources for advisement and financial management 
 
-
 Thank you to and amazing work from the presenter [Palak Sharma](https://www.linkedin.com/in/palakshr/) (go-to-market lead for Data Platforms for the Americas at Microsoft).
+<br><br>
+![Final Line](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20133525.png?raw=true)
 
 ## Final Thoughts
 While I may be new to the data science field and industry, it was a wonderful opportunity from Microsoft to learn about their tools and the impact they aim to have with them. 
