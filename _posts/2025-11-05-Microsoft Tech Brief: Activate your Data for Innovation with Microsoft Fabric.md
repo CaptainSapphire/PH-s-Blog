@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Microsoft Tech Brief: Activate your Data for Innovation with Microsoft Fabric​"
+date: 2025-11-05
+featured-img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/2560px-Microsoft_logo_%282012%29.svg.png
+---
+
 # Microsoft Tech Brief: Activate your Data for Innovation with Microsoft Fabric
 
 ## Notes
