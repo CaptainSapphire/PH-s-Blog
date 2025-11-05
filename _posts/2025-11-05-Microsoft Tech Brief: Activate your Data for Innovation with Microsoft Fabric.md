@@ -47,7 +47,7 @@ Step 3: Building Generative AI Agents - AI Pros and Developers leverage the Fabr
 <br>
 ![](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20140652.png?raw=true)
 
-**A Deeper Look into OneLake Catalog** <br.<br>
+**A Deeper Look into OneLake Catalog** <br><br>
 The OneLake Catalog is designed to provide comprehensive data discovery, governance, and insights within Microsoft Fabric.
 - Complete catalog for data discovery, governance & insights in Fabric: This is the central hub for managing your data estate.
 - Unified view of org data estate: It allows users to easily discover and collaborate on data assets, including data, models, insights, and AI components.
@@ -68,20 +68,20 @@ The demonstration highlights the use of Microsoft Copilot within Microsoft Purvi
 ## Summary
 **Core Pillar:** Microsoft Fabric and OneLake
 The entire platform is built on the concept of unification and simplifying the data estate for the era of AI.
-
+<br>
 **Microsoft Fabric:** An all-in-one, Software as a Service (SaaS) data analytics platform that integrates various Microsoft data and analytics tools (like Data Factory, Synapse, Power BI, and Real-Time Analytics) into a single environment.
-
+<br>
 **OneLake:** The single, unified, multi-cloud data lake for the entire organization, which is automatically wired into every Fabric tool. "All roads lead to OneLake" is the central idea, as it eliminates the need to copy or move data between different services.
-
+<br>
 **Data Access:** Data is brought into or accessed via Shortcuts (virtualizing data from sources like Amazon S3 and Azure Data Lake Storage) and Mirroring (replicating entire databases like Azure SQL or Snowflake directly into OneLake).
 
-**The AI Readiness Journey**
+**The AI Readiness Journey** <br><br>
 The presentation outlined a clear three-step strategy for building Generative AI experiences:
 - Establish a Central Repository: Use OneLake to unify data from disparate sources into a single data lake foundation.
 - Prepare Data for AI: Use the various Microsoft Fabric workloads (like Data Engineering and Data Science) to improve data quality, ensure completeness, and prepare it for analysis.
 - Build Generative AI Experiences: Leverage Azure AI Foundry and its services (like Azure AI Search and Agent Service) to build intelligent applications on top of the governed data in Fabric.
 
-**Governance and Security with Microsoft Purview**
+**Governance and Security with Microsoft Purview** <br><br>
 Data governance is not an afterthought; it's built directly into Fabric via a deep integration with Microsoft's existing compliance tools.
 - OneLake Catalog: Acts as the central hub for data discovery and governance, allowing users to easily find, endorse, and manage data assets with fine-grained metadata and permissions.
 - Microsoft Purview Integration: Provides the control plane for governance. It extends capabilities like:
@@ -90,8 +90,10 @@ Data governance is not an afterthought; it's built directly into Fabric via a de
 - Unified Catalog (providing a single pane of context about who owns the data, its lineage, and classification).
 - Copilot in Purview: Demonstrated how AI assists in governance by creating alert summaries in DLP and document summaries in eDiscovery, helping teams work faster and smarter.
 
-**Essentially, Microsoft Fabric provides the unified data foundation and governance required to confidently and securely fuel AI innovation across the enterprise.**
+**Essentially, Microsoft Fabric provides the unified data foundation and governance required to confidently and securely fuel AI innovation across the enterprise.** <br><br>
 
+Thank you to and amazing work from the presenter [Palak Sharma](https://www.linkedin.com/in/palakshr/) (go-to-market lead for Data Platforms for the Americas at Microsoft).
+<br><br>
 
 ## Final Thoughts
 While I may be new to the data science field and industry, it was a wonderful opportunity from Microsoft to learn about their tools and the impact they aim to have with them.
