@@ -37,6 +37,7 @@ BMW's experience
 - Github/Github actions is used to manage data
 - Azure Carbonator Services for cloud work
 - Hoping to implement Copilot into the user experience
+![BMW Screenshot](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20133505.png?raw=true)
 
 Other Partner Examples:
 - Toyota, automotive
