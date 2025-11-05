@@ -26,8 +26,6 @@ At the beginning of October, they posted their second meeting. Held in the acade
 <script async src="//www.instagram.com/embed.js"></script>
 <br><br>
 
-third meeting TBDDDDDDDDDDDDDDD
-
 
 ## Plant Palooza
 The star of the show and main volunteer event I've attended thus far, the plant palooza! "Native Plantpalooza & Eco Fest is a free, family-friendly outdoor event where the Conejo Valley community learns about native plants, water-wise gardening and more sustainable living. It provides inspiration for attendees to protect our environment and be good stewards of our open space. The event includes a variety of eco-themed exhibitors, including native plant vendors, beekeepers, wildlife rehab specialists and herpetologists. Experts speak on topics including native wildlife, drought-resistant gardening and supporting monarchs through growing milkweed" ([Conejo Open Space Foundation](https://cosf.org/about-native-plantpalooza-eco-fest/)). 
