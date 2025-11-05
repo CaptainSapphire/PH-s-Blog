@@ -10,7 +10,7 @@ Most organizations today work in disconnected environments, not fully utilizing 
 solution = unify your data into one ecosystem, simplifying complexity and increasing efficiency.
 <br><br>
 
-How to do that with Microsoft Analytic Solutions:
+**How to do that with Microsoft Analytic Solutions:**
 "It's not just about being a modern data platform. It's about making sure that platform is ready to support the kinds of innovation your business is driving forward."
 4 key outcomes: <br><br> 
 - Unify your data estate = reduced vendor sprawl, collecting data into one place
@@ -19,34 +19,34 @@ How to do that with Microsoft Analytic Solutions:
 - seamlessly govern and protect your data
 ![4 Outcomes Slide](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20133541.png?raw=true)
 
-Transform data for powerful AI solutions
+**Transform data for powerful AI solutions**
 "It's not just about making data usable, it's about turning it into a strategic advantage." 
 - A large qunatity of leders say they want to invest in AI, but of the 93% that say data strategy is key to using generative AI efficiently, 57& haven't made the shift --> ambition v. execution
 
-Empower everyone with analytics and insights
+**Empower everyone with analytics and insights**
 "Organizations are investing in data tools, but many still struggle to unlock their full value across teams."
 - all users, regardless of specialization should have access 
 - AI-powered analytics in Microsoft tools exist that use natural language
 <br><br>
 
-Seamlessly Govern and protect your data
+**Seamlessly Govern and protect your data**
 "These gaps expose more than just security vulnerabilities. They also stall innovation, limit data access, and erode trust across teams."
 - Need to protect data without slowing innovation --> embed governance/security into data estate
 
-BMW's experience
+**BMW's Experience**
 - BMW collects a lot of data and uses mobile apps to manange their data
 - Github/Github actions is used to manage data
 - Azure Carbonator Services for cloud work
 - Hoping to implement Copilot into the user experience
 ![BMW Screenshot](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20133505.png?raw=true) <br>
 
-Other Partner Examples:
+**Other Partner Examples (That use these tools):**
 - Toyota, automotive
 - Bayer, Healthcare
 - Air India, Travel
 The finish line: Microsoft Fabric and Azure Databricks
 
-Azure Accelerate 
+**Azure Accelerate** 
 - for cloud transformation
 - set of resources for advisement and financial management 
 
