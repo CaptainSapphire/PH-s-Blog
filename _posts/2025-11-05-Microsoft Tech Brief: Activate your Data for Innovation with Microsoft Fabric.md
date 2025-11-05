@@ -94,4 +94,6 @@ Data governance is not an afterthought; it's built directly into Fabric via a de
 
 
 ## Final Thoughts
+While I may be new to the data science field and industry, it was a wonderful opportunity from Microsoft to learn about their tools and the impact they aim to have with them.
+
 
