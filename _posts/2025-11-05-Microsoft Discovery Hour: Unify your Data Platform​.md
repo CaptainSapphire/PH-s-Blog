@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Microsoft Discovery Hour: Unify your Data Platform​"
+date: 2025-11-05
+featured-img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/2560px-Microsoft_logo_%282012%29.svg.png
+---
 # Microsoft Discovery Hour: Unify your Data Platform​
 I am a Data Science student at Moorpark College, and I have a lot to learn about the data science industry. So, I attended the "Microsoft Discovery Hour: Unify your Data Platform​" Webinar to learn about the tools offered and how they can be applied in real-world situations. <br><Br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/2560px-Microsoft_logo_%282012%29.svg.png" width="400" alt="Microsoft Logo"/> 
