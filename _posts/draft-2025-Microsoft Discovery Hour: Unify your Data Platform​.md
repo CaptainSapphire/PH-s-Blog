@@ -17,6 +17,7 @@ How to do that with Microsoft Analytic Solutions:
 - transform data for powerful AI solutions = having systems that can support vedor search, natural language queries and real-time access.
 - empower everyone with analytics and insights = creates a data driven culture by giving the whole company access to analytics
 - seamlessly govern and protect your data
+![4 Outcomes Slide](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/November%202025/Screenshot%202025-11-05%20133541.png?raw=true)
 
 Transform data for powerful AI solutions
 "It's not just about making data usable, it's about turning it into a strategic advantage." 
