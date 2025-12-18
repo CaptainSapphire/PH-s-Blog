@@ -54,9 +54,10 @@ YOU CAN CHANGE THE COLORS!
 - remove attribute ... attrib -h
 <br><br>
 
-**fun cool stuff?** <br>
+**fun cool stuff** <br>
 - xcopy (a better copy command)
 - set command (like let in javascript, creates variables) --> display with echo... echo %variablename%
 
 
 ## Final Thoughts
+Thank you to the Computer Science Club of Moorpark College for putting on this event!
