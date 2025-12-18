@@ -1,5 +1,6 @@
 # TransferChella: Transfer Spotlight, Latine Community
 For  National Transfer Student Week, CCTS with UCB are hosting webinars to spread community and inform future transfers. 
+<img src="https://cep.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/logo_ccts2020.png?itok=tgA-tZN-&timestamp=1631654577" width="600" alt="CCTS Logo"/>  <br><br>
 
 ## Meeting Notes
 They were open and honest with their experience in reference to their identities as a latino student. 
@@ -49,11 +50,10 @@ What are some ways prospective Latine transfer students can prepare now to make 
 - Be open minded & mindful of your time
 - Use community college resources, career center, checking in with professors, checking email 
 
-
-
 Panelists: 
 - Kimberly Barrueta, UCLA
 - Daniel Contreras, UCB
 - Maika Jimenez Corrales: CCTS
 
 ## Final Thoughts
+This was such a wonderful opportunity to hear unique insight, thank you to the CCTS team and the panelists. 
