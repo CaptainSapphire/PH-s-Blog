@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Collaboration with the P.A. Club at Moorpark College​"
+date: 2025-12-31
+featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/December%202025/paclublogo%60.png?raw=true
+---
 # Collaboration with the P.A. Club at Moorpark College
 I am a Data Science Major attending Moorpark College. This has provided me opportunity to meet new people, experience new things, and participate in a range of extracurriculars/projects. <br><br>
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-4mH9dftHGUWXl5HlsmPbuSzI65wY2QYpaw&s)
