@@ -1,4 +1,11 @@
+---
+layout: post
+title: "Git Workshop​"
+date: 2025-11-20
+featured-img: https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png
+---
 # Git Workshop
+I am a member of Moorpark College's Computer Science Club, which hosted a Git Workshup this week. 
 
 ## Notes
 Github is an online hosting service for software dev and version control using Git. 
@@ -23,5 +30,3 @@ Repository
 - Project with name and files
 - click New to make a new repository
 - visibility: public/private
-
-## Lastly
