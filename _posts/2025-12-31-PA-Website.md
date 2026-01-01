@@ -28,5 +28,5 @@ Google Sites is relatively simple to navigate, so it was simple to set up the pa
 The president, after I layed out the groundwork, made some aesthetic changes and filled in the segments I left for her to fill in (information about the club, pictures of the board, etc). It was an enjoyable team effort.
 
 ## Final Notes
-Thank you to the P.A. club for providing me with the experience of making a webite with a club using a CMS like google sites. 
+Thank you to the P.A. club for providing me with the experience of making a webite with a club using a CMS like google sites. <br><br> 
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/December%202025/paclublogo%60.png?raw=true" width="400" alt="pac logo"/> 
