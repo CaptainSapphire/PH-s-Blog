@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Top Billboard Song Data Scraping Project​"
+date: 2026-01-30
+featured-img: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnos.jkt-1.neo.id%2Fcdc-s3%2Fimage%2F2025%2F04%2F19%2Fbillboardhot100-2025_3_68031f1ed9513.png&f=1&nofb=1&ipt=6f9df7d55380f76d213f8662db642bac285f2b509d76aab123d9127014a1daf2
+---
 # Top Billboard Song Data Scraping Project
 Hello everyone! I am a data science major in my first year of college. I made a project to share with all of you today. It will scrap the top song listed on the [Billboard Hot-100](https://www.billboard.com/charts/hot-100/) and the user can take 5 tries to guess what the top song is! It uses BeautifulSoup and Python to scrape the data and print everything to the terminal. <br><br>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnos.jkt-1.neo.id%2Fcdc-s3%2Fimage%2F2025%2F04%2F19%2Fbillboardhot100-2025_3_68031f1ed9513.png&f=1&nofb=1&ipt=6f9df7d55380f76d213f8662db642bac285f2b509d76aab123d9127014a1daf2" width="400" alt="billboard hot 100"/> 
