@@ -56,3 +56,8 @@ Does resume length matter at this point of our early careers. Will it help an ap
 Allie Ogino (she/her):
 Great question, Ellen! It generally makes a difference what you are applying for. Sometimes a 1-pager is good and sometimes a more fleshed out CV is best. The most important thing is that your bullet points correspond to the job description. We have resume review during Upskill - hope you will submit your resume and recruiters can review it for you an offer feedback
 
+## Resources
+
+
+
+## Thank you
