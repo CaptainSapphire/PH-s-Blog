@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Girls Who Code Upskill Series Fireside Chat"
+date: 2026-02-18
+featured-img: https://ci3.googleusercontent.com/meips/ADKq_NZcbasb9Eg3lCVoGPat1sdYFEe-3vXhXKaE2s71UfmqTOpsnWT1_q3mjIVxlDCkSGPEvEttv2UJPCknjel1Z1NqT2IWTVFZ_mgiq2VVvVFKWwxNxVQS9hVNDeUuxLR-VkDcoaYYk59BEK3c-7wbRVTArU0VMR6VYE0LB0EWOvEbHNMDZLsXPJWp__uLJ2z8l_6IMiqFORiD11Zs5MkVu312FiM2gsBqBnlsE0Nv41rSZ5_VyicyTa_Uas9kHfzNFAPLEC7Pdf75QDm4liWXKuXJzm3NInHvmgZaHYveH-RK2LqP7HLePqroQ97QZt8=s0-d-e1-ft#https://file-paa.zoom.us/wak0M47nQwWYXoB088ugOQ/Mi4zLpG1bPu9pZM_aKJxPg8vHG3QQCwG7EBCFzRGxM21EP2j/Upskill%20Series_logo%20color.png?attachType=preview&response-cache-control=max-age%3D600&subType=800x800&v=1770828253
+---
 # Girls Who Code Upskill Series Fireside Chat
 I am a data science student who's been involved with Girls Who Code since high school. To start the Spring 2026 Upskills Series, [Girls Who Code](https://girlswhocode.com/) hosted their first event, the Fireside Chat event featuring Dr. Tarika Barrett and Tomesah Harrison. It was such a pleasure to attend, here are the notes I took during the event. I was mostly listening and following along, but I noted down key quotes/moments that stuck out to me. 
 <br>
