@@ -1,5 +1,13 @@
+---
+layout: post
+title: "SPMP Mentee Orientation Webinar​"
+date: 2026-02-04
+featured-img: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Freentry.berkeley.edu%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fopenberkeley_brand_widgets_thumbnail%2Fpublic%2Fspmp_logo.png%3Fitok%3Dd94qeYZf%25C3%2597tamp%3D1753209885&f=1&nofb=1&ipt=1a313b63da8f764e2eb1a486c9279268f346a8cce6c9ec91783484d7fb999879
+---
 #  SPMP Mentee Orientation Webinar
 I am applying for SPMP to be a mentee, so I attended the mandatory orientation and took notes.
+<br>
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Freentry.berkeley.edu%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fopenberkeley_brand_widgets_thumbnail%2Fpublic%2Fspmp_logo.png%3Fitok%3Dd94qeYZf%25C3%2597tamp%3D1753209885&f=1&nofb=1&ipt=1a313b63da8f764e2eb1a486c9279268f346a8cce6c9ec91783484d7fb999879) <br>
 
 ## Introductions and Agenda
 - Matthew (Maddie) is the SPMP coordinator and a fifth-year double major in Political Science and Anthropology at UC Berkeley. They transferred to Berkeley after attending PCC for two years.
