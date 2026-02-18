@@ -20,7 +20,7 @@ Izzy Hasabella, who I had the pleasure of meeting at the Girls Who Code Meetup i
 -  "We still have to focus and cultivate our human essential skills, our communication" (Tomesah Harrison)
 
 ### Dr. Tarika Barrett
-The next step:
+"The next step":
 - Connecting with the community, connect with peopel that help us with our narrative and our work, "being supported by a communty can help build your confidence..."
 - Look to join professional organization and connect/network with professionals, reach out and "just ask and schedule a coffee chat"
 - Take advantage of the free resources out there! (IBM SkillsBuild for one option :) )
