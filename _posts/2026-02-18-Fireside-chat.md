@@ -51,8 +51,7 @@ Allie Ogino:
 **Does resume length matter at this point of our early careers. Will it help an applicant stand out if you might have more bullet points or have two pages if it is relevant info?**
 <br>
 
-Allie Ogino:
-Great question, Ellen! It generally makes a difference what you are applying for. Sometimes a 1-pager is good and sometimes a more fleshed out CV is best. The most important thing is that your bullet points correspond to the job description. We have resume review during Upskill - hope you will submit your resume and recruiters can review it for you an offer feedback
+Allie Ogino: It generally makes a difference what you are applying for. Sometimes a 1-pager is good and sometimes a more fleshed out CV is best. The most important thing is that your bullet points correspond to the job description. We have resume review during Upskill - hope you will submit your resume and recruiters can review it for you an offer feedback.
 
 ## Thank you
 Thank you for having me speak! It was a wonderful opportunity and I can't wait to continue learning with the Girls Who Code Community. Thank you to Izzy Hasabella for working with me and the speech, and thank you for the larger team for being so welcoming.
