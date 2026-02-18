@@ -62,4 +62,4 @@ Allie Ogino: It generally makes a difference what you are applying for. Sometime
 ## Thank you
 Thank you for having me speak! It was a wonderful opportunity and I can't wait to continue learning with the Girls Who Code Community. Thank you to Izzy Hasabella for working with me and the speech, and thank you for the larger team for being so welcoming.
 <br>
-![Girls Who Code Logo](https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1588335912)
+<img src="https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1588335912" width="400" alt="girls who code logo"/> 
