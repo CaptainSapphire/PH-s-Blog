@@ -44,7 +44,7 @@ Paycheck to paycheck --> the interest rate will keep the loan high and growing a
 - annual percentage rates (APR)
 
 
-**What is a credit Report**
+**What is a Credit Report?**
 - Your credit report is a snapshot of a credit profile, including your credit history
 - Credit reports help lendrs, such as financial institutions, understand how creditworthy you are-- that is, whether you're likely to repay a loan if given onne.
 - The 3 credit bureaus: Equifax, Experian, and TransUnion
@@ -74,7 +74,7 @@ Other notes:
 - Gross is before taxes and net is after taxes
 
 
-Questions? --> CS@vccuonline.met
+Questions? --> CS@vccuonline.met <br>
 march 11 next webinar/workshop: using credit cards responsibly
 
 ****
