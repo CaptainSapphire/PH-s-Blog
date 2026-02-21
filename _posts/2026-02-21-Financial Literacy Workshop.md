@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Financial Literacy Workshop – Credit Scores and Reports"
+date: 2026-02-21
+featured-img: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpatch.com%2Fimg%2Fbiz%2Fsites%2Fdefault%2Ffiles%2Fusers%2F22951711%2F20170731154947%2Fvccu-logo-big-2x.png&f=1&nofb=1&ipt=be73fbd2b458908d15b98f9178728a754bd5d7012818d4e0b157c7d021331e20
+---
 # Financial Literacy Workshop – Credit Scores and Reports
 
 As a young adult, money management is a skill I am not particularly familiar with; thankfully, Moorpark College provides a resource to learn! Jay Doniaz with Ventura County Credit Union presented at this event. 
