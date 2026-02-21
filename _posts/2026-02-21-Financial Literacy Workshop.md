@@ -12,10 +12,6 @@ As a young adult, money management is a skill I am not particularly familiar wit
 
 
 ## Notes
-General:
-- Not For Profit --> lowest rate for a loan
-<br><br>
-
 **Good Vs. Bad Debt:**
 - There are many different types of debt; some can be beneficial, while others can hurt you if you don't manage them wisely. All debt carries some level of risk, and each as its advantages and disadvantages.
 - Good debt: student, home, car, consumer CAN be (depends on situation)
@@ -72,6 +68,7 @@ Improving your credit: Use less than 30% of your available credit, do not max ou
 
 Other notes:
 - Gross is before taxes and net is after taxes
+- Not For Profit --> lowest rate for a loan
 
 
 Questions? --> CS@vccuonline.met <br>
