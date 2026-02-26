@@ -1,7 +1,7 @@
 # Rewrite AI with NVIDIA
-Also Called "5 wAys to Show You're Ready to be an AI-Native Teammate"
+As a member of [Rewriting the Code](), I am working to learn more about the tech field every day. One of their "Innovator Series," a monthly webinar for education, was hosted 2/26/2026, called called "5 Ways to Show You're Ready to be an AI-Native Teammate" or "Rewrite AI with NVIDIA."
 
-CONTEXT
+![]()
 
 ## Notes
 Krapu's Career
@@ -50,11 +50,11 @@ about your code's ecosystem.
 - **always take the responses from LMs with a grain of salt**
 
 ## Questions
-"Some people have raised concerns that AI tooling is preventing students from developing the core critical thinking skills. How should students use these AI tools in such a way that they enhance their critical thinking skills?" - Lorin Achey
+Some people have raised concerns that AI tooling is preventing students from developing the core critical thinking skills. How should students use these AI tools in such a way that they enhance their critical thinking skills?
 <br>
 **Answer:** "When we learn, we often see a limited slice of the material," learning is deepened by looking at more core theories, "it is very very hard for textbook publishers and teachers to understand how to structure material in the amount of time given," and AI provides that by allowing you to tailor your experience and learning.
 
-What do you think is important for intern/new grad to showcase during the interview? Kang Yang
+What do you think is important for intern/new grad to showcase during the interview? 
 **Answer:** Agency is the top of the pile,  "side projects is my number one reccomendation."
 
 How to keep up with AI?
@@ -70,6 +70,14 @@ How do I avoid getting lost when coding with AI? It generates so much code at on
 
 How do developers ensure they are not replaced by AI? <br>
 **Answer:**  The #1 thing is being an effective organizor of information. Be the least biased, and that can strengthen the use of AI.(?)
+
+You mentioned people focus more on code execution nowadays than actually learning how to design good code. I feel like I struggle with this at work. What do you do to not loose that 'touch' as a software engineer? <br>
+**Answer:** Both AI and humans thrive on explicit assumptions. Keep an appropriate amount of reading as a part of your day. 
+
+What should I study to better understand AI-generated code? School doesn't cover enough and I feel like I need to actually know the tools and frameworks myself. <br>
+**Answer:** Advocate for your university programs to expose you, with Cursor or Claude Code. The textbooks aren't written yet, and that's the phase we are in.  
+
+
 
 
 
