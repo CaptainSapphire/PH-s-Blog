@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Rewrite AI with NVIDIA"
+date: 2026-02-26
+featured-img: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frewritingthecode.org%2Fapp%2Fuploads%2F2022%2F09%2FRTC_share.jpg&f=1&nofb=1&ipt=df22ab8b66efeaa09793a25dec3326f47a3833bf298386b40453ef34e092d808
+---
+
 # Rewrite AI with NVIDIA
 As a member of [Rewriting the Code](), I am working to learn more about the tech field every day. One of their "Innovator Series," a monthly webinar for education, was hosted 2/26/2026, called called "5 Ways to Show You're Ready to be an AI-Native Teammate" or "Rewrite AI with NVIDIA."
 
