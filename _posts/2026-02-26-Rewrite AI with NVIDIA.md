@@ -4,17 +4,17 @@ As a member of [Rewriting the Code](), I am working to learn more about the tech
 ![Rewriting the Code Event Image](https://mobile.gradleaders.com/RewritingTheCode/WebhookReceivers/img_up_Rewrite%20AI%20with%20NVIDIA%20.png)
 
 ## Notes
-Krapu's Career
+**Krapu's Career**
 - 2009-2013 College, 2013-2014 First Job, 2014-2020 Grad School, 2020-2022 Scientist, Currently AI Eng
 - Core skillset never goes away
 - "you have to have good fundamental core skillsets, because then you'll be prepared for new technologies"
 
 **How the world is changing**
-- Code is cheap - 
-- Judgement is bottleneck - 
-- Every part of SDI will change - 
+- Code is cheap
+- Judgement is bottleneck
+- Every part of SDI will change 
 
-**1. Bring Opinions to your new job**
+**1. Bring Opinions to your new job** <Br>
 If they're releated to code.
 - "The most valuable thing you can do isn't being a blank slate...is it you have strong stylistic opinions about how code should be strucutred...that can be really valuable"
 - The diverse opinions of having employees is a strength
@@ -42,7 +42,7 @@ If they're releated to code.
 - If he had to start from scratch, he'd ask peers how to prevent getting rusty/losing touch in relation to technical skills
 - if you're serious in the long run, have this discussion with team/manager/peers
 
-**5. Be Cynical.**
+**5. Be Cynical.** <br>
 about your code's ecosystem.
 - be aware of the new realities of the software ecoystem, especially risks
 - a lot of staff aren't going to be aware as new gen is raised in a different environment
@@ -54,15 +54,13 @@ Some people have raised concerns that AI tooling is preventing students from dev
 <br>
 **Answer:** "When we learn, we often see a limited slice of the material," learning is deepened by looking at more core theories, "it is very very hard for textbook publishers and teachers to understand how to structure material in the amount of time given," and AI provides that by allowing you to tailor your experience and learning.
 
-What do you think is important for intern/new grad to showcase during the interview? 
+What do you think is important for intern/new grad to showcase during the interview? <br>
 **Answer:** Agency is the top of the pile,  "side projects is my number one reccomendation."
 
-How to keep up with AI?
-<br>
+How to keep up with AI? <br>
 **Answer:** "Some combination on reading, seeing popular discourse, try to dip your toes into the research and see: 'what is the hardest part?'"
 
-How do I avoid getting lost when coding with AI? It generates so much code at once that I sometimes lose track, struggle to review it all, and don't even know what I should study to understand the logic behind it.
-<br>
+How do I avoid getting lost when coding with AI? It generates so much code at once that I sometimes lose track, struggle to review it all, and don't even know what I should study to understand the logic behind it. <br>
 **Answer:** 
 - "I try to condition myself to be extremely picky...I'm going to be so critical and so nitpicky, and if it isn't the style I want, I will rewrite it myself."
 - "The amount of effort you do for each file is going to vary."
