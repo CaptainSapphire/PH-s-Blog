@@ -8,7 +8,8 @@ featured-img: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frewrit
 # Rewrite AI with NVIDIA
 As a member of [Rewriting the Code](), I am working to learn more about the tech field every day. One of their "Innovator Series," a monthly webinar for education, was hosted 2/26/2026, called called "5 Ways to Show You're Ready to be an AI-Native Teammate" or "Rewrite AI with NVIDIA."
 
-![Rewriting the Code Event Image](https://mobile.gradleaders.com/RewritingTheCode/WebhookReceivers/img_up_Rewrite%20AI%20with%20NVIDIA%20.png)
+<img src="https://mobile.gradleaders.com/RewritingTheCode/WebhookReceivers/img_up_Rewrite%20AI%20with%20NVIDIA%20.png" width="500" alt="Rewriting the Code Event"/> 
+
 
 ## Notes
 **Krapu's Career**
