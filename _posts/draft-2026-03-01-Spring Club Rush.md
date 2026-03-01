@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Spring 2026 Club Rush at Moorpark College"
+date: 2026-03-01
+featured-img: 
+---
 # Spring 2026 Club Rush
 Moorpark College every fall/spring semester puts on a club rush for students to promote the on campus clubs, and join them! I am treasurer of the Art and Mental Health Club and president of the Girls Who Code College Loop of MC. 
 
