@@ -13,7 +13,7 @@ Something I've noticed is if signups are easy, people are more likely to signup.
 I was handeling the Girls Who Code Table for the entirety of the first day, and half of the second day. 
 
 ## Art and Mental Health Club Table
-On the other side of me, or behind me, was the AMHC table. I am treasurer for that club, so I went back and forth for helping. 
+On the other side of me, or behind me, was the AMHC table. I am treasurer for that club, so I went back and forth for helping. They were having a doodle booth, and so whenever I wasn't promoting Girls Who Code, I was drawing for the doodle booth! If you don't know what a doodle booth is, an artist will draw/doodle the person like a photo booth and give them the photo. While I could not help very much with preparations, I am glad to have helped with running the table/booth itself. 
 
 ## Clubs I Joined
 I joined the AI club, and the web development club. I am already in the CS club and CKI (volunteer) as a member. 
