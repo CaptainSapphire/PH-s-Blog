@@ -1,5 +1,5 @@
 # GWC Workshop: AI as Your Portfolio Partner!
-context
+I'm a data science major, a freshman in college, and a member of Girls Who Code. As a part of their Upskill series, they host workshops for Girls Who Code members to gain the technical skills necessary to reach their goals in STEM. On March 3, 2026, I attended their "AI as Your Portfolio Partner" Worrkshop! 
 
 # Notes
 ## From Chatbot to Builder: How to "Vibe Code" Your Own AI Career Decision Engine
