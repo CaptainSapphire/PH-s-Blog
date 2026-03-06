@@ -1,13 +1,12 @@
 # GWC Workshop: AI as Your Portfolio Partner!
 context
 
-## Notes
-
+# Notes
 ## From Chatbot to Builder: How to "Vibe Code" Your Own AI Career Decision Engine
 
 "If you’ve been using AI primarily as a high-powered search engine or a document summarizer, you’re only scratching the surface of what’s possible... Currently, about 85% of people use AI strictly as a conversational chatbot...]But the real professional advantage lies in moving up the pyramid—from level one (chatting) to level three: building bespoke, small-batch software designed just for you."
 
-]In a recent workshop, we moved past the chat window and into **"vibe coding"**. This is the process of building functional software by focusing on the "vibe" and the logic of the problem rather than manually writing the source code. Our goal was to create a **Career Decision Engine**: a custom, locally-hosted web app that evaluates any job opportunity against your unique professional DNA.
+In a recent workshop, we moved past the chat window and into **"vibe coding"**. This is the process of building functional software by focusing on the "vibe" and the logic of the problem rather than manually writing the source code. Our goal was to create a **Career Decision Engine**: a custom, locally-hosted web app that evaluates any job opportunity against your unique professional DNA.
 
 "Vibe coding is a way of building software without actually writing software code... I still do not know how to code. But I have developed a framework of how I, as a non-engineer, can effectively build things" (Bethany Crystal).
 
@@ -50,3 +49,4 @@ Moving from a consumer to a maker requires a psychological shift. Here are the k
 * **Stay Curious**: "Every time I build an app, it teaches me about how to build an app better."
 
 ## Final Thoughts
+Thank you to the Girls Who Code Team for this wonderful learning experience via their webinar series, and Bethany Crystal for providing us with her knowledge.
