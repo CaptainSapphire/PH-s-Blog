@@ -100,6 +100,8 @@ Nathalie - "Don't be afraid of trinyg something new, there's no wrong major, don
 
 ## Lab 1
 The first lab was learning R programmming. However, I already use R, and they used the same guide as the [CSUCI datathon](https://www.priyaharry.com/PH-s-Blog/2025/04/28/CSUCI-Datathon.html) did. However, it was enjoyable getting to review (even if I use R weekly for my STATS C1000H class). 
+<br>
+![Presention Slide](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/March%202026/IMG_5454.png?raw=true)
 
 ## Panel 2: Careers in Data Science
 James O'Brien - music composer, producer, director of a AI research lab (Sound Ethics)
