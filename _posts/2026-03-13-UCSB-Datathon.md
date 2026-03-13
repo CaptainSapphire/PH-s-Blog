@@ -98,28 +98,6 @@ Zoe Holzer
 - favorite part of day: coding, building product
 - works on linking records (to prevent duplicate records)
 
-**What was your educational journey?**
-James O' Brien
-- not typical; practiced instruments, obsessed with music
-- went to community college studying music
-- 7-8 yrs ago, began to training models
-
-Sam Shanny-Csik
-- marine biology --> grad school --> snuck into a course at a college, learned some programming & data skills
-- took a year off --> moved to something different
-
-John Ramirez
-- law --> got to UCSB with english, switched to programming --> caught up on math classes 
-- "don't give up, even when it gets rough"
-
-Nancy Kim
-- UCSB as a music major --> first-year, hit some burnout, took math with a friend, end of class, prof suggested moving to math --> math/economics major --> took a stats class --> doubled in math/econ & stats --> stayed in school for 2 more years and got a masters --> did a whole lot of different things she describes
-
-Zoe Holzer
-- started as a psych major, aiming to be a therapist --> took stats, decided to switch to it --> transferred to UCSB, joined a data science fellowship --> tutoring, retail, a bunch of stuff --> computational science at san diego state, research in evolutionary biology
-- "I think it's good to try a lot of fields, you never really know until you try to do them"
-- "if you find a niche [in data science], its really valuable right now"
-
 **How important is domain expertise? Foundations/theory, or industry knowledge?** <br>
 James O' Brien: "One thing we can do is helping with domain experience for data science"
 Sam Shanny-Csik: "Bringing domain expertise is going to be more and more important"
