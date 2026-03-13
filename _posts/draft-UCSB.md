@@ -1,11 +1,7 @@
 # UCSB Datathon/Data Day
-
-
-## Finding the rooms
+A few months ago, I was searching for datathons to attend, where I landed on the UCSB Datathon page. So, Saturday, 3/7, I attended to UCSB Datathon to learn more about data science as someone presently studying it. 
 
 ## Panel 1
-
-
 Jack Miller - Teaching prof. for stats and applied prob
 Tisha Lwin - Data science program coordinator & advises undergrad/grad students
 Daniela Trasladino - transfer from SBCC
@@ -25,7 +21,6 @@ Tisha Lwin
 
 
 **What brought you to data science?**
-
 Yan 
 - originally applied mathematics, worked with neuro-networks, found modeling the universe with differential equations awesome
 
@@ -43,13 +38,11 @@ Nathalie Guebels
 
 
 **What makes a good data science program?**
-
 Nathalie 
 - not name of school, but "are the upper division courses focused on things i want to do? capstone series? hands-on experience? projects?"
 - "Degree is just one line on a resume... you have to have it, but everything else on your resume is what is important to the job"
 - Internship programs, capstone series/projects, you can go into many areas
 - being happy while you do what you do is important 
-
 Jack
 - "you can go anywhere, and be awesome. It's about how you fit in"
 
@@ -68,7 +61,6 @@ Yan
 Jack Miller
 - "If you want to be successful you will...Go to class, please. Stay on top of homework. Do homework right when its assigned, so it has time to perkelate."
 - office hours!
-
 Tisha
 - "For math and stats, students assume they can power through them. For any program really, it's really important to work on your social skills when at university"
 - "it sounds lame, but forming a student group really helps a lot"
@@ -107,6 +99,7 @@ Nathalie - "Don't be afraid of trinyg something new, there's no wrong major, don
 
 
 ## Lab 1
+The first lab was learning R programmming. However, I already use R, and they used the same guide as the [CSUCI datathon](https://www.priyaharry.com/PH-s-Blog/2025/04/28/CSUCI-Datathon.html) did. However, it was enjoyable getting to review (even if I use R weekly for my STATS C1000H class). 
 
 ## Panel 2: Careers in Data Science
 James O'Brien - music composer, producer, director of a AI research lab (Sound Ethics)
@@ -233,4 +226,8 @@ Kim: own your mistakes, don't be afraid to fail
 Holzer: "a lot of you won't like this answer... but you really need to study"
 
 ## Lab 2
+The second lab was the datathon, where we got 1.5 hours to code and make our analysis. Everything I made is available in [this repository](https://github.com/CaptainSapphire/UCSB-Datathon-2026), but essentially, I answered some of the challenge questions and the 1/2 main questions. While the R programming wasn't anything inherently new, I think practicing quick thinking and critical analysis was definitely worth coming to this event. Plus, there was some R syntax I had to look up, like ~facetwrap, or na.rm. I enjoyed talking with the various professors and data science students who came and observed the event as well, they were incredibly helpful and informative as to what data science is like at UCSB. 
 
+
+## Overall
+After the share-out where I presented my findings to the group, I enjoyed the long ride home along the coastline. All in all, I feel I practiced and learned new things, especially from the panelists' insight. Thank you so much to the incredible team who put on this event! 
