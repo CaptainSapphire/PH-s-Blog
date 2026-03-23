@@ -2,7 +2,7 @@
 layout: post
 title: First and Second Girls Who Code Loop Meeting"
 date: 2026-03-23
-featured-img: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FG%2Fgirls-who-code-logo-CC59C65925-seeklogo.com.png&f=1&nofb=1&ipt=5a8ca3902e93604b4455db320c23dcde227fe8233ca3ed9cc3c3356191694ffb
+featured-img: https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1588335912
 ---
 # First and Second GWC Meeting
 I am the president of the Girls Who Code College Loop Club at Moorpark College, and we had our first two meetings this month! 
