@@ -6,6 +6,7 @@ featured-img: https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200
 ---
 # First and Second GWC Meeting
 I am the president of the Girls Who Code College Loop Club at Moorpark College, and we had our first two meetings this month! 
+<img src="https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1588335912" alt="First and Second Girls Who Code Loop Meeting image" class="post-thumbnail">
 
 ## First Meeting
 The first meeting was a success, with 12 total attendees (not including 3 of the 4 board members). The slides are available [here](https://docs.google.com/presentation/d/1ZG6DUysnTN5vzeJ2EDV4RLUUb-HXrlu2gbFBbHlXPSI/edit?usp=sharing). We set up the tools for the club; Girls Who Code HQ and IBM. [IBM](https://www.ibm.com/us-en) is a learning platform that is collaborating with Girls Who Code to provide Girls Who Code college loops resources for learning technical skills and preparing for the tech field. 
