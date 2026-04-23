@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GWC: Third through Sixth Meeting
+title: GWC Third through Sixth Meeting
 date: 2026-04-22
 featured-img: https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1588335912
 ---
