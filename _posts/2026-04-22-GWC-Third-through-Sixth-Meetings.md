@@ -6,11 +6,13 @@ featured-img: https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200
 ---
 
 # Girls Who Code April Update
+As the president of the Girls Who Code college loop of Moorpark College, I am happy to share that we've had a successful spring semester thus far. Check out the recap -->
+
+<img src="https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1588335912" alt="First and Second Girls Who Code Loop Meeting image" class="post-thumbnail">
 
 ## First and Second Meeting
 There's a seperate blog post about the first two meetings you can read [here, on my blog](https://www.priyaharry.com/PH-s-Blog/2026/03/23/GWC-First-Second-Meetings.html) or via [LinkedIn](https://www.linkedin.com/posts/priya-harry_as-the-president-of-the-girls-who-code-moorpark-activity-7441924790002618368-mw5b?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEUlc3MBZt0R98O8c6SS7zgecDACNrAF6uY).
 
-<img src="https://girlswhocode.com/assets/images/craft-prod/images/seo/_1200x630_crop_center-center_82_none/GWC_SEO_Logo.png?mtime=1588335912" alt="First and Second Girls Who Code Loop Meeting image" class="post-thumbnail">
 
 ## Third Meeting
 Our third meeting we finally had our first proper workshop! We went through the basics of HTML and CSS (Web development). After going over the basic syntax, everyone was invited to present their creations. We had a little vote, and someone entirely new to code won, because they were passionate about learning and we liked what they made! The slides are available [here](https://docs.google.com/presentation/d/10Dobn_NNXwsWK5_R1VpWcuy3YQmEjUVBj6KKS6c8Gh8/edit?usp=sharing).
