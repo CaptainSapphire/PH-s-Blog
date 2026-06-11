@@ -26,7 +26,7 @@ From there, I split the interests of the college students to match each project;
 
 I consulted with Debbie and she was happy with this distribution of the work. I then planned a meet-up in person, because I've found more gets done once you meet the person and get to know them. People are more committed to things that feel real. <br>
 
-![crayfish](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F01%2F4d%2F1a%2F014d1a7af8dc76a1af0a56c81acb6357.jpg&f=1&nofb=1&ipt=ea48d41b67fa3f2cf152fa3bb6df038b95f5db4d4ebb19a4800fc8970bd6e50a)
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F01%2F4d%2F1a%2F014d1a7af8dc76a1af0a56c81acb6357.jpg&f=1&nofb=1&ipt=ea48d41b67fa3f2cf152fa3bb6df038b95f5db4d4ebb19a4800fc8970bd6e50a" alt="Crayfish Picture" width = 450>
 
 ## The In-Person Meeting
 I planned and hosted our first in-person meeting. I planned and brought an agenda, and we gave everyone a task to do. By meeting in-person, I ensure committment from the college students, and create an environment where Debbie is more approachable (thus, progress can be made because we know each other enough to openly communicate). By bringing an agenda, I can ensure we set our plans in motion and set them in stone. If we keep talking about ideas, nothing will ever actually happen. The team was very excited and passionate at the meeting about the opportunity, and I was grateful that I could help Debbie and FOTOPOS in more ways than just their tech management. 
