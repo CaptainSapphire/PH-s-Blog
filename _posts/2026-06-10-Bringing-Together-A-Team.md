@@ -1,3 +1,10 @@
+---
+layout: post
+title: Bringing Together a Team for FOTOPOS
+date: 2026-06-10
+featured-img: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Famericandeluxewindows.com%2Fwp-content%2Fuploads%2F2021%2F02%2FAerial-View-of-Oak-park-CA.jpg&f=1&nofb=1&ipt=b6f126d9bd306d631096264374da831fb30384de19a0c28253f4bbb9f9d1e488
+---
+
 # How I brought together a team
 Recently, I brought together a team of volunteers and now board members for the nonprofit Friends of the Oak Park Open Space (FOTOPOS); and here's how I did it.
 
