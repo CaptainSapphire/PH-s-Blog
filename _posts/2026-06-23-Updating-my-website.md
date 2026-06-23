@@ -14,7 +14,7 @@ I see a lot of vibe coded websites (which are now defining the web design space,
 - Everything on the page is responsive (floating buttons, everything pops out when you hover
 <br><br>
 
-I have to keep in mind, while I want to modernize my design, I still want it to be human, because all of my work is handmade. 
+I have to keep in mind, while I want to modernize my design, I still want it to be human, because all of my work is handmade. So, first I blended the nav bar into the background, since a lot of personal websites I see for computer science have that style. I added some responsiveness, but not so much that the website feels like jelly the way vibe-coded ones do. I only add responsive elements to things that I want to stand out. 
 
 ## No AI-Usage
 
