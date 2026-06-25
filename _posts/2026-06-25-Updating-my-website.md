@@ -1,4 +1,11 @@
-# Updating My Website; What Needs to Change?
+---
+layout: post
+title: Updating My Website: What needed to change?
+date: 2026-06-25
+featured-img: https://www.priyaharry.com/images/priya2026.png
+---
+
+# Updating My Website; What Needed to Change?
 Hello everyone! This week, I updated my website, completely by hand. 
 
 ## What Changes I made
