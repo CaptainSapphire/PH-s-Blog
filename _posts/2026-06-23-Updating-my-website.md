@@ -19,8 +19,16 @@ I have to keep in mind, while I want to modernize my design, I still want it to 
 <br>
 I added my updated "about me," as well as a freshly made newsletter. I also revamped my introduction! Overall, a long process. CSS is a rabbit hole of trying to make things look right. 
 
-## No AI-Usage
-I have a policy of writing by hand first, 
+<iframe src="https://priyaharry.com" width="100%" height="500px" style="border:none;"></iframe>
 
+## No AI-Usage
+I have a policy of writing by hand first, then searching the web for help, and in worst case, asking AI. For the most part, I am not a fan of AI generated code because of how ineffective it can be, especially when the project starts by hand. I understand it can be a positive, but for practice and personal preference, my projects are completely handmade unless otherwise specified. 
+
+## Future Goals
+In the future, here's what I want to do next:
+- I want to fix the home page/general UI/design of my blog
+- I want to make my portfolio/projects look more presentable on my website
+- I want to promote my newsletter more in the coming months
 
 ## Final Thoughts
+As frustrating as CSS can be, I overall enjoy the process and fruits of my work, and I wouldn't have it any other way. Thank you for reading, and see you next time. :)
