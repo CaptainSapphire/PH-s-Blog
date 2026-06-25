@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Updating My Website: What needed to change
+title: Updating My Website...What needed to change?
 date: 2026-06-25
 featured-img: https://www.priyaharry.com/images/priya2026.png
 ---
