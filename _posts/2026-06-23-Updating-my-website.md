@@ -14,16 +14,13 @@ I see a lot of vibe coded websites (which are now defining the web design space,
 - Everything on the page is responsive (floating buttons, everything pops out when you hover
 <br><br>
 
-!["updated headshot"](https://www.priyaharry.com/images/priya2026.png)
-*Updated Headshot*
+<img src="https://www.priyaharry.com/images/priya2026.png" alt="Updated Headshot" width = 450>
 
 <br>
 I have to keep in mind, while I want to modernize my design, I still want it to be human, because all of my work is handmade. So, first I blended the nav bar into the background, since a lot of personal websites I see for computer science have that style. I added some responsiveness, but not so much that the website feels like jelly the way vibe-coded ones do. I only add responsive elements to things that I want to stand out. I picked the font Inter because it is my favorite font, and the one I used for all of the Girls Who Code slides this year. I left Georgia as the header font, it looks fine as is. 
 <br>
 <br>
 I added my updated "about me," as well as a freshly made newsletter. I also revamped my introduction! Overall, a long process. CSS is a rabbit hole of trying to make things look right. 
-
-<iframe src="https://priyaharry.com" width="100%" height="500px" style="border:none;"></iframe>
 
 ## No AI-Usage
 I have a policy of writing by hand first, then searching the web for help, and in worst case, asking AI. For the most part, I am not a fan of AI generated code because of how ineffective it can be, especially when the project starts by hand. I understand it can be a positive, but for practice and personal preference, my projects are completely handmade unless otherwise specified. 
