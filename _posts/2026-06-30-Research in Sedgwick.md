@@ -16,7 +16,11 @@ Following the interview and acceptance, as well as various workshops and orienta
 I carpooled with Rae Rush, a mathmatics major at Oxnard College, and we went to UCSB together for the required CSEP Workshop. Specifically, CSEP PD: Engineering Exceptional Talks. <br>
 CSEP, or rather, The Center for Science and Engineering Partnerships, provides "activities that include efforts to increase participation and diversity in Science, Technology, Engineering and Mathematics (STEM) fields, both to improve general scientific literacy and to meet national workforce needs."
 <br>
-The CSEP workshop was incredibly insightful, and broke down the ideas I had from high school about presentations. Keep it simple, direct. Use as little ink to convey as much information. Use pictures and diagrams, avoid bullet points. In high school, it was about design and bullet pointed presentation. We left from UCSB around 1:30pm, and arrived at Sedgwick at 2:30pm. Rae, Bryan (another person carpooling with us), and I were the first group to arrive. We settled into our sleeping arrangements; some of the students were in the Viynl tents, 
+The CSEP workshop was incredibly insightful, and broke down the ideas I had from high school about presentations. Keep it simple, direct. Use as little ink to convey as much information. Use pictures and diagrams, avoid bullet points. In high school, it was about design and bullet pointed presentation. We left from UCSB around 1:30pm, and arrived at Sedgwick at 2:30pm. Rae, Bryan (another person carpooling with us), and I were the first group to arrive. We settled into our sleeping arrangements; some of the students were in the viynl tents, and some were camping in regular pitched tents (it was first come, first serve). 
+<br><br>
+Then, we all were given a welcome presentation and safety instructions regarding the facility. It transitioned into the background introduction on acorn dispersal and acorn woodpeckers (of which heavily populate the area) provided by Dr. Scott Sillett. The presentation went in depth as to the relationship and territorial patterns of acorn woodpeckers, which was fun as it was entirely new ideas to me. <br><br>
+We got field ready, and took off to set up the camera trap and audiomoth. Everett and I se up the camera, and other members of our 
+
 
 ## Day 2
 
