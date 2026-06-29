@@ -16,7 +16,7 @@ Following the interview and acceptance, as well as various workshops and orienta
 I carpooled with Rae Rush, a mathmatics major at Oxnard College, and we went to UCSB together for the required CSEP Workshop. Specifically, CSEP PD: Engineering Exceptional Talks. <br>
 CSEP, or rather, The Center for Science and Engineering Partnerships, provides "activities that include efforts to increase participation and diversity in Science, Technology, Engineering and Mathematics (STEM) fields, both to improve general scientific literacy and to meet national workforce needs."
 <br>
-The CSEP workshop was incredibly insightful, and broke down the ideas I had from high school about presentations. Keep it simple, direct. Use as little ink to convey as much information. Use pictures and diagrams, avoid bullet points. In high school, it was about design and bullet pointed presentation. We left from UCSB around 1:30pm, and arrived at Sedgwick at 2:30pm. Rae, Bryan (another person carpooling with us), and I were the first group to arrive. 
+The CSEP workshop was incredibly insightful, and broke down the ideas I had from high school about presentations. Keep it simple, direct. Use as little ink to convey as much information. Use pictures and diagrams, avoid bullet points. In high school, it was about design and bullet pointed presentation. We left from UCSB around 1:30pm, and arrived at Sedgwick at 2:30pm. Rae, Bryan (another person carpooling with us), and I were the first group to arrive. We settled into our sleeping arrangements; some of the students got 
 
 ## Day 2
 
