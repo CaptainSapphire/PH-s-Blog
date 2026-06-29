@@ -10,10 +10,14 @@ The Program offers:
 - Program affiliates support participants in preparing for post-graduate professional and academic opportunities.
 <br><br>
 
-Following the interview and acceptance, as well as various workshops and orientations, the data science (ERES) section of the course started June 16th, just last week. 
-
+Following the interview and acceptance, as well as various workshops and orientations, the data science (ERES) section of the course started June 16th, just last week. After two weeks of online discussion and homework, we met as a group for the Sedgwick trip! **The major goals of the trip was to learn more about field research, collecting data, and preparing it for analysis.**
 
 ## Day 1
+I carpooled with Rae Rush, a mathmatics major at Oxnard College, and we went to UCSB together for the required CSEP Workshop. Specifically, CSEP PD: Engineering Exceptional Talks. <br>
+CSEP, or rather, The Center for Science and Engineering Partnerships, provides "activities that include efforts to increase participation and diversity in Science, Technology, Engineering and Mathematics (STEM) fields, both to improve general scientific literacy and to meet national workforce needs."
+<br>
+
+
 
 ## Day 2
 
