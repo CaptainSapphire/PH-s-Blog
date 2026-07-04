@@ -19,10 +19,13 @@ CSEP, or rather, The Center for Science and Engineering Partnerships, provides "
 The CSEP workshop was incredibly insightful, and broke down the ideas I had from high school about presentations. Keep it simple, direct. Use as little ink to convey as much information. Use pictures and diagrams, avoid bullet points. In high school, it was about design and bullet pointed presentation. We left from UCSB around 1:30pm, and arrived at Sedgwick at 2:30pm. Rae, Bryan (another person carpooling with us), and I were the first group to arrive. We settled into our sleeping arrangements; some of the students were in the viynl tents, and some were camping in regular pitched tents (it was first come, first serve). 
 <br><br>
 Then, we all were given a welcome presentation and safety instructions regarding the facility. It transitioned into the background introduction on acorn dispersal and acorn woodpeckers (of which heavily populate the area) provided by Dr. Scott Sillett. The presentation went in depth as to the relationship and territorial patterns of acorn woodpeckers, which was fun as it was entirely new ideas to me. <br><br>
-We got field ready, and took off to set up the camera trap and audiomoth. Everett and I se up the camera, and other members of our group (the students as a whole were split into 3 groups) set up the audiomoth. We had dinner, 
+We got field ready, and took off to set up the camera trap and audiomoth. Everett and I se up the camera, and other members of our group (the students as a whole were split into 3 groups) set up the audiomoth. We had dinner, and prepared for thr next day. 
 
 
 ## Day 2
+Day 2 started early, since breakfast was 6:00AM-6:30AM (but since my tentmate was on breakfast crew, I was awake earlier than that.) <br>
+By 7:00AM, we were field ready, and went birding. I used Cornell's Ebird app to make a checklist and track the birds we spotted.  
+
 
 ## Day 3
 
