@@ -72,5 +72,5 @@ We then presented the data, sharing how we organized the data into a readable, u
 From there, we cleaned throughly, packed, had lunch, and departed home. 
 
 ## Takeaways
-
+I had the opportunity to learn so much from this expedition. I learned about setting up research tools, collecting data, formatting data, and facts about the environment we are observing as well. I am grateful to the UCSB Smithsonian Scholars for providing this opportunity, and I look forward to working with them more in the future. Thank you for reading, I will see you next time. :)
 
