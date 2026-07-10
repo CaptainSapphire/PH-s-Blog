@@ -38,6 +38,8 @@ We had the option to return to the site or continue hiking, and despite the heat
 After we returned and had lunch, we had a "UC nature overview" presentation provided to us by Cristina Soto Balderas. While it did not pertain to my field of interest, it was still an interesting discussion to listen in on; all of the environmental majors seemed enthralled by what Balderas was sharing. <br><br>
 
 We went for an afternoon hike, and had some social time after that. I had an intense headache, so I slept until I had to get up, as I was on dinner crew. I took some advil, and I was back at it again a few hours later. The dinner we made was "Mexican rice (v), refried beans, black beans (v), carnitas, guacamole, tortillas, salsa, Impossible patty/sausage, and salad." We then walked to see the "mermer" or "murmur," where at sundown, flocks of birds shift from tree to tree in schools (as in, they move the way large groups of fish do) and made unique shapes and sounds as a whole. I enjoyed it throughly, and it left me wondering if I could recreate the 3d-like shapes the birds make (with their movement) using math and some visualizations program. The way the birds move cannot be entirely random if they have evolved to move in such a way, after all. 
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_7860.png?raw=true" alt="Sedgewick mermer Shot" width = 500> <br> <br>
+
 
 ## Day 3
 
