@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research at the Sedgwick Reserve for UCSB; My experience
-date: 2026-07-12
+date: 2026-07-10
 featured-img: 
 ---
 
