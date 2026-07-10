@@ -1,4 +1,11 @@
-# Research in Sedgwick Reserve for UCSB; My experience
+---
+layout: post
+title: Research at the Sedgwick Reserve for UCSB; My experience
+date: 2026-07-12
+featured-img: 
+---
+
+# Research at the Sedgwick Reserve for UCSB; My experience
 
 ## Context
 The coordinators of the "University of California Santa Barbara (UCSB) Smithsonian Scholars Program" came to Moorpark College for an informational session, of which I attended, and then applied. As stated on the official website, "The program aims to engage diverse students in experiential learning centered on multi-disciplinary conservation strategies, biodiversity research, and green careers in STEM."
