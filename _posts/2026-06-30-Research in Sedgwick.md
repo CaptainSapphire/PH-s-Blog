@@ -42,7 +42,25 @@ We went for an afternoon hike, and had some social time after that. I had an int
 Once the sun had set and the birds had settled down, we went back to the campsite, and we had the rest of the night to ourselves (with quiet hour starting at 10pm or 11pm). We made (and burned all of the) s'mores, then we stargazed and searched for barn owls. I burned my energy on an intense pickleball/tennis game with another student, in the dark with nothing but our headlamps guiding us. 
 
 ## Day 3
-I woke up early and prepared breakfast with my group, had breakfast, and got field-ready all by 7:00am. We retrieved the Audiomoth and the camera from the field, and returned to the main hall. I volunteered to use my computer to review the pictures we got of the event 
+I woke up early and prepared breakfast with my group, had breakfast, and got field-ready all by 7:00am. We retrieved the Audiomoth and the camera from the field, and returned to the main hall. I volunteered to use my computer to review the pictures we got of the nights prior. We captured deer, bucks, foxes, and coyotes. It was exciting to see how many we would capture in a shot at a time. Then, Mario Castellanos, who was mentioned earlier as the expert in this field, gave us a task; To create a data table for analysis based on the raw data we collected with the devices. I quickly developed an efficient system with our team, and we sorted our data in the following columns: 
+- File_Name
+- Animal_Observed
+- Animal_Count
+- Shot_Burst
+- Time_Hr
+- Time_Min
+- Time_Sec
+- Month
+- Day
+- Year
+- Temp_C
+- File_Type
+<br><br><br>
+
+The file_name was absolutely necessary since it serves as an individual id or key to each entry/row. The "animal_observed" column exists because we already know we never had more than one species in a shot at a time. The "shot-burst" was not very helpful, but we included in to be safe. The time, seperated in such a way, is done so it is computer readable and easy to work with. The temperature was in celcius, hence the name. The "file_type" was also uneccessary, since every file that was entered from the camera was a jpg, and could have been included in the "README.md" instead. <br><br>
+Note: While we did not make a literal markdown file in Google Sheets, we worked with what time we had and did leave some clarifying notes and information about the data. <br><br>
+
+We then presented the data, sharing how we organized the data into a readable, usable format. 
 
 ## Takeaways
 
