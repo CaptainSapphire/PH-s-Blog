@@ -39,9 +39,10 @@ After we returned and had lunch, we had a "UC nature overview" presentation prov
 
 We went for an afternoon hike, and had some social time after that. I had an intense headache, so I slept until I had to get up, as I was on dinner crew. I took some advil, and I was back at it again a few hours later. The dinner we made was "Mexican rice (v), refried beans, black beans (v), carnitas, guacamole, tortillas, salsa, Impossible patty/sausage, and salad." We then walked to see the "mermer" or "murmur," where at sundown, flocks of birds shift from tree to tree in schools (as in, they move the way large groups of fish do) and made unique shapes and sounds as a whole. I enjoyed it throughly, and it left me wondering if I could recreate the 3d-like shapes the birds make (with their movement) using math and some visualizations program. The way the birds move cannot be entirely random if they have evolved to move in such a way, after all. 
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_7860.png?raw=true" alt="Sedgewick mermer Shot" width = 500> <br> <br>
-
+Once the sun had set and the birds had settled down, we went back to the campsite, and we had the rest of the night to ourselves (with quiet hour starting at 10pm or 11pm). We made (and burned all of the) s'mores, then we stargazed and searched for barn owls. I burned my energy on an intense pickleball/tennis game with another student, in the dark with nothing but our headlamps guiding us. 
 
 ## Day 3
+I woke up early and prepared breakfast with my group, had breakfast, and got field-ready all by 7:00am. We retrieved the Audiomoth and the camera from the field, and returned to the main hall. I volunteered to use my computer to review the pictures we got of the event 
 
 ## Takeaways
 
