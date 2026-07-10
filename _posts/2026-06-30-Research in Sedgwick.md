@@ -24,7 +24,8 @@ We got field ready, and took off to set up the camera trap and audiomoth. Everet
 
 ## Day 2
 Day 2 started early, since breakfast was 6:00AM-6:30AM (but since my tentmate was on breakfast crew, I was awake earlier than that.) <br>
-By 7:00AM, we were field ready, and went birding. I used Cornell's Ebird app to make a checklist and track the birds we spotted.  
+By 7:00AM, we were field ready, and went birding. I used Cornell's Ebird app to make a checklist and track the birds we spotted. For periods of time we were quiet, I used Merlin Bird ID to tell what birds we were hearing by sound. It was relatively accurate, although it was cool how our group leader could do something similar by looking and listening; we joking referred to him as "a human Merlin Bird ID." The hike was intense, but I had the opportunity to learn a lot about the research process. Essentially everything was new to me, so all of it was fascinating. <br>
+We had the option to return to the site or continue hiking, and despite the heat beating on us all, the majority of the students chose to press on. We had the opportunity to 
 
 
 ## Day 3
