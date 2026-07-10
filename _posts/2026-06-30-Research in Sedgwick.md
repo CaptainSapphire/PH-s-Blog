@@ -64,7 +64,11 @@ We then presented the data, sharing how we organized the data into a readable, u
 - Crew Name, field data recorded by, camera type, camera serial number, bearing in degrees
 - latitude and longitude, elevation, site ID, data and time of retrieval
 - SD card id, # of images captured, battery charge, battery type, etc
-- moon phase and cloud cover (affects the animals we are observing) 
+- moon phase and cloud cover (affects the animals we are observing)
+<br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_7885.JPG?raw=true" alt="Sedgewick Deer Shot" width = 450> <br> <br>
+<br><Br>
+From there, we cleaned throughly, packed, had lunch, and departed home. 
 
 ## Takeaways
 
