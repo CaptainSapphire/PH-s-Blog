@@ -60,7 +60,11 @@ I woke up early and prepared breakfast with my group, had breakfast, and got fie
 The file_name was absolutely necessary since it serves as an individual id or key to each entry/row. The "animal_observed" column exists because we already know we never had more than one species in a shot at a time. The "shot-burst" was not very helpful, but we included in to be safe. The time, seperated in such a way, is done so it is computer readable and easy to work with. The temperature was in celcius, hence the name. The "file_type" was also uneccessary, since every file that was entered from the camera was a jpg, and could have been included in the "README.md" instead. <br><br>
 Note: While we did not make a literal markdown file in Google Sheets, we worked with what time we had and did leave some clarifying notes and information about the data. <br><br>
 
-We then presented the data, sharing how we organized the data into a readable, usable format. 
+We then presented the data, sharing how we organized the data into a readable, usable format. The critiques provided to us/things to consider next time was:
+- Crew Name, field data recorded by, camera type, camera serial number, bearing in degrees
+- latitude and longitude, elevation, site ID, data and time of retrieval
+- SD card id, # of images captured, battery charge, battery type, etc
+- moon phase and cloud cover (affects the animals we are observing) 
 
 ## Takeaways
 
