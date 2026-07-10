@@ -2,7 +2,7 @@
 layout: post
 title: Research at the Sedgwick Reserve for UCSB; My experience
 date: 2026-07-10
-featured-img: 
+featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_2271.jpg?raw=true
 ---
 
 # Research at the Sedgwick Reserve for UCSB; My experience
@@ -18,6 +18,8 @@ The Program offers:
 <br><br>
 
 Following the interview and acceptance, as well as various workshops and orientations, the data science (ERES) section of the course started June 16th, just last week. After two weeks of online discussion and homework, we met as a group for the Sedgwick trip! **The major goals of the trip was to learn more about field research, collecting data, and preparing it for analysis.**
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_2271.jpg?raw=true" alt="Sedgewick Group Shot" width = 600> <br> <br>
+
 
 ## Day 1
 I carpooled with Rae Rush, a mathmatics major at Oxnard College, and we went to UCSB together for the required CSEP Workshop. Specifically, CSEP PD: Engineering Exceptional Talks. <br>
@@ -33,12 +35,12 @@ We got field ready, and took off to set up the camera trap and audiomoth. Everet
 Day 2 started early, since breakfast was 6:00AM-6:30AM (but since my tentmate was on breakfast crew, I was awake earlier than that.) <br>
 By 7:00AM, we were field ready, and went birding. I used Cornell's Ebird app to make a checklist and track the birds we spotted. For periods of time we were quiet, I used Merlin Bird ID to tell what birds we were hearing by sound. It was relatively accurate, although it was cool how our group leader could do something similar by looking and listening; we joking referred to him as "a human Merlin Bird ID." The hike was intense, but I had the opportunity to learn a lot about the research process. Essentially everything was new to me, so all of it was fascinating. <br> <br>
 We had the option to return to the site or continue hiking, and despite the heat beating on us all, the majority of the students chose to press on. We had the opportunity to see the Oak trees and how they garner wildlife in the wilderness. <br>
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_7830.png?raw=true" alt="Sedgewick Wide Shot" width = 450> <br> <br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_7830.png?raw=true" alt="Sedgewick Wide Shot" width = 500> <br> <br>
 
 After we returned and had lunch, we had a "UC nature overview" presentation provided to us by Cristina Soto Balderas. While it did not pertain to my field of interest, it was still an interesting discussion to listen in on; all of the environmental majors seemed enthralled by what Balderas was sharing. <br><br>
 
 We went for an afternoon hike, and had some social time after that. I had an intense headache, so I slept until I had to get up, as I was on dinner crew. I took some advil, and I was back at it again a few hours later. The dinner we made was "Mexican rice (v), refried beans, black beans (v), carnitas, guacamole, tortillas, salsa, Impossible patty/sausage, and salad." We then walked to see the "mermer" or "murmur," where at sundown, flocks of birds shift from tree to tree in schools (as in, they move the way large groups of fish do) and made unique shapes and sounds as a whole. I enjoyed it throughly, and it left me wondering if I could recreate the 3d-like shapes the birds make (with their movement) using math and some visualizations program. The way the birds move cannot be entirely random if they have evolved to move in such a way, after all. <br><br>
-<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_7860.png?raw=true" alt="Sedgewick mermer Shot" width = 500> <br> <br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_7860.png?raw=true" alt="Sedgewick mermer Shot" width = 520> <br> <br>
 Once the sun had set and the birds had settled down, we went back to the campsite, and we had the rest of the night to ourselves (with quiet hour starting at 10pm or 11pm). We made (and burned all of the) s'mores, then we stargazed and searched for barn owls. I burned my energy on an intense pickleball/tennis game with another student, in the dark with nothing but our headlamps guiding us. 
 
 ## Day 3
@@ -55,8 +57,7 @@ I woke up early and prepared breakfast with my group, had breakfast, and got fie
 - Year
 - Temp_C
 - File_Type
-<br><br><br>
-
+<br><br>
 The file_name was absolutely necessary since it serves as an individual id or key to each entry/row. The "animal_observed" column exists because we already know we never had more than one species in a shot at a time. The "shot-burst" was not very helpful, but we included in to be safe. The time, seperated in such a way, is done so it is computer readable and easy to work with. The temperature was in celcius, hence the name. The "file_type" was also uneccessary, since every file that was entered from the camera was a jpg, and could have been included in the "README.md" instead. <br><br>
 Note: While we did not make a literal markdown file in Google Sheets, we worked with what time we had and did leave some clarifying notes and information about the data. <br><br>
 
