@@ -18,6 +18,8 @@ Punta Culebra had a few different sections of educational rooms; climate change 
 ## Day 3: Casco Viejo Again & The Symposium (7/10/2026)
 
 
+![Symposium Poster](https://stri.si.edu/sites/default/files/event/images/fellowsymp2026-04.jpg)
+
 ## Day 4: Flight and Welcome to Mt. Totumas (7/11/2026)
 
 
