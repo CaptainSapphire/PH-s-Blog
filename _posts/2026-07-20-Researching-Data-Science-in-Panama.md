@@ -1,3 +1,11 @@
+---
+layout: post
+title:UCSB STRI Advanced Data Science Researching Training in Panama
+date: 2026-07-20
+featured-img: 
+---
+
+
 # UCSB STRI Advanced Data Science Researching Training in Panama
 
 context
