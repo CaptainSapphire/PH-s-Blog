@@ -10,9 +10,10 @@ featured-img:
 
 context
 
-abbreviations, for reference
-UCSB = University of California, Santa Barbara
-STRI = Smithsonian Tropical Research Intitute
+**abbreviations, for reference**
+- UCSB = University of California, Santa Barbara
+- STRI = Smithsonian Tropical Research Intitute
+<br>
 
 ## Day 1: The Flight (7/8/2026)
 I departed with my father from my house closer to 4PM, and after picking up some in-n-out, I arrived at the airport promptly at 7PM; boarding started at 9PM, and we flew out at 10PM. I was the first to get through TSA and arrive at the gate, so I waited for the rest of the team in the lobby. On the plane, I started reading "Frankenstein" by Mary Shelley and did a bit of drawing; it was a six hour flight. 
