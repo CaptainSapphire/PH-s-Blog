@@ -36,8 +36,9 @@ Punta Culebra had a few different sections of educational rooms; climate change 
 ## Day 5: Queztal Trail Loop & Camera Trap Presentation (7/12/2026)
 
 
-## Day 6: Puma Trail, Device Deployment,  (7/13/2026)
+## Day 6: Puma Trail, Device Deployment,  Data Science Lecture #1 (7/13/2026)
 
+## Day 7: Big Tree Trail, Data Science Lecture #2, Night Hike  (7/13/2026)
 
 
 
