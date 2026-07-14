@@ -46,6 +46,7 @@ After the morning routine, at 8:30AM we departed for the Big Tree Loop Trail. On
 - At the very end of the trail, we saw the Quetzal, a colorful bird that is highly praised by the locals. I had the opportunity to get a picture using my phone through the scope the trail guide brought with us.
 <br><br>
 The morning hike this time served less to educate us about field data and more about the field itself; learning about what to observe, and practicing keeping an eye out for any motion or sound that could indicate life is nearby.
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_9494.png?raw=true" alt="Quetzal Picture" width = 500> <br> <br>
 
 /// insert pictures
 <br><br>
