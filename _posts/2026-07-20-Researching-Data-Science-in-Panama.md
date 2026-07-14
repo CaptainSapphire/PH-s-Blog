@@ -34,12 +34,20 @@ Punta Culebra had a few different sections of educational rooms; climate change 
 
 
 ## Day 5: Queztal Trail Loop & Camera Trap Presentation (7/12/2026)
-
+The daily morning from this day on is waking up at 7:00AM, having breakfast from 7:30AM-8:00AM, and going out to hike. 
 
 ## Day 6: Puma Trail, Device Deployment,  Data Science Lecture #1 (7/13/2026)
 
+
 ## Day 7: Big Tree Trail, Data Science Lecture #2, Night Hike  (7/13/2026)
+After the morning routine, at 8:30AM we departed for the Big Tree Loop Trail. On the trail, we saw spider monkeys, all types of bugs, and birds. 
+- We saw some spider monkeys a couple of times throughout the hike; they were energetic, but meant no harm.
+- We got a good view of the three-wattled bellbird, a bird popular amongst anyone who visits this region due to its unique call and appearance
+- At the very end of the trail, we saw the Quetzal, a colorful bird that is highly praised by the locals. I had the opportunity to get a picture using my phone through the scope the trail guide brought with us.
+<br><br>
+The morning hike this time served less to educate us about field data and more about the field itself; learning about what to observe, and practicing keeping an eye out for any motion or sound that could indicate life is nearby.
 
-
+/// insert pictures
+<br><br>
 
 # Final Thoughts & Conclusions
