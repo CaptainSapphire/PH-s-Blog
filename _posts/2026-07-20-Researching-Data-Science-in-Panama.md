@@ -23,7 +23,8 @@ I departed with my father from my house closer to 4PM, and after picking up some
 We landed, and took transportation to the Radission, the hotel we were staying in. We explored Casco Viejo for a while and had lunch; I had a couple of empanadas. From there, we went to the STRI "Auditorio Earl S. Tupper" (the STRI center) to pick up our guest passes. We then took a tour of [Punta Culebra](https://stri.si.edu/es/visitenos/punta-culebra), the nature and educational center.
 <br><br>
 Punta Culebra had a few different sections of educational rooms; climate change awareness/"Agua Salud" project, frogs, snake/shark/fossils (fluid-preserved specimen), outdoor nursing shark tank, outdoor butterfly habitat/bug dome, mini-aquarium/fish room, and finally there was the overlook. 
-
+**What I learned from each room:**
+- Agua Salud Project
 
 ## Day 3: Casco Viejo Again & The Symposium (7/10/2026)
 
