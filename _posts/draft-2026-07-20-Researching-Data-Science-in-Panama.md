@@ -40,7 +40,7 @@ The daily morning from this day on is waking up at 7:00AM, having breakfast from
 ## Day 6: Puma Trail, Device Deployment,  Data Science Lecture #1 (7/13/2026)
 
 
-## Day 7: Big Tree Trail, Data Science Lecture #2, Night Hike  (7/13/2026)
+## Day 7: Big Tree Trail, Data Science Lecture #2, Night Hike  (7/14/2026)
 After the morning routine, at 8:30AM we departed for the Big Tree Loop Trail. On the trail, we saw spider monkeys, all types of bugs, and birds. 
 - We saw some spider monkeys a couple of times throughout the hike; they were energetic, but meant no harm.
 - We got a good view of the three-wattled bellbird, a bird popular amongst anyone who visits this region due to its unique call and appearance
@@ -50,5 +50,28 @@ The morning hike this time served less to educate us about field data and more a
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_9494.png?raw=true" alt="Quetzal Picture" width = 500> <br> <br>
 
 <br><br>
+After lunch and a break, had our second discussion on R programming. This day focused on "For Loops" in R, which I had not heard of prior to a friend mentioning it once or twice. 
+```
+Lesson 2 Notes 7/14
+abstract = having variables in it; for loops abstract vectors
+
+iterating across items in a collection
+
+iterating across vector _---> interating across individual items across the vector
+
+all ways of measuring effort (nights_active)?
+
+presence-absence matrix = community matrix
+
+community = entire species list in this circumstance, but generally the whole in an area
+community matrix = presence and absence of a species of a particular site
+
+"site spice/spite species"?
+
+hard coded = coded in and not using a loop to pull the index
+
+```
+## Day 8: Cascado Trail, Data Science Lecture #3  (7/15/2026)
+
 
 # Final Thoughts & Conclusions
