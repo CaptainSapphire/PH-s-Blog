@@ -103,5 +103,11 @@ the data lifecycle
 - planning to collect data -> collecting -> analyzing -> storing -> publishing -> archiving in a final destination
 ```
 
+## Day 9: Cascado Trail, Data Science Lecture #3  (7/16/2026)
+
+## Day 10: Cascado Trail, Data Science Lecture #4  (7/17/2026)
+## Day 11: Cascado Trail, Data Science Lecture #5  (7/18/2026)
+## Day 12: Heading Home (7/19/2026)
+
 
 # Final Thoughts & Conclusions
