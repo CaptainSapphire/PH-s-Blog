@@ -59,19 +59,49 @@ iterating across items in a collection
 
 iterating across vector _---> interating across individual items across the vector
 
-all ways of measuring effort (nights_active)?
-
 presence-absence matrix = community matrix
 
 community = entire species list in this circumstance, but generally the whole in an area
 community matrix = presence and absence of a species of a particular site
 
-"site spice/spite species"?
-
 hard coded = coded in and not using a loop to pull the index
 
 ```
+For the homework, I found some ways to take on the challenge question and shared it with my peers. One of the peer-mentors said it was a creative solution, since I solved the question without using match() or factor(). While I will not publish my solution publically (as they likey reuse these repositories, and I wouldn't want to ruin it for next years students), I will say there are multiple ways of approaching this problem. Given we didn't learn match() or factor(), I had to work out my own solution. I feel that my skillset is more on the data science side than in ecology/biology, so it works out well that the other students here understand those logistics and can explain what certain things mean, while I can explain R. 
+<br>
+I really enjoy the programming sections of this course. The hiking and outdoorsy sections are wonderful and feel almost magical, but nothing feels better than getting the right answer on your own, after trying over and over for it. **After all, a winner is a loser who kept trying.**
+<br><br>
+After dinner, we went for a night hike! We stargazed for a bit before taking off, and then on the hike (which was a shortened version of the Queztal Loop) we saw some possums and frogs. It was really nice. 
+
 ## Day 8: Cascado Trail, Data Science Lecture #3  (7/15/2026)
+The morning hike was peaceful at the start, we passed by a couple of waterfalls, and then it was a lot of uphill. I didn't mind it much, as I was able to take it at my own pace, even though it was warming up/the sun was coming out. The data discussion was relatively short this day, but the most important concept covered was the various "join" functions, mutating datasets and merging columns or rows into a singular dataset. The challenge was short but incredibly satisfying, as I worked through it on my own again. While I finished around the same time, a bit earlier, than my peers, I feel that the rush to finish first is not a good measure of how much I understand the subject. My notes from the lecture are below, but most of my notes are in the assignment, where I commented on the example code.
+
+```
+Lesson 3 Notes, 7/15
+
+the thing right before the loop is create the place where you put the answer, and right after the loop is a line we were deposit the result in the correct location
+
+huge component of integrating data and whatnot is learning to juggle the various names (latin names, field names, etc)
+
+There's an entire key for every scientific name across many taxonomy birds, open source; reference for the final project
+
+the first argument of left join is the stuff you want to keep/grab 
+
+when you do a join, check what got messed up (records_named ,, filter and count )
+
+interjoin = only the elements that are common between datasets
+
+morphological trait (body trait)
+ecological traits are defined very loosely
+every species has traits
+
+icun status = how endangered a species is
+
+the data lifecycle
+- the many uses for data
+- the stages of work associated with using it across its lifespan
+- planning to collect data -> collecting -> analyzing -> storing -> publishing -> archiving in a final destination
+```
 
 
 # Final Thoughts & Conclusions
