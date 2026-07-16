@@ -39,11 +39,13 @@ The second day was focused entirely on the Annual STRI Symposium; research was p
 
 
 ## Day 4: Flight and Welcome to Mt. Totumas (7/11/2026)
-After getting up at 3:30AM and flying out to David, we took transportation to Mount Totumas. Upon arrival, I realized this trip would be incredibly unique, as everything in sight was bright, and saturated. To be honest, I think when I'm instagram "we were never meant to be exposed to such saturated colors all of the time." But it's truly magical to see bright greens and reds and blues in birds and lizards, something real, not artificial. <br><br>
+After getting up at 3:30AM and flying out to David, we took transportation to Mount Totumas. Upon arrival, I realized this trip would be incredibly unique, as everything in sight was bright, and saturated. To be honest, I think when I'm instagram "we were never meant to be exposed to such saturated colors all of the time." But it's truly magical to see bright greens and reds and blues in birds and lizards, something real, not artificial. We were given a warm welcome by the owner of the research site and area, and by the staff. <br><br>
 
 
 ## Day 5: Queztal Trail Loop & Camera Trap Presentation (7/12/2026)
-The daily morning from this day on is waking up at 7:00AM, having breakfast from 7:30AM-8:00AM, and going out to hike. 
+The daily morning from this day on is waking up at 7:00AM, having breakfast from 7:30AM-8:00AM, and going out to hike. The main lodge was surrounded by large colorful moths, which ended up being easily my favorite part of the trip. The moths are nocturnal, so if you pick them up during the day, they are too sleepy to care. They are soft and colorful, and none of them are toxic in any manner. For the few days that the moths were present, I would fawn over them. If I were to study something out here the way the students at the Symposium did, I would analyze moth behavior or fungi growth. 
+
+
 
 ## Day 6: Puma Trail, Device Deployment,  Data Science Lecture #1 (7/13/2026)
 
