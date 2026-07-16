@@ -42,6 +42,7 @@ The second day was focused entirely on the Annual STRI Symposium; research was p
 
 ## Day 4: Flight and Welcome to Mt. Totumas (7/11/2026)
 After getting up at 3:30AM and flying out to David, we took transportation to Mount Totumas. Upon arrival, I realized this trip would be incredibly unique, as everything in sight was bright, and saturated. To be honest, I think when I'm instagram "we were never meant to be exposed to such saturated colors all of the time." But it's truly magical to see bright greens and reds and blues in birds and lizards, something real, not artificial. We were given a warm welcome by the owner of the research site and area, and by the staff. <br><br>
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_8306.png?raw=true" alt="Colorful Lizard" width = 200> <br> <br>
 
 
 ## Day 5: Queztal Trail Loop & Camera Trap Presentation (7/12/2026)
