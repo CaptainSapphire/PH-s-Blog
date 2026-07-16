@@ -32,6 +32,7 @@ Punta Culebra had a few different sections of educational rooms; climate change 
 - The overlook was cool! I spotted two spotted-sting rays.
 <br><br>
 For dinner, we ate at [Canal House Panamá](https://maps.app.goo.gl/nghQkszpa16xg79Y7), and decompressed for the day. Bonus: There was a lot of stray cats, all of which were very friendly. 
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_8102.png?raw=true" alt="Two-toed Sloth" width = 500> <br> <br>
 
 ## Day 3: Casco Viejo Again & The Symposium (7/10/2026)
 The second day was focused entirely on the Annual STRI Symposium; research was presented across a range of topics. My favorites was the one about treehopper mating patterns and bats' hunting. The full schedule can be found [here](https://stri.si.edu/sites/default/files/fellows_symposium_2026v2.pdf). I had the opportunity to network and talk to professionals, of which was highly insightful into what my future could look like if I went into data science with environmental science/ecology. We went out to dinner at a fairly nice place on UCSB's dime, and slept early. 
