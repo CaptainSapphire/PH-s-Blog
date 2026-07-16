@@ -128,8 +128,12 @@ the data lifecycle
 ## Day 9: Audiomoth and Camera Recovery (7/16/2026)
 In the morning, we split into our groups and retrieved the audiomoths and cameras we had set out during the previous days hikes. Team #3, my team, had ours on Big Tree Loop, so hiked and retrieved the tools. During retrieval, we encountered a long black snake sprawled in the middle of the walkway; it was not aggressive and slithered away upon our presence. We reviewed our data: One of our cameras captured 2 pumas, and the audiomoths captured a wide range of birds. The rest of the day was dedicated to group work. 
 
+*I didn't get any pictures this day, so here's a screenshot of the program we use instead. :)*
+
 ## Day 10: Coffee Tour, Data Science Lecture #4  (7/17/2026)
+
 ## Day 11: Cascado Trail, Data Science Lecture #5  (7/18/2026)
+
 ## Day 12: Heading Home (7/19/2026)
 
 
