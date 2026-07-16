@@ -49,6 +49,7 @@ After getting up at 3:30AM and flying out to David, we took transportation to Mo
 The daily morning from this day on is waking up at 7:00AM, having breakfast from 7:30AM-8:00AM, and going out to hike. The main lodge was surrounded by large colorful moths, which ended up being easily my favorite part of the trip. The moths are nocturnal, so if you pick them up during the day, they are too sleepy to care. They are soft and colorful, and none of them are toxic in any manner. For the few days that the moths were present, I would fawn over them. If I were to study something out here the way the students at the Symposium did, I would analyze moth behavior or fungi growth. 
 <br><br>
 Anyway, the Queztal Loop was altered by the leaders of our group, and we ended up going through a pasture and seeing wild cows, horses, and mules. After lunch, Jefffery (the owner of this place) gave a presentation and shared with all the students footage of what the cameras have captured in the past; tapiours, a lot of little creatures, pumas, moutain lions; it is quite the range, although I don't remember all their names. 
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_0085.jpg?raw=true" alt="4 Students on the Pasture" width = 500> <br> <br>
 
 
 ## Day 6: Puma Trail, Device Deployment,  Data Science Lecture #1 (7/13/2026)
