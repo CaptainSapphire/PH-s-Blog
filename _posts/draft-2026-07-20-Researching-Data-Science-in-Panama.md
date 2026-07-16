@@ -24,7 +24,9 @@ We landed, and took transportation to the Radission, the hotel we were staying i
 <br><br>
 Punta Culebra had a few different sections of educational rooms; climate change awareness/"Agua Salud" project, frogs, snake/shark/fossils (fluid-preserved specimen), outdoor nursing shark tank, outdoor butterfly habitat/bug dome, mini-aquarium/fish room, and finally there was the overlook. 
 **What I learned from each room:**
-- Agua Salud Project
+- [Agua Salud Project](https://stri.si.edu/facility/agua-salud): Studying hydrology to further conservation efforts and biodiversity
+- The Ranas(Frogs) Room: I had the opportunity to see and learn about a range of different species of frogs found in Panama, as well as the fungi that threatens them. While I really like fungi, I did not think about their impact and presence effects the environment around them
+- The fossil room was really cool. The snakes kept in jars 
 
 ## Day 3: Casco Viejo Again & The Symposium (7/10/2026)
 
@@ -72,6 +74,7 @@ For the homework, I found some ways to take on the challenge question and shared
 I really enjoy the programming sections of this course. The hiking and outdoorsy sections are wonderful and feel almost magical, but nothing feels better than getting the right answer on your own, after trying over and over for it. **After all, a winner is a loser who kept trying.**
 <br><br>
 After dinner, we went for a night hike! We stargazed for a bit before taking off, and then on the hike (which was a shortened version of the Queztal Loop) we saw some possums and frogs. It was really nice. 
+
 
 ## Day 8: Cascado Trail, Data Science Lecture #3  (7/15/2026)
 The morning hike was peaceful at the start, we passed by a couple of waterfalls, and then it was a lot of uphill. I didn't mind it much, as I was able to take it at my own pace, even though it was warming up/the sun was coming out. The data discussion was relatively short this day, but the most important concept covered was the various "join" functions, mutating datasets and merging columns or rows into a singular dataset. The challenge was short but incredibly satisfying, as I worked through it on my own again. While I finished around the same time, a bit earlier, than my peers, I feel that the rush to finish first is not a good measure of how much I understand the subject. My notes from the lecture are below, but most of my notes are in the assignment, where I commented on the example code.
