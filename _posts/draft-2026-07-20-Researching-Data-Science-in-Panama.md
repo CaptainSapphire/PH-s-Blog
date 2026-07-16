@@ -49,7 +49,7 @@ Anyway, the Queztal Loop was altered by the leaders of our group, and we ended u
 
 
 ## Day 6: Puma Trail, Device Deployment,  Data Science Lecture #1 (7/13/2026)
-We took the Puma trail in the morning. I would say it was the hardest of the trails we did; while a trail we did later on was harder in terms of slope and length (Big Tree), but Puma was along a cliffside, and it was very easy to slip due to the heavy amount of mud. After lunch, my team deployed two audio moths and two cameras. My teammates were in charge of arming the cameras (it took more steps, so the two of them worked together on that) while I deployed the audioMoths. We deployed those on the Big Tree Trail, of which is a rigorous climb for me.  
+We took the Puma trail in the morning. I would say it was the hardest of the trails we did; while a trail we did later on was harder in terms of slope and length (Big Tree), but Puma was along a cliffside, and it was very easy to slip due to the heavy amount of mud. After lunch, my team deployed two audio moths and two cameras. My teammates were in charge of arming the cameras (it took more steps, so the two of them worked together on that) while I deployed the audioMoths. We deployed those on the Big Tree Trail, of which is a rigorous climb for me. The data science lecture was mostly review for me, but it was fun to solve the problems. 
 
 
 ## Day 7: Big Tree Trail, Data Science Lecture #2, Night Hike  (7/14/2026)
