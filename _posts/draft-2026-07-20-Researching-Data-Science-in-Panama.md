@@ -15,7 +15,7 @@ The coordinators of the ["University of California Santa Barbara (UCSB) Smithson
 <br>
 
 ## Day 1: The Flight (7/8/2026)
-I departed with my father from my house closer to 4PM, and after picking up some in-n-out, I arrived at the airport promptly at 7PM; boarding started at 9PM, and we flew out at 10PM. I was the first to get through TSA and arrive at the gate, so I waited for the rest of the team in the lobby. On the plane, I started reading "Frankenstein" by Mary Shelley and did a bit of drawing; it was a six hour flight. 
+I departed with my father from my house closer to 4PM, and after picking up some in-n-out, I arrived at the airport promptly at 7PM; boarding started at 9PM, and we flew out at 10PM. I was the first to get through TSA and arrive at the gate, so I waited for the rest of the team in the lobby. On the plane, I started reading "Frankenstein" by Mary Shelley and did a bit of drawing; it was a six hour flight. <br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_8082.png?raw=true" alt="Sunrise from the plane" width = 500> <br> <br>
 
 
@@ -31,7 +31,7 @@ Punta Culebra had a few different sections of educational rooms; climate change 
 - The aquarium room was educational in relation to the type of marine wildlife we could find in the area
 - The overlook was cool! I spotted two spotted-sting rays.
 <br><br>
-For dinner, we ate at [Canal House Panamá](https://maps.app.goo.gl/nghQkszpa16xg79Y7), and decompressed for the day. Bonus: There was a lot of stray cats, all of which were very friendly. 
+For dinner, we ate at [Canal House Panamá](https://maps.app.goo.gl/nghQkszpa16xg79Y7), and decompressed for the day. Bonus: There was a lot of stray cats, all of which were very friendly. <br><br>
 <img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_8102.png?raw=true" alt="Two-toed Sloth" width = 500> <br> <br>
 
 ## Day 3: Casco Viejo Again & The Symposium (7/10/2026)
