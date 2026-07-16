@@ -22,14 +22,19 @@ I departed with my father from my house closer to 4PM, and after picking up some
 ## Day 2: Casco Viejo & The Educational Center (7/9/2026)
 We landed, and took transportation to the Radission, the hotel we were staying in. We explored Casco Viejo for a while and had lunch; I had a couple of empanadas. From there, we went to the STRI "Auditorio Earl S. Tupper" (the STRI center) to pick up our guest passes. We then took a tour of [Punta Culebra](https://stri.si.edu/es/visitenos/punta-culebra), the nature and educational center.
 <br><br>
-Punta Culebra had a few different sections of educational rooms; climate change awareness/"Agua Salud" project, frogs, snake/shark/fossils (fluid-preserved specimen), outdoor nursing shark tank, outdoor butterfly habitat/bug dome, mini-aquarium/fish room, and finally there was the overlook. 
+Punta Culebra had a few different sections of educational rooms; climate change awareness/"Agua Salud" project, frogs, snake/shark/fossils (fluid-preserved specimen), outdoor nursing shark tank, outdoor butterfly habitat/bug dome, mini-aquarium/fish room, and finally there was the overlook. When we first arrived, we saw a two-toed sloth hanging out in one of the trees. 
 **What I learned from each room:**
 - [Agua Salud Project](https://stri.si.edu/facility/agua-salud): Studying hydrology to further conservation efforts and biodiversity
 - The Ranas(Frogs) Room: I had the opportunity to see and learn about a range of different species of frogs found in Panama, as well as the fungi that threatens them. While I really like fungi, I did not think about their impact and presence effects the environment around them
-- The fossil room was really cool. The snakes kept in jars 
+- The fossil room was really cool. The snakes kept in jars were especially interesting.
+- The butterfly enclosure was less educational but still cool to see nontheless.
+- The aquarium room was educational in relation to the type of marine wildlife we could find in the area
+- The overlook was cool! I spotted two spotted-sting rays.
+<br><br>
+For dinner, we ate at [Canal House Panamá](https://maps.app.goo.gl/nghQkszpa16xg79Y7), and decompressed for the day. Bonus: There was a lot of stray cats, all of which were very friendly. 
 
 ## Day 3: Casco Viejo Again & The Symposium (7/10/2026)
-
+The second day was focused entirely on the Annual STRI Symposium; research was presented across a range of topics. My favorites was the one about treehopper mating patterns and bats' hunting. 
 
 ![Symposium Poster](https://stri.si.edu/sites/default/files/event/images/fellowsymp2026-04.jpg)
 
@@ -106,9 +111,10 @@ the data lifecycle
 - planning to collect data -> collecting -> analyzing -> storing -> publishing -> archiving in a final destination
 ```
 
-## Day 9: Cascado Trail, Data Science Lecture #3  (7/16/2026)
+## Day 9: Audiomoth and Camera Recovery (7/16/2026)
+In the morning, we split into our groups and retrieved the audiomoths and cameras we had set out during the previous days hikes. Team #3, my team, had ours on Big Tree Loop, so hiked and retrieved the tools. During retrieval, we encountered a long black snake sprawled in the middle of the walkway; it was not aggressive and slithered away upon our presence. We reviewed our data: One of our cameras captured 2 pumas, and the audiomoths captured a wide range of birds. The rest of the day was dedicated to group work. 
 
-## Day 10: Cascado Trail, Data Science Lecture #4  (7/17/2026)
+## Day 10: Coffee Tour, Data Science Lecture #4  (7/17/2026)
 ## Day 11: Cascado Trail, Data Science Lecture #5  (7/18/2026)
 ## Day 12: Heading Home (7/19/2026)
 
