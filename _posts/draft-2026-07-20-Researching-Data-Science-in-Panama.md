@@ -34,9 +34,9 @@ Punta Culebra had a few different sections of educational rooms; climate change 
 For dinner, we ate at [Canal House Panamá](https://maps.app.goo.gl/nghQkszpa16xg79Y7), and decompressed for the day. Bonus: There was a lot of stray cats, all of which were very friendly. 
 
 ## Day 3: Casco Viejo Again & The Symposium (7/10/2026)
-The second day was focused entirely on the Annual STRI Symposium; research was presented across a range of topics. My favorites was the one about treehopper mating patterns and bats' hunting. 
+The second day was focused entirely on the Annual STRI Symposium; research was presented across a range of topics. My favorites was the one about treehopper mating patterns and bats' hunting. The full schedule can be found [here](https://stri.si.edu/sites/default/files/fellows_symposium_2026v2.pdf). I had the opportunity to network and talk to professionals, of which was highly insightful into what my future could look like if I went into data science with environmental science/ecology. We went out to dinner at a fairly nice place on UCSB's dime, and slept early. 
+<img src="https://stri.si.edu/sites/default/files/event/images/fellowsymp2026-04.jpg" alt="Symposium Poster" width = 500> <br> <br>
 
-![Symposium Poster](https://stri.si.edu/sites/default/files/event/images/fellowsymp2026-04.jpg)
 
 ## Day 4: Flight and Welcome to Mt. Totumas (7/11/2026)
 
