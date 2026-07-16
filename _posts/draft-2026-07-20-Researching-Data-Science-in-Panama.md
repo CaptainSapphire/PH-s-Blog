@@ -95,6 +95,7 @@ After dinner, we went for a night hike! We stargazed for a bit before taking off
 
 ## Day 8: Cascado Trail, Data Science Lecture #3  (7/15/2026)
 The morning hike was peaceful at the start, we passed by a couple of waterfalls, and then it was a lot of uphill. I didn't mind it much, as I was able to take it at my own pace, even though it was warming up/the sun was coming out. The data discussion was relatively short this day, but the most important concept covered was the various "join" functions, mutating datasets and merging columns or rows into a singular dataset. The challenge was short but incredibly satisfying, as I worked through it on my own again. While I finished around the same time, a bit earlier, than my peers, I feel that the rush to finish first is not a good measure of how much I understand the subject. My notes from the lecture are below, but most of my notes are in the assignment, where I commented on the example code.
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_9847.jpg?raw=true" alt="Me by the waterfall!" width = 300> <br> <br>
 
 ```
 Lesson 3 Notes, 7/15
