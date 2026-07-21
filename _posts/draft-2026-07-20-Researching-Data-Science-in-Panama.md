@@ -135,6 +135,11 @@ In the morning, we split into our groups and retrieved the audiomoths and camera
 ## Day 11: Cascado Trail, Data Science Lecture #5  (7/18/2026)
 
 ## Day 12: Heading Home (7/19/2026)
-
+The goodbyes were more sentimental than I would have ever conceive. We had done so much as a group together, and I am really proud and grateful for everyone. :)
 
 # Final Thoughts & Conclusions
+Firstly, a huge thanks to Mario and Dr. White, for teaching us so much about environmental science, ecology, and data science. <br>
+Thank you to Brandon Leon and Melanie for making this possible as coordinators at UCSB/with MESA. <br>
+Thank you to the staff at the Mount Totumas Lodge for caring for us and providing us with more than we could ever ask for. <br>
+Thank you to the peer mentors for all of your advisement and help. <br> 
+Thank you to all of the students, all of you were lovely to work with and I enjoyed every minute with you all. <br>
