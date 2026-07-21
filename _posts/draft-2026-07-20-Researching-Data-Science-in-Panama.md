@@ -131,6 +131,7 @@ In the morning, we split into our groups and retrieved the audiomoths and camera
 *I didn't get any pictures this day, so here's a screenshot of the program we use instead. :)*
 
 ## Day 10: Coffee Tour, Data Science Lecture #4  (7/17/2026)
+I had coffee for the first time! I did not 
 
 ## Day 11: Cascado Trail, Data Science Lecture #5  (7/18/2026)
 
