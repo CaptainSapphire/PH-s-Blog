@@ -143,3 +143,5 @@ Thank you to Brandon Leon and Melanie for making this possible as coordinators a
 Thank you to the staff at the Mount Totumas Lodge for caring for us and providing us with more than we could ever ask for. <br>
 Thank you to the peer mentors for all of your advisement and help. <br> 
 Thank you to all of the students, all of you were lovely to work with and I enjoyed every minute with you all. <br>
+<br>
+**I had the opportunity to learn all about research, networking, environmental science/ecology, and data science.**
