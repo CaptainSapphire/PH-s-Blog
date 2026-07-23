@@ -21,5 +21,7 @@ Round 4 was about interviewing, and the major tips was:
 - Uniqueness of background provides value
 
 ## Group Discussion
+Group discussion was interesting! When asked how else to network, I answered that people should network through clubs, college programs, and in-person communities!
 
 # Final Thoughts
+I thoroughly enjoyed this opportunity, and I wish I could write more! I unfortunately had to delay this post because I was in Panama and just got back this week. See you next week! 
