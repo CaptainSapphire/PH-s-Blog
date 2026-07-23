@@ -1,3 +1,10 @@
+---
+layout: post
+title: GWC Summer 2026 Apollo Meetup in LA
+date: 2026-07-24
+featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_2271.jpg?raw=true
+---
+
 # Girls Who Code Apollo Meetup 
 About a month ago, Girls Who Code hosted their meetup in LA with Apollo; a speed networking event that provides any 18+ member of the Girls Who Code community to network and learn! While the event was a month ago, I will recap the events to the best of my ability. 
 
