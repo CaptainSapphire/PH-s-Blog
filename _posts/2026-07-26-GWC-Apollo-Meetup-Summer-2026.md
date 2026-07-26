@@ -1,8 +1,8 @@
 ---
 layout: post
 title: GWC Summer 2026 Apollo Meetup in LA
-date: 2026-07-24
-featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/IMG_2271.jpg?raw=true
+date: 2026-07-26
+featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/DSC04555-2.png?raw=true
 ---
 
 # Girls Who Code Apollo Meetup 
@@ -32,3 +32,4 @@ Group discussion was interesting! When asked how else to network, I answered tha
 
 # Final Thoughts
 I thoroughly enjoyed this opportunity, and I wish I could write more! I unfortunately had to delay this post because I was in Panama and just got back this week. See you next week! 
+!["group picture"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/DSC04555-2.png?raw=true)
