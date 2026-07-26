@@ -131,9 +131,9 @@ In the morning, we split into our groups and retrieved the audiomoths and camera
 *I didn't get any pictures this day, so here's a screenshot of the program we use instead. :)*
 
 ## Day 10: Coffee Tour, Data Science Lecture #4  (7/17/2026)
-I had coffee for the first time! I had not had coffee until that point, but it was a good time to try coffee for the first time. 
+I had coffee for the first time! I had not had coffee until that point, but it was a good time to try coffee for the first time. The data science portion we got into our groups and cleaned the data. My group was finally able to get a working version of the audioMoth data. The main problem we were having with the audioMoth data was that there was just too much of it; the BirdNet Analyzer gave us 3,928 rows across all of the spreadsheets, so we had the filter by confidence and check how accurate the rows were. 
 
-## Day 11:The Day off  (7/18/2026)
+## Day 11: The Day off  (7/18/2026)
 The day was quiet, and while we did make progress by doing independent work on our project, we had the freedom to explore. Many of our members hiked to the hot springs, although I stayed back with some of the girls and enjoyed the hot tub. 
 
 ## Day 12: Heading Home (7/19/2026)
