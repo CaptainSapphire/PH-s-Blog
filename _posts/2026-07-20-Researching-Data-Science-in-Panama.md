@@ -5,7 +5,7 @@ date: 2026-07-20
 featured-img: https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/68a62613-3139-49ee-80d6-a32b31376e79.jpg?raw=true
 ---
 
-# UCSB STRI Advanced Data Science Researching Training in Panama
+# UCSB STRI Advanced Data Science Research Training in Panama
 
 The coordinators of the ["University of California Santa Barbara (UCSB) Smithsonian Scholars Program"](https://oep.ucsb.edu/programs/smithsonian-scholars-program) came to Moorpark College for an informational session, of which I attended, and then applied. As stated on the official website, "The program aims to engage diverse students in experiential learning centered on multi-disciplinary conservation strategies, biodiversity research, and green careers in STEM." For about 4 weeks, we have discussions, online lectures, and assignments to learn [R programming](https://www.r-project.org/) in [Posit cloud](https://posit.cloud/). The students accepted into the advanced section of the program go to Panama for one week, where they are to learn in depth about the applications of data science in field work, as well as how to observe with the lens of computational analysis. 
 
