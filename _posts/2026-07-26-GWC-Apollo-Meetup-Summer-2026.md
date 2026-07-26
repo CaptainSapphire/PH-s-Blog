@@ -32,4 +32,5 @@ Group discussion was interesting! When asked how else to network, I answered tha
 
 # Final Thoughts
 I thoroughly enjoyed this opportunity, and I wish I could write more! I unfortunately had to delay this post because I was in Panama and just got back this week. See you next week! 
-!["group picture"](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/DSC04555-2.png?raw=true)
+<img src="https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/DSC04555-2.png?raw=true" alt="Group Picture" width = 600> <br> <br>
+
