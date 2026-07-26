@@ -131,9 +131,10 @@ In the morning, we split into our groups and retrieved the audiomoths and camera
 *I didn't get any pictures this day, so here's a screenshot of the program we use instead. :)*
 
 ## Day 10: Coffee Tour, Data Science Lecture #4  (7/17/2026)
-I had coffee for the first time! I did not 
+I had coffee for the first time! I had not had coffee until that point, but it was a good time to try coffee for the first time. 
 
-## Day 11: Cascado Trail, Data Science Lecture #5  (7/18/2026)
+## Day 11:The Day off  (7/18/2026)
+The day was quiet, and while we did make progress by doing independent work on our project, we had the freedom to explore. Many of our members hiked to the hot springs, although I stayed back with some of the girls and enjoyed the hot tub. 
 
 ## Day 12: Heading Home (7/19/2026)
 The goodbyes were more sentimental than I would have ever conceive. We had done so much as a group together, and I am really proud and grateful for everyone. :)
