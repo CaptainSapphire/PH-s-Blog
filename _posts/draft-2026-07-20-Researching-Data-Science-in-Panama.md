@@ -146,4 +146,4 @@ Thank you to the staff at the Mount Totumas Lodge for caring for us and providin
 Thank you to the peer mentors for all of your advisement and help. <br> 
 Thank you to all of the students, all of you were lovely to work with and I enjoyed every minute with you all. <br>
 <br>
-**I had the opportunity to learn all about research, networking, environmental science/ecology, and data science.**
+![](https://github.com/CaptainSapphire/PH-s-Blog/blob/main/assets/July%202026/68a62613-3139-49ee-80d6-a32b31376e79.jpg?raw=true)
