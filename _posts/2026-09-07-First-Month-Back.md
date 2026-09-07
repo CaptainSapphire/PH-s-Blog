@@ -1,3 +1,9 @@
+---
+layout: post
+title: First Month Back: A college sophomore month recap
+date: 2026-09-07
+featured-img: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Moorpark_College_Raider_Walk.jpg/250px-Moorpark_College_Raider_Walk.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
+---
 # First Month Back: A college sophomore month recap
 The college semester has started for many, including for myself, as I enter my second year! 
 
