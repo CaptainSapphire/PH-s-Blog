@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Month Back: A college sophomore month recap
+title: First Month Back, A college sophomore month recap
 date: 2026-09-07
 ---
 # First Month Back: A college sophomore month recap
